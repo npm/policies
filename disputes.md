@@ -1,10 +1,10 @@
 # Dispute Resolution
 
-This describes the steps that you should take to resolve module name
+This document describes the steps that you should take to resolve module name
 disputes with other npm publishers.
 
-This is a clarification of the acceptable behavior outlined in the npm
-Code of Conduct, and nothing in this document should be interpreted to
+This document is a clarification of the acceptable behavior outlined in the [npm
+Code of Conduct](conduct.md), and nothing in this document should be interpreted to
 contradict any aspect of the npm Code of Conduct.
 
 ## tl;dr
@@ -62,7 +62,7 @@ However, Joe's appropriate course of action in each case is the same.
 
 ## Reasoning
 
-in almost every case so far, the parties involved have been able to
+In almost every case so far, the parties involved have been able to
 reach an amicable resolution without any major intervention.  Most
 people really do want to be reasonable, and are probably not even
 aware that they're in your way.
@@ -113,3 +113,4 @@ License](http://creativecommons.org/licenses/by-sa/4.0/).
 ## Changes
 
 * `2014-05-11` Ported from npm client documentation to standalone doc
+* `2014-05-12` Fixes a couple of typos and adds link to Code of Conduct
