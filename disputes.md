@@ -21,41 +21,41 @@ There sometimes arise cases where a user publishes a module, and then
 later, some other user wants to use that name.  Here are some common
 ways that happens (each of these is based on actual events.)
 
-1. Joe writes a JavaScript module `foo`, which is not node-specific.
-   Joe doesn't use node at all.  Bob wants to use `foo` in node, so he
-   wraps it in an npm module.  Some time later, Joe starts using node,
+1. Alice writes a JavaScript module `foo`, which is not node-specific.
+   Alice doesn't use node at all.  Bob wants to use `foo` in node, so he
+   wraps it in an npm module.  Some time later, Alice starts using node,
    and wants to take over management of his program.
 2. Bob writes an npm module `foo`, and publishes it.  Perhaps much
-   later, Joe finds a bug in `foo`, and fixes it.  He sends a pull
+   later, Alice finds a bug in `foo`, and fixes it.  He sends a pull
    request to Bob, but Bob doesn't have the time to deal with it,
    because he has a new job and a new baby and is focused on his new
-   erlang project, and kind of not involved with node any more.  Joe
+   erlang project, and kind of not involved with node any more.  Alice
    would like to publish a new `foo`, but can't, because the name is
    taken.
 3. Bob writes a 10-line flow-control library, and calls it `foo`, and
    publishes it to the npm registry.  Being a simple little thing, it
-   never really has to be updated.  Joe works for Foo Inc, the makers
+   never really has to be updated.  Alice works for Foo Inc, the makers
    of the critically acclaimed and widely-marketed `foo` JavaScript
    toolkit framework.  They publish it to npm as `foojs`, but people
    are routinely confused when `npm install foo` is some different
    thing.
 4. Bob writes a parser for the widely-known `foo` file format, because
    he needs it for work.  Then, he gets a new job, and never updates
-   the prototype.  Later on, Joe writes a much more complete `foo`
+   the prototype.  Later on, Alice writes a much more complete `foo`
    parser, but can't publish, because Bob's `foo` is in the way.
 
-The validity of Joe's claim in each situation can be debated.
-However, Joe's appropriate course of action in each case is the same.
+The validity of Alice's claim in each situation can be debated.
+However, Alice's appropriate course of action in each case is the same.
 
-1. `npm owner ls foo`.  This will tell Joe the email address of the
+1. `npm owner ls foo`.  This will tell Alice the email address of the
    owner (Bob).
-2. Joe emails Bob, explaining the situation **as respectfully as
+2. Alice emails Bob, explaining the situation **as respectfully as
    possible**, and what he would like to do with the module name.  He
    adds the npm support staff <support@npmjs.com> to the CC list of
    the email.  Mention in the email that Bob can run `npm owner add
-   joe foo` to add Joe as an owner of the `foo` package.
+   joe foo` to add Alice as an owner of the `foo` package.
 3. After a reasonable amount of time, if Bob has not responded, or if
-   Bob and Joe can't come to any sort of resolution, email support
+   Bob and Alice can't come to any sort of resolution, email support
    <support@npmjs.com> and we'll sort it out.  ("Reasonable" is
    usually at least 4 weeks, but extra time is allowed around common
    holidays.)
