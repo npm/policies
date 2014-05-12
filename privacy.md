@@ -69,7 +69,7 @@ at the [Google Analytics privacy
 policy](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad).
 
 You can opt out of Google Analytics entirely with the [Google
-Analytics out-out browser
+Analytics opt-out browser
 addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
 ## Collection of Personally Identifying Information
