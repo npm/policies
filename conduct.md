@@ -52,13 +52,18 @@ We are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender, sexual orientation,
 disability, ethnicity, religion, or similar personal characteristic.
 
-Respect that people have differences of opinion and that every design
-or implementation choice carries a trade-off and numerous costs. There
-is seldom a right answer.
+We ask that you please respect that people have differences of opinion
+and that every design or implementation choice carries a trade-off and
+numerous costs.  There is seldom a single right answer.
 
-On IRC, please avoid using overtly sexual nicknames or other nicknames
-that might detract from a friendly, safe and welcoming environment for
-all.
+Please avoid using overtly sexual nicknames or other nicknames that
+might detract from a friendly, safe, and welcoming environment for all.
+
+Disputes must be handled respectfully, according to the terms
+described in the npm Dispute Resolution document.
+
+Any spamming, trolling, flaming, baiting, or other attention-stealing
+behaviour is not welcome, and will not be tolerated.
 
 Harassing other users of the Service is never tolerated, whether via
 public or private media.
@@ -66,17 +71,10 @@ public or private media.
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender, sexual orientation,
 race, religion, disability; inappropriate use of nudity and/or sexual
-images in public spaces (including presentation slides); threats of
-physical or non-physical harm; deliberate intimidation, stalking or
-following; harassing photography or recording; sustained disruption of
-talks or other events; inappropriate physical contact, and unwelcome
-sexual attention.
-
-Disputes must be handled respectfully, according to the terms
-described in the npm Dispute Resolution document.
-
-Any spamming, trolling, flaming, baiting, or other attention-stealing
-behaviour is not welcome, and will not be tolerated.
+images in public spaces; threats of physical or non-physical harm;
+deliberate intimidation, stalking or following; harassing photography
+or recording; sustained disruption of talks or other events;
+inappropriate physical contact, and unwelcome sexual attention.
 
 ## Acceptable Package Content
 
@@ -103,11 +101,13 @@ abusive, inappropriate, or harassing content.
 
 ## Consequences
 
-All content published to the Service is hosted at the sole discretion
-of the npm administrators.
+All content published to the Service, including user account
+credentials, is hosted at the sole discretion of the npm
+administrators.
 
-Unacceptable behavior from any community member, including sponsors
-and those with decision-making authority, will not be tolerated.
+Unacceptable behavior from any community member, including sponsors,
+employees, customers, or others with decision-making authority, will
+not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply
 immediately.
