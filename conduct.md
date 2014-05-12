@@ -24,10 +24,10 @@ tolerated.
 ## Scope
 
 We expect all members of the npm community, including paid and unpaid
-agents, administrators, and users, and customers of npm, Inc., to
-abide by this Code of Conduct at all times in all npm community
-venues, online and in person, and in one-on-one communications
-pertaining to npm business.
+agents, administrators, users, and customers of npm, Inc., to abide by
+this Code of Conduct at all times in all npm community venues, online
+and in person, and in one-on-one communications pertaining to npm
+business.
 
 This policy covers the usage of the npm registry, as well as the npm
 website, npm related events, and any other services offered by or on
@@ -63,14 +63,14 @@ all.
 Harassing other users of the Service is never tolerated, whether via
 public or private media.
 
-Harassment includes: harmful or prejudicial verbal or written comments
-related to gender, sexual orientation, race, religion, disability;
-inappropriate use of nudity and/or sexual images in public spaces
-(including presentation slides); threats of physical or non-physical
-harm; deliberate intimidation, stalking or following; harassing
-photography or recording; sustained disruption of talks or other
-events; inappropriate physical contact, and unwelcome sexual
-attention.
+Harassment includes, but is not limited to: harmful or prejudicial
+verbal or written comments related to gender, sexual orientation,
+race, religion, disability; inappropriate use of nudity and/or sexual
+images in public spaces (including presentation slides); threats of
+physical or non-physical harm; deliberate intimidation, stalking or
+following; harassing photography or recording; sustained disruption of
+talks or other events; inappropriate physical contact, and unwelcome
+sexual attention.
 
 Disputes must be handled respectfully, according to the terms
 described in the npm Dispute Resolution document.
@@ -82,10 +82,10 @@ behaviour is not welcome, and will not be tolerated.
 
 Packages published to the Service must be created using the npm
 command-line client, or a functionally equivalent implementation.  For
-example, a "package" must not be a PNG or JPEG image, movie file, text
-document.  Using the Service as a personal general-purpose database is
-also not allowed for this reason.  Packages should be npm packages,
-and nothing else.
+example, a "package" must not be a PNG or JPEG image, movie file, or
+text document.  Using the Service as a personal general-purpose
+database is also not allowed for this reason.  Packages should be npm
+packages, and nothing else.
 
 Packages must contain some functionality.  "Squatting", that is,
 publishing an empty package to "reserve" a name, is not allowed.
