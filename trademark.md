@@ -34,7 +34,7 @@ open source package.
 npm, Inc. is a company co-founded by npm's creator, Isaac Schlueter,
 along with Laurie Voss and Rod Boothby.
 
-npm, Inc. is dedicated to the long term success of the Javascript
+npm, Inc. is dedicated to the long term success of the JavaScript
 community, which includes the success of the open-source Node.js and
 npm projects.
 
