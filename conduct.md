@@ -49,8 +49,9 @@ the npm administrators.
 There is never a good reason to be rude to other users.
 
 We are committed to providing a friendly, safe and welcoming
-environment for all, regardless of gender, sexual orientation,
-disability, ethnicity, religion, or similar personal characteristic.
+environment for all, regardless of gender identity, sexual
+orientation, disability, ethnicity, religion, or similar personal
+characteristic.
 
 We ask that you please respect that people have differences of opinion
 and that every design or implementation choice carries a trade-off and
@@ -69,12 +70,13 @@ Harassing other users of the Service is never tolerated, whether via
 public or private media.
 
 Harassment includes, but is not limited to: harmful or prejudicial
-verbal or written comments related to gender, sexual orientation,
-race, religion, disability; inappropriate use of nudity and/or sexual
-images in public spaces; threats of physical or non-physical harm;
-deliberate intimidation, stalking or following; harassing photography
-or recording; sustained disruption of talks or other events;
-inappropriate physical contact, and unwelcome sexual attention.
+verbal or written comments related to gender identity, sexual
+orientation, race, religion, disability; inappropriate use of nudity
+and/or sexual images in public spaces; threats of physical or
+non-physical harm; deliberate intimidation, stalking or following;
+harassing photography or recording; sustained disruption of talks or
+other events; inappropriate physical contact, and unwelcome sexual
+attention.
 
 ## Acceptable Package Content
 
