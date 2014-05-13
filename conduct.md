@@ -80,6 +80,10 @@ attention.
 
 ## Acceptable Package Content
 
+The Service administrators reserve the right to make judgement calls
+about what is and isn't appropriate in published packages.  These are
+guidelines to help you be successful in our community.
+
 Packages published to the Service must be created using the npm
 command-line client, or a functionally equivalent implementation.  For
 example, a "package" must not be a PNG or JPEG image, movie file, or
@@ -95,8 +99,11 @@ which violates software license agreements or other intellectual
 property restrictions.  For example, redistributing an MIT-licensed
 module with the copyright notice removed, would not be allowed.
 
-Packages must not be malware.  A package which is designed to exploit
-or damage the machine on which it is installed, is not allowed.
+Packages must not be malware.  For example, a package which is
+designed to maliciously exploit or damage computer systems, is not
+allowed.  However, an explicitly documented penetration testing
+library designed to be used for white-hat security research would most
+likely be fine.
 
 Package name, description, and other visible metadata must not include
 abusive, inappropriate, or harassing content.
@@ -137,6 +144,11 @@ address a grievance related to an abuse report.
 If this is the initial report of a problem, please include as much
 detail as possible.  It is easiest for us to address issues when we
 have more context.
+
+You are also encouraged to contact us if you are curious about
+something that might be "on the line" between appropriate and
+inappropriate content.  We are happy to provide guidance to help you
+be a successful part of our community.
 
 ## Credit and License
 
