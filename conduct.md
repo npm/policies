@@ -51,17 +51,20 @@ There is never a good reason to be rude to other users.
 We are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender identity, sexual
 orientation, disability, ethnicity, religion, or similar personal
-characteristic.
+characteristics.
 
 We ask that you please respect that people have differences of opinion
-and that every design or implementation choice carries a trade-off and
-numerous costs.  There is seldom a single right answer.
+regarding technical choices, and that every design or implementation
+choice carries a trade-off and numerous costs.  There is seldom a
+single right answer.  A difference of technology preferences is not a
+license to be rude.
 
-Please avoid using overtly sexual nicknames or other nicknames that
-might detract from a friendly, safe, and welcoming environment for all.
+Please avoid using overtly sexual package names, nicknames, or other
+identifiers that might detract from a friendly, safe, and welcoming
+environment for all.
 
-Disputes must be handled respectfully, according to the terms
-described in the npm Dispute Resolution document.
+Disputes over package rights must be handled respectfully, according
+to the terms described in the npm Dispute Resolution document.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing
 behaviour is not welcome, and will not be tolerated.
