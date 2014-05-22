@@ -142,8 +142,9 @@ USA
 Although most changes are likely to be minor, npm, Inc. may change its
 Privacy Policy from time to time, and in npm, Inc.’s sole discretion.
 Any such changes will be posted on [the npm
-blog](http://blog.npmjs.org/), and a summary of changes will be
-appended to this page.
+blog](http://blog.npmjs.org/), and the detailed history of changes can
+be found in [the git repository history for this
+document](https://github.com/npm/policies/commits/master/privacy.md).
 
 npm, Inc. encourages visitors to frequently check this page for any
 changes to its Privacy Policy. Your continued use of the npmjs.org
@@ -159,7 +160,3 @@ used with permission.
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
 License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-## Changes
-
-* `2014-05-11` First draft

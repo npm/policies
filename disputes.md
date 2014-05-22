@@ -97,10 +97,18 @@ including but not limited to:
 6. Doing weird things with the registry, like using it as your own
    personal application database or otherwise putting non-packagey
    things into it.
-7. Other things forbidden by the npm Code of Conduct, such as hateful
-   language, pornographic content, or harassment.
+7. Other things forbidden by the npm [Code of
+   Conduct](https://github.com/npm/policies/blob/master/conduct.md)
+   such as hateful language, pornographic content, or harassment.
 
 If you see bad behavior like this, please report it right away.
+
+## Changes
+
+This is a living document and may be updated from time to time.
+Please refer to the [git history for this
+document](https://github.com/npm/policies/commits/master/disputes.md)
+to view the changes.
 
 ## License
 
@@ -109,8 +117,3 @@ Copyright (C) npm, Inc., All rights reserved
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
 License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-## Changes
-
-* `2014-05-11` Ported from npm client documentation to standalone doc
-* `2014-05-12` Fixes a couple of typos and adds link to Code of Conduct

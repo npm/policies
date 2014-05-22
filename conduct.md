@@ -153,6 +153,13 @@ something that might be "on the line" between appropriate and
 inappropriate content.  We are happy to provide guidance to help you
 be a successful part of our community.
 
+## Changes
+
+This is a living document and may be updated from time to time.
+Please refer to the [git history for this
+document](https://github.com/npm/policies/commits/master/conduct.md)
+to view the changes.
+
 ## Credit and License
 
 This Code of Conduct borrows heavily from the Stumptown Syndicate
@@ -163,7 +170,3 @@ Conduct](https://github.com/mozilla/rust/wiki/Note-development-policy#conduct).
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
 License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-## Changes
-
-* `2014-05-11` First draft
