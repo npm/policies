@@ -102,7 +102,30 @@ computers should set their browsers to refuse cookies before using
 npm, Inc.’s websites, with the drawback that certain features of npm,
 Inc.’s websites may not function properly without the aid of cookies.
 
-## Disclosure of Information
+## Packages Published to The npm Registry
+
+Most packages published to the npm registry are open source, and
+freely available to all users of the npm service.  We show basic
+package metadata on the npm website, in a variety of forms, so as to
+assist users in finding a package that meets their needs.
+
+We may also inspect the contents of published packages to investigate
+any claims of malicious contents, or to debug problems that may occur
+in the process of running the service.  For open source packages, we
+may also analyze the contents of published packages in an automated
+fashion to gain information about how people use npm packages.  This
+information may be disclosed to third parties on our website, or in
+other forms.  (Note that it is already freely available to anyone who
+downloads the packages themselves.)
+
+If a package is published to the npm registry in such a way as to
+restrict read-access to the package, then we may still need to inspect
+the package contents on rare occasions.  However, we never disclose
+information about a private package--including the fact that the
+package exists--to third parties who are not granted access to the
+package by the package's owners.
+
+## Disclosure of Log Information
 
 All user information is retained in raw form for such time as deemed
 appropriate by npm, Inc.  It is shared with employees and contractors
