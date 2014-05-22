@@ -101,7 +101,9 @@ including but not limited to:
    Conduct](https://github.com/npm/policies/blob/master/conduct.md)
    such as hateful language, pornographic content, or harassment.
 
-If you see bad behavior like this, please report it right away.
+If you see bad behavior like this, please report it to <abuse@npmjs.com>
+right away.  **You are never expected to resolve abusive behavior on
+your own.**  We are here to help.
 
 ## Changes
 
