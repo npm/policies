@@ -53,12 +53,12 @@ developed this trademark usage policy with the following goals in
 mind:
 
 * We'd like to make it easy for anyone to use the npm name or logo for
-  community-oriented efforts that help spread and improve npm.</br>
+  community-oriented efforts that help spread and improve npm.
 * We'd like to make it clear how npm-related businesses and projects
-  can (and cannot) use the npm name and logo.</br>
+  can (and cannot) use the npm name and logo.
 * We'd like to make it hard for anyone to use the npm name and logo to
   unfairly profit from, trick, or confuse people who are looking for
-  official npm resources.</br>
+  official npm resources.
 
 ## Nominative use - No need to type ™ on twitter
 
@@ -110,7 +110,7 @@ the word "registry" or the phrase "public registry".</LI>
 describe it as "private registry for npm packages" or as a
 npm-registry proxy when first referring to it in the text.</LI>
 <LI>References to the owner of the npm client software and the
-operator of the npm public registry should be to npm, Inc.</LI></br>
+operator of the npm public registry should be to npm, Inc.</LI>
 <LI>Any materials referring to npm should include the following notice
 in the fine print: "npm is a trademark of npm, Inc."</LI></OL>
 
@@ -121,7 +121,7 @@ Examples of ways to use the term "npm" in a name
 * <Your software co's> private registry for npm  
   e.g. Purple Unicorn Inc. private registry server for npm
 
-An examples of away to refer to npm when describing your solution:
+An example of a way to refer to npm when describing your solution:
 
 * **Paypal/Kappa, a hierarchical npm-registry proxy**
 
@@ -131,8 +131,8 @@ An examples of away to refer to npm when describing your solution:
 
     Explaining that something is a proxy of the npm registry is OK.
 
-When in doubt about your use of the npm name or logo, please contact
-npm, Inc. for clarification.
+When in doubt about your use of the npm name or logo, please [contact
+npm, Inc.](http://www.npmjs.com/contact) for clarification.
 
 ## The npm Logo
 
@@ -140,7 +140,14 @@ Our npm Logo is very recognizable and deserves special treatment. The
 npm Logo signifies us, or a special relationship with us, and you
 should use it only with our permission. Since the goal is to avoid
 confusion about you being us, or your relationship with us, context
-counts, and we will consider requests on a case-by-case basis.
+counts. We will consider requests on a case-by-case basis.
+
+## Changes
+
+This is a living document and may be updated from time to time.
+Please refer to the [git history for this
+document](https://github.com/npm/policies/commits/master/trademark.md)
+to view the changes.
 
 ## License
 
