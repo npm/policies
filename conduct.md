@@ -14,7 +14,8 @@ tolerated.
 
 ## tl;dr
 
-* Be nice.
+* Be respectful of npm users.
+* We're here to help: <abuse@npmjs.com>
 * Abusive behavior is not ever tolerated.
 * Data published to npm is hosted at the pleasure of the service
   administrators, and may be removed.
@@ -74,12 +75,12 @@ public or private media.
 
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender identity, sexual
-orientation, race, religion, disability; inappropriate use of nudity
-and/or sexual images in public spaces; threats of physical or
-non-physical harm; deliberate intimidation, stalking or following;
-harassing photography or recording; sustained disruption of talks or
-other events; inappropriate physical contact, and unwelcome sexual
-attention.
+orientation, race, religion, disability; inappropriate use of nudity,
+sexual images, and/or sexually explicit lanugage in public spaces;
+threats of physical or non-physical harm; deliberate intimidation,
+stalking or following; harassing photography or recording; sustained
+disruption of talks or other events; inappropriate physical contact,
+and unwelcome sexual attention.
 
 ## Acceptable Package Content
 
