@@ -59,10 +59,6 @@ choice carries a trade-off and numerous costs.  There is seldom a
 single right answer.  A difference of technology preferences is not a
 license to be rude.
 
-Please avoid using overtly sexual package names, nicknames, or other
-identifiers that might detract from a friendly, safe, and welcoming
-environment for all.
-
 Disputes over package rights must be handled respectfully, according
 to the terms described in the npm Dispute Resolution document.
 
@@ -71,6 +67,10 @@ behaviour is not welcome, and will not be tolerated.
 
 Harassing other users of the Service is never tolerated, whether via
 public or private media.
+
+Avoid using offensive or harassing package names, nicknames, or other
+identifiers that might detract from a friendly, safe, and welcoming
+environment for all.
 
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender identity, sexual
