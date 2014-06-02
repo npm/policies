@@ -34,7 +34,7 @@ website, npm related events, and any other services offered by or on
 behalf of npm, Inc. (collectively, the "Service").  It also applies to
 behavior in the context of the npm Open Source project communities,
 including but not limited to public GitHub repositories, IRC channels,
-mailing lists, and public events.
+social media, mailing lists, and public events.
 
 This Code of Conduct is in addition to, and does not in any way
 nullify or invalidate, any other terms or conditions related to use of
