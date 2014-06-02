@@ -1,6 +1,6 @@
 # npm Privacy Policy
 
-We track data about users of the npmjs.org website and the npm public
+We track data about users of the npm website and the npm public
 registry.
 
 This page tells you what we track, and what we do with it.
@@ -41,15 +41,15 @@ module.
 Note that different versions of npm may send different information, so
 some of the fields may not be tracked for all requests.
 
-## The npmjs.org Website
+## The npm Website
 
 Like most website operators, npm, Inc. collects
 non-personally-identifying information of the sort that web browsers
 and servers typically make available, such as the browser type,
 language preference, referring site, and the date and time of each
 visitor request. npm, Inc.’s purpose in collecting non-personally
-identifying information is to better understand how npmjs.org’s
-visitors use its website. From time to time, npm, Inc. may release
+identifying information is to better understand how npm’s visitors use
+its website. From time to time, npm, Inc. may release
 non-personally-identifying information in the aggregate, e.g., by
 publishing a report on trends in website usage.
 
@@ -59,7 +59,7 @@ information to identify its visitors, however, and does not disclose
 such information, other than under the same circumstances that it uses
 and discloses personally-identifying information, as described below.
 
-The npmjs.org website uses Google Analytics to monitor and analyze
+The npm website uses Google Analytics to monitor and analyze
 user behavior.  This service provides npm, Inc. with information on
 users' demographics, age, location, and interest categories, when such
 information is available.  This information is not used to identify
@@ -87,17 +87,17 @@ publish.  This information is shared on the website.
 
 If users do not want their information tracked in this manner, they
 can opt to not create an account.  However, this means that some
-features of npm and the npmjs.org website will be unavailable to them.
+features of npm and the npm website will be unavailable to them.
 
 ## Cookies
 
 A cookie is a string of information that a website stores on a
 visitor’s computer, and that the visitor’s browser provides to the
-website each time the visitor returns. 
+website each time the visitor returns.
 
-npmjs.org uses cookies to help identify and track visitors, their
-usage of the npmjs.org website, and their website access credentials.
-npmjs.org visitors who do not wish to have cookies placed on their
+The npm website uses cookies to help identify and track visitors,
+their usage of the npm website, and their website access credentials.
+npm website visitors who do not wish to have cookies placed on their
 computers should set their browsers to refuse cookies before using
 npm, Inc.’s websites, with the drawback that certain features of npm,
 Inc.’s websites may not function properly without the aid of cookies.
@@ -170,9 +170,9 @@ be found in [the git repository history for this
 document](https://github.com/npm/policies/commits/master/privacy.md).
 
 npm, Inc. encourages visitors to frequently check this page for any
-changes to its Privacy Policy. Your continued use of the npmjs.org
-website and the npm public registry after any change in this Privacy
-Policy will constitute your acceptance of such change.
+changes to its Privacy Policy. Your continued use of the npm website
+and the npm public registry after any change in this Privacy Policy
+will constitute your acceptance of such change.
 
 ## Credit and License
 
