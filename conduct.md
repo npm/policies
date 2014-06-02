@@ -3,8 +3,7 @@
 npm exists to facilitate sharing code, by making it easy for
 JavaScript module developers to publish and distribute packages.
 
-npm is as much a community as it is a piece of technology, if not
-moreso.
+npm is a piece of technology, but more importantly, it is a community.
 
 We believe that our mission is best served in an environment that is
 friendly, safe, and accepting; free from intimidation or harassment.
