@@ -83,6 +83,12 @@ and unwelcome sexual attention.
 
 ## Acceptable Package Content
 
+<!--
+TODO: This should probably be split out into a separate doc.  Maybe
+just link to the appropriate location in the Terms of Use once we have
+it.
+-->
+
 The Service administrators reserve the right to make judgement calls
 about what is and isn't appropriate in published packages.  These are
 guidelines to help you be successful in our community.
