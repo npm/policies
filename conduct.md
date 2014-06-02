@@ -13,10 +13,10 @@ tolerated.
 
 ## tl;dr
 
-* Be respectful of npm users.
+* Be respectful.
 * We're here to help: <abuse@npmjs.com>
 * Abusive behavior is not ever tolerated.
-* Data published to npm is hosted at the pleasure of the service
+* Data published to npm is hosted at the discretion of the service
   administrators, and may be removed.
 * Violations of this code may result in swift and permanent expulsion
   from the npm community.
@@ -27,7 +27,7 @@ We expect all members of the npm community, including paid and unpaid
 agents, administrators, users, and customers of npm, Inc., to abide by
 this Code of Conduct at all times in all npm community venues, online
 and in person, and in one-on-one communications pertaining to npm
-business.
+affairs.
 
 This policy covers the usage of the npm registry, as well as the npm
 website, npm related events, and any other services offered by or on
@@ -42,7 +42,7 @@ the Service.
 
 The definitions of various subjective terms such as "discriminatory",
 "hateful", or "confusing" will be decided at the sole discretion of
-the npm administrators.
+the npm abuse team.
 
 ## Friendly Harassment-Free Space
 
@@ -78,7 +78,7 @@ orientation, race, religion, disability; inappropriate use of nudity,
 sexual images, and/or sexually explicit lanugage in public spaces;
 threats of physical or non-physical harm; deliberate intimidation,
 stalking or following; harassing photography or recording; sustained
-disruption of talks or other events; inappropriate physical contact,
+disruption of talks or other events; inappropriate physical contact;
 and unwelcome sexual attention.
 
 ## Acceptable Package Content
