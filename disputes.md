@@ -57,8 +57,7 @@ However, Alice's appropriate course of action in each case is the same.
 3. After a reasonable amount of time, if Yusuf has not responded, or if
    Yusuf and Alice can't come to any sort of resolution, email support
    <support@npmjs.com> and we'll sort it out.  ("Reasonable" is
-   usually at least 4 weeks, but extra time is allowed around common
-   holidays.)
+   usually at least 4 weeks.)
 
 ## Reasoning
 
