@@ -46,12 +46,10 @@ the npm abuse team.
 
 ## Friendly Harassment-Free Space
 
-There is never a good reason to be rude to other users.
-
 We are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender identity, sexual
-orientation, disability, ethnicity, religion, or similar personal
-characteristics.
+orientation, disability, ethnicity, religion, age, physical
+appearance, body size, race, or similar personal characteristics.
 
 We ask that you please respect that people have differences of opinion
 regarding technical choices, and that every design or implementation
@@ -60,7 +58,8 @@ single right answer.  A difference of technology preferences is not a
 license to be rude.
 
 Disputes over package rights must be handled respectfully, according
-to the terms described in the npm Dispute Resolution document.
+to the terms described in the npm Dispute Resolution document.  There
+is never a good reason to be rude over package name disputes.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing
 behaviour is not welcome, and will not be tolerated.
