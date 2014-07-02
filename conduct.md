@@ -15,7 +15,7 @@ tolerated.
 
 * Be respectful.
 * We're here to help: <abuse@npmjs.com>
-* Abusive behavior is not ever tolerated.
+* Abusive behavior is never tolerated.
 * Data published to npm is hosted at the discretion of the service
   administrators, and may be removed.
 * Violations of this code may result in swift and permanent expulsion
