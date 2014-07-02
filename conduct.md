@@ -73,12 +73,13 @@ environment for all.
 
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender identity, sexual
-orientation, race, religion, disability; inappropriate use of nudity,
-sexual images, and/or sexually explicit lanugage in public spaces;
-threats of physical or non-physical harm; deliberate intimidation,
-stalking or following; harassing photography or recording; sustained
-disruption of talks or other events; inappropriate physical contact;
-and unwelcome sexual attention.
+orientation, disability, ethnicity, religion, age, physical
+appearance, body size, race, or similar personal characteristics;
+inappropriate use of nudity, sexual images, and/or sexually explicit
+language in public spaces; threats of physical or non-physical harm;
+deliberate intimidation, stalking or following; harassing photography
+or recording; sustained disruption of talks or other events;
+inappropriate physical contact; and unwelcome sexual attention.
 
 ## Acceptable Package Content
 
