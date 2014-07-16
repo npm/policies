@@ -196,6 +196,12 @@ them for the report, and let them know that it's been dealt with.
 
 ### Reports of Targetted Harassment
 
+This includes both abuse of npm users via the npm service, as well as
+auxiliary channels such as IRC, Twitter, GitHub, etc.
+
+**If it impacts npm users and degrades their experience of using the
+service, then it's our problem, and we take it seriously.**
+
 The vast majority of reports of harassment will come via written media
 (email, IRC, etc.)  If you receive a report of harassment in a non-text
 format, ask the user for a written account if this is reasonable.  If
