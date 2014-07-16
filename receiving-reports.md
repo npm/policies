@@ -154,11 +154,45 @@ Reports of abuse *of npm* are somewhat different than reports of abuse
 ### Reports of Violations of the npm Terms of Service
 
 If a user is publishing a flood of empty squatting packages, spamming,
-offensive content, or other childish trolling aimed at the service
-rather than at a specific user, then the course of action is simple:
+phishing, offensive content, or other childish trolling aimed at the
+service rather than at a specific user, then the course of action is
+simple:
 
 1. Ban the user.
 2. Clean up the mess.
+
+If it's possible that they are unaware that their behavior is not
+allowed, it is a good idea to not ban the user outright, but send them
+an email asking them to please stop the bad behavior.
+
+Here's an example:
+
+    Subject: Empty/duplicate packages removed
+    From: Isaac Schlueter <isaacs@npmjs.com>
+    To: Some User <some-user@gmail.com>
+    Cc: npm support <support@npmjs.com>
+
+    Several empty and duplicated packages belonging to you were
+    removed.
+
+    Please do not publish empty packages to npm.  This causes
+    difficulty for others who may want to use names for new projects.
+
+    We do not allow "reserving" names for future use.  You must have
+    something to publish before taking a package name.  Otherwise, we
+    quickly end up with a lot of empty packages, and names being used
+    for no purpose.
+
+    If you continue to publish empty packages to npm, your username
+    and/or IP address may be blocked from accessing the service.
+
+    Thank you.
+
+    --i
+
+Do not mention, involve, or CC the person who reported the bad
+behavior, as this can only result in added conflict.  Briefly thank
+them for the report, and let them know that it's been dealt with.
 
 ### Reports of Targetted Harassment
 
