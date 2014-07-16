@@ -51,14 +51,14 @@ If Alice has not responded, then we must make a judgement call.  There
 are a few possible considerations:
 
 1. It could be that Alice has moved on to some other platform, doesn't
-   care, and doesn't check this email address any more, passed away,
+   care, and doesn't check this email address anymore, passed away,
    joined a monastery, meant to respond and forgot, who knows.
 2. Alice has decided that she's never going to hand the module name
    over, so there's no point even discussing it.
 
 Abrupt dismissive autocratic administration has a way of upsetting
 people and bringing them out of hiding.  We cannot safely assume that
-absense is evidence of apathy.
+absence is evidence of apathy.
 
 1. Check the source control repository to see if Alice is writing
    patches, closing issues, etc.
@@ -118,13 +118,14 @@ leaving an abandoned module in npm, then do this:
 
 Caveats and things to be sensitive of:
 
-People are often surprisingly attached to the names that they give
-their code.  If someone feels like they have an opportunity to be
-heard, they are much more likely to feel like the process is fair,
-even if they don't ultimately get what they want.
-
-Compassion and respect are pragmatic time-saving tools that prevent
-unnecessary pain and hardship for our users.  Use these tools, always.
+* People are often surprisingly attached to the names that they give
+  their code.
+* If someone feels like they have an opportunity to be heard, they are
+  much more likely to feel like the process is fair, even if they
+  don't ultimately get what they want.
+* Compassion and respect are pragmatic time-saving tools that prevent
+  unnecessary pain and hardship for our users.  Use these tools,
+  always.
 
 Note that this does not mean that we will always try to accomodate
 users' wishes.  If a module name is offensive, the package contents
@@ -185,31 +186,32 @@ If the following information is not volunteered in the written or
 verbal report, ask for it/include it, but do not pressure them.
 
 * Identifying information (user name, email address, etc.) of the
-  user doing the harassing
-* The behavior that was in violation
+  user doing the harassing.
+* The behavior that was in violation.
 * The approximate time of the behavior (if different than the time the
-  report was made)
-* The circumstances surrounding the incident
-* Other people involved in the incident
+  report was made).
+* The circumstances surrounding the incident.
+* Other people involved in the incident.
 
 Generally we are not equipped for evidence gathering: do not going
 around "interviewing" others involved.
 
-#### Threats to physical wellbeing
+#### Threats to physical well-being
 
-Most harassment complaints aren't of this nature, but if someone
-reports that a user of the service or an attendee at an event has
-committed or is threatening violence towards another person, or
-other safety issues:
+If someone reports that a user of the service or an attendee at an
+event has committed or is threatening violence towards another person,
+or other safety issues:
 
-* if there is any general threat to attendees or the safety of anyone
-  including conference staff is in doubt, summon security or police.
-* offer the victim a private place to sit
-* ask "is there a friend or trusted person who you would like to be
-  with you?" (if so, arrange for someone to fetch this person)
-* ask them "how can I help?"
-* provide them with your list of emergency contacts if they need help
-  later
+* If there is any general threat to our users or the safety of anyone
+  including npm staff is in doubt, summon security or police.
+* Offer the victim a private place to sit.
+* Ask "is there a friend or trusted person who you would like to be
+  with you?"  If so, arrange for someone to fetch this person.
+* Ask them "how can I help?"
+* Provide them with your list of emergency contacts if they need help
+  later.
+* Do not touch the victim to console them unless they initiate.  It
+  can make things worse.
 
 #### Law enforcement
 
@@ -219,7 +221,8 @@ security only at a victim's request.
 In many cases, reporting harassment to law enforcement is very
 unpleasant and may result in further harassment. Forcing victims to go
 to law enforcement will reduce reports of harassment (but not actual
-harassment). For more information, see Why Didn't You Report It?
+harassment). For more information, see [Why Didn't You Report
+It?](http://meloukhia.net/2010/04/why_didnt_you_report_it/)
 
 A staff member can provide the list of emergency contacts and say
 something like "if you want any help reporting this incident, please
@@ -243,7 +246,7 @@ possible.
 Other times, this may be a matter of simply deleting some offensive
 packages and telling the user not to do it again.
 
-In the most aggregious cases, it may require banning the user account
+In the most egregious cases, it may require banning the user account
 and/or IP address of an abusive troll.
 
 #### Reports of more private harassment
@@ -280,10 +283,10 @@ same week or sooner is good.
 
 Available staff should meet as soon as possible after a report to discuss:
 
-* what happened?
-* are we doing anything about it?
-* who is doing those things?
-* when are they doing them?
+* What happened?
+* Are we doing anything about it?
+* Who is doing those things?
+* When are they doing them?
 
 Neither the complainant nor the alleged harasser should attend. (If
 the event was very widely witnessed, such as a harassing talk, this
@@ -310,7 +313,7 @@ further, please contact XYZ, but in the meantime, you must
 
 Do not ask for an apology to the victim. We have no responsibility to
 enforce friendship, reconciliation, or anything beyond lack of
-harassment between any two given attendees, and in fact doing so can
+harassment between any two given users, and in fact doing so can
 contribute to someone's lack of safety while using our service.
 
 Forcing a victim of harassment to acknowledge an apology from their
@@ -323,13 +326,16 @@ mediator and other attempts to "repair" the situation which require
 further interaction between them should likewise be avoided.
 
 If the harasser offers to apologize to the victim (especially in
-person), strongly discourage it. If a staff member relays an apology
-to the victim, it should be brief and not require a response. ("X
-apologizes and agrees to have no further contact with you" is brief.
-"X is very sorry that their attempts to woo you were not received in
-the manner that was intended and will try to do better next time,
-they're really really sorry and hope that you can find it in your
-heart to forgive them" is emphatically not.)
+person), strongly discourage it.  In fact, discourage *any* further
+interaction with the offended party.
+
+If a staff member relays an apology to the victim, it should be brief
+and not require a response. ("X apologizes and agrees to have no
+further contact with you" is brief.  "X is very sorry that their
+attempts to woo you were not received in the manner that was intended
+and will try to do better next time, they're really really sorry and
+hope that you can find it in your heart to forgive them" is
+emphatically not.)
 
 If the harasser attempts to press an apology on someone who would
 clearly prefer to avoid them, or attempts to recruit others to relay
@@ -353,9 +359,9 @@ reputability on this point by enforcing that policy appropriately.
 
 However, occasionally these events will spill out into public.  In
 those cases, please let the npm executive team decide how best to
-communitate with the public.
+communicate with the public.
 
-### Principles
+### Principles of public communication
 
 * Show that the npm anti-harassment policy is being enforced fairly.
 * Explain (briefly, neutrally, anonymously) what violation led to the
@@ -381,16 +387,16 @@ And then move on with the program.
 ### Dealing with upset users
 
 People may be upset and wish to express their concerns to npm staff.
-We should be in "making the person feel heard" mode, it's important
-not to cross into education mode. Hear them out, take notes as
-approriate, thank them for their thoughts.
+We should be in "making the person feel heard" mode; it's important
+not to cross into "education mode". Hear them out, take notes as
+appropriate, thank them for their thoughts.
 
 We should not share additional details of the incident with uninvolved
 parties.
 
 If a user is upset and a staff member agrees that a wrong was done to
 them, it helps a lot to just say simply "I'm so sorry." (Rather than
-"but we tried really hard" or "no one told us" or etc, even if that
+"but we tried really hard" or "no one told us" or etc., even if that
 was true. "I'm so sorry" goes a long way to defusing many people's
 anger.)
 
@@ -398,14 +404,16 @@ Whether or not a staffer agrees that a wrong was done to them, the
 user should be armed with an authority they can appeal to if talking
 wasn't enough. "Please email <abuse@npmjs.com>."
 
-### Evaluation
+## Evaluation
 
-After we have had a chance to observe how the anti-harassment policy
-works in the real situations, we may wish to change the policy to
-better address them. Did anything unforseen happen that there should
-be a rule about? Sometimes an unacceptable behavior does not warrant a
-whole new rule, but should be listed as a specific example of
-unacceptable behavior under an existing rule.
+After we have had a chance to observe how the anti-harassment and
+dispute resolution policies work in the real situations, we may wish
+to change the policy to better address them.
+
+Did anything unforeseen happen that there should be a rule about?
+Sometimes an unacceptable behavior does not warrant a whole new rule,
+but should be listed as a specific example of unacceptable behavior
+under an existing rule.
 
 For the sake of consistency, if there are changes to a rule, we try to
 apply that rule moving forward, rather than retroactively.  If a
