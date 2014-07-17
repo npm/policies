@@ -103,10 +103,13 @@ packages, and nothing else.
 Packages must contain some functionality.  "Squatting", that is,
 publishing an empty package to "reserve" a name, is not allowed.
 
-Packages must not contain illegal content.  This includes content
-which violates software license agreements or other intellectual
-property restrictions.  For example, redistributing an MIT-licensed
-module with the copyright notice removed, would not be allowed.
+Packages must not contain illegal or infringing content.  You should
+only publish packages or other materials to the Service if you have
+the right to do so.  This includes complying with all software license
+agreements or other intellectual property restrictions. For example,
+redistributing an MIT-licensed module with the copyright notice
+removed, would not be allowed.  You will be responsible for any
+violation of laws or others’ intellectual property rights.
 
 Packages must not be malware.  For example, a package which is
 designed to maliciously exploit or damage computer systems, is not
@@ -116,6 +119,33 @@ likely be fine.
 
 Package name, description, and other visible metadata must not include
 abusive, inappropriate, or harassing content.
+
+## Reporting Violations of this Code of Conduct
+
+If you believe someone is harassing you or has otherwise violated this
+Code of Conduct, please contact us at <abuse@npmjs.com> to send us an
+abuse report.  If this is the initial report of a problem, please
+include as much detail as possible. It is easiest for us to address
+issues when we have more context.
+
+## Copyright Violations
+
+We respect the intellectual property of others and ask that you do
+too. If you believe any package or other materials available through
+the Service violates a copyright held by you and you would like to
+submit a notice pursuant to the Digital Millennium Copyright Act or
+other similar international law, you can submit a notice to our agent
+for service of notice at:
+
+Abuse Team  
+npm, Inc.  
+200 Frank Ogawa Plaza, Floor 5  
+Oakland CA 94610 USA  
++1-510-858-7608  
+<abuse@npmjs.com>
+
+Please make sure your notice meets the Digital Millennium Copyright
+Act requirements.
 
 ## Consequences
 
@@ -149,10 +179,6 @@ most in the interest of fostering a safe and friendly community.
 
 Please contact <abuse@npmjs.com> if you need to report a problem or
 address a grievance related to an abuse report.
-
-If this is the initial report of a problem, please include as much
-detail as possible.  It is easiest for us to address issues when we
-have more context.
 
 You are also encouraged to contact us if you are curious about
 something that might be "on the line" between appropriate and
