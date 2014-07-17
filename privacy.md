@@ -1,7 +1,7 @@
 # npm Privacy Policy
 
-We track data about users of the npm website and the npm public
-registry.
+We track data about users of the npm website, the npm public registry
+and any other services we may offer from time to time.
 
 This page tells you what we track, and what we do with it.
 
@@ -85,9 +85,39 @@ When packages are published in the npm registry, the user responsible
 for the publish action is saved, along with the date and time of the
 publish.  This information is shared on the website.
 
+If you create an account or publish a package, your email address will
+be publicly disclosed.
+
 If users do not want their information tracked in this manner, they
 can opt to not create an account.  However, this means that some
 features of npm and the npm website will be unavailable to them.
+
+## Use of Personally Identifying Information
+
+We may use personally identifying information we have collected about
+you to provide you with news, notes, recommendations, and to operate
+our business and the npm service. We do not disclose your personal
+information to unaffiliated third parties who may want to offer you
+their own products and services unless you have requested or
+authorized us to do so.
+
+We may share your personal information with third parties or
+affiliates where it is necessary for us to complete a transaction or
+do something you have asked us to do. Likewise, we may share your
+personal information with third parties or affiliates with whom we
+have contracted to perform services on our behalf.  Companies that act
+on our behalf are required to keep the personal information we provide
+to them confidential and to use the personal information we share only
+to provide the services we ask them to perform.
+
+In addition, we may disclose personal information in the good faith
+belief that we are lawfully authorized to do so, or that doing so is
+reasonably necessary to comply with legal process or authorities,
+respond to any claims, or to protect the rights, property, or personal
+safety of npm, our users, our employees, or the public. In addition,
+information about our users, including personal information, may be
+disclosed or transferred as part of, or during negotiations of, any
+merger, sale of company assets, or acquisition.
 
 ## Cookies
 
@@ -143,6 +173,44 @@ tracking which versions of Node.js and npm are in use in the wild, and
 researching how npm packages are used together with one another.  This
 helps us to better understand the usage patterns of npm, and make
 better decisions about the npm product.
+
+## Use by Minors
+
+The npm service is not intended for use by minor children (under the
+age of 18). Parents and guardians should monitor the use of the npm
+service by minor children. Children under age 13 should not use the
+npm service at all. If a child under age 13 submits personal
+information through any part of the service, and we become aware that
+the person submitting the information is under age 13, we will attempt
+to delete the information as soon as reasonably possible.
+
+## Links to Other Websites
+
+The npm service may contain links to other websites. Any personal
+information you provide on the linked pages is provided directly to
+that third party and is subject to that third party’s privacy policy.
+Except as described above, we are not responsible for the content or
+privacy and security practices and policies of websites to which we
+link. Links from the npm service to third parties or to other sites
+are provided for your convenience. We encourage you to learn about
+their privacy and security practices and policies before providing
+them with personal information.
+
+## United States Jurisdiction
+
+The npm service is hosted in the United States. This Privacy Policy
+applies primarily to residents of the United States. Parts of this
+Privacy Policy may not apply to visitors outside the United States.
+
+If you are a non-US user of the service, by using our service and
+providing us with data, you acknowledge, agree and provide your
+consent that your personal information may be processed in the United
+States for the purposes identified in this Privacy Policy. In
+addition, such data may be stored on servers located outside your
+resident jurisdiction, which may have less stringent privacy practices
+than your own. By using the npm service and providing us with your
+data, you consent to the transfer of such data and any less stringent
+privacy practices.
 
 ## Contact Information
 
