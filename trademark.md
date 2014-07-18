@@ -14,7 +14,7 @@ The npm project contains two main parts:
    simply called "npm".  Its code is available as an open-source
    project: https://github.com/npm/npm
 2. The npm registry service.   When a user of the npm client runs the
-   command npm install example-package, the npm client retrieves the
+   command `npm install example-package`, the npm client retrieves the
    package and all related dependencies from the npm registry service.
    The example output looks like this:
 
