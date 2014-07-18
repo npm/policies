@@ -47,7 +47,7 @@ without any administrative involvement, everyone feels better about
 it.**  Everything we do in these cases should guide towards that
 endgame when possible.
 
-If Alice has not responded, then we must make a judgement call.  There
+If Alice has not responded, then we must make a judgment call.  There
 are a few possible considerations:
 
 1. It could be that Alice has moved on to some other platform, doesn't
@@ -127,7 +127,7 @@ Caveats and things to be sensitive of:
   unnecessary pain and hardship for our users.  Use these tools,
   always.
 
-Note that this does not mean that we will always try to accomodate
+Note that this does not mean that we will always try to accommodate
 users' wishes.  If a module name is offensive, the package contents
 are violating licenses or other intellectual property rules that could
 get us in trouble, or the package is empty (ie, squatting), or
@@ -194,7 +194,7 @@ Do not mention, involve, or CC the person who reported the bad
 behavior, as this can only result in added conflict.  Briefly thank
 them for the report, and let them know that it's been dealt with.
 
-### Reports of Targetted Harassment
+### Reports of Targeted Harassment
 
 This includes both abuse of npm users via the npm service, as well as
 auxiliary channels such as IRC, Twitter, GitHub, etc.
@@ -300,14 +300,14 @@ Pause, and see if they say they do not want this. Otherwise, go ahead.
 
 **Do not:**
 
-* overtly invite them to withdraw the complaint or mention that
-  withdrawal is OK: this suggests that you want them to do so, and is
+* Overtly invite them to withdraw the complaint or mention that
+  withdrawal is OK.  This suggests that you want them to do so, and is
   therefore coercive. "If you're OK with it [pursuing the complaint]"
   suggests that you are by default pursuing it and is not coercive.
-* ask for their advice on how to deal with the complaint: this is our
-  responsibility
-* offer them input into penalties: this is our responsibility
-* share details of the people involved or incident without specific
+* Ask for their advice on how to deal with the complaint: this is our
+  responsibility.
+* Offer them input into penalties: this is our responsibility.
+* Share details of the people involved or incident without specific
   permission from the victim. This includes sharing with other staff.
 
 
@@ -384,8 +384,8 @@ messages on their behalf, this may constitute continued harassment.
 ### Data retention
 
 All (potentially de-identified) information about harassment reports
-should be stored indefinitely in an electronic format, accessible only
-by the npm abuse team.
+should be stored for a period of at least 5 years, in an electronic
+format, accessible only by the npm abuse team.
 
 Lifetime bans are handled by banning a username or IP address.  If it
 ever becomes necessary, we will maintain a lifetime ban of users for
@@ -444,6 +444,39 @@ Whether or not a staffer agrees that a wrong was done to them, the
 user should be armed with an authority they can appeal to if talking
 wasn't enough. "Please email <abuse@npmjs.com>."
 
+### Responding to DMCA Complaints
+
+We take notices of potential copyright infringement seriously.  If a
+user or other party has alleged that material on the npm website is
+infringing a copyright of such party or another third-party, the
+notice should be forwarded immediately to <abuse@npmjs.com>, who will
+work with legal counsel to resolve the dispute.  If legal determines
+the notice satisfies all requirements under the United States Digital
+Millennium Copyright Act, then access to the allegedly infringing
+material must be promptly removed or disabled.  We will then make a
+good faith effort to give notice of the claimed infringement to the
+user that posted the allegedly infringing material.
+
+Please note that a copy of each legal notice we receive is also sent
+to Chilling Effects <http://www.chillingeffects.org> for publication
+(with any user's personal information removed).
+
+If the posting user objects to removal of the material, such user may
+file a counter notice.  If we receive a counter notice from such user
+meeting the requirements of the DMCA, we will use good faith efforts
+to notify the complainant of such counter notice reinstate access to
+the material within 10-14 business days unless the complainant
+notifies us that it has filed a lawsuit against the allegedly
+infringing user. If we do not receive a counter notifice from such
+user within 10 business days of giving notice of the claimed
+infringement, we reserve the right to permanently delete the material
+at issue.
+
+We will terminate the accounts of users who are repeat infringers.
+Note, npm cannot provide legal advice to users (whether making a
+complaint or defending against a complaint), and we should ask users
+with legal questions to seek an attorney.
+
 ## Evaluation
 
 After we have had a chance to observe how the anti-harassment and
@@ -457,7 +490,7 @@ under an existing rule.
 
 For the sake of consistency, if there are changes to a rule, we try to
 apply that rule moving forward, rather than retroactively.  If a
-judgement call is made, record the decision and the justification, and
+judgment call is made, record the decision and the justification, and
 perhaps codify it in a rule going forward so that users can more
 easily succeed in our community.
 
