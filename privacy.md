@@ -198,9 +198,9 @@ them with personal information.
 
 ## United States Jurisdiction
 
-The npm service is hosted in the United States. This Privacy Policy
-applies primarily to residents of the United States. Parts of this
-Privacy Policy may not apply to visitors outside the United States.
+The npm service is hosted in the United States. This Privacy Policy is
+intended to comply with privacy laws in the United States and may not
+comply with all privacy laws in other countries.
 
 If you are a non-US user of the service, by using our service and
 providing us with data, you acknowledge, agree and provide your
