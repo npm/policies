@@ -59,9 +59,9 @@ information to identify its visitors, however, and does not disclose
 such information, other than under the same circumstances that it uses
 and discloses personally-identifying information, as described below.
 
-The npm website uses Google Analytics to monitor and analyze
-user behavior.  This service provides npm, Inc. with information on
-users' demographics, age, location, and interest categories, when such
+The npm website uses Google Analytics to monitor and analyze user
+behavior.  This service provides npm, Inc. with information on users'
+demographics, age, location, and interest categories, when such
 information is available.  This information is not used to identify
 individual users, but can in some cases be very specific.  You can
 learn more about the information gathered and retained by this service
@@ -71,6 +71,16 @@ policy](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad).
 You can opt out of Google Analytics entirely with the [Google
 Analytics opt-out browser
 addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
+
+The npm website uses HubSpot to track marketing leads that come in
+through our website.  Full details of the information tracked by
+HubSpot can be found at the [HubSpot privacy
+policy](http://www.hubspot.com/legal/privacy-policy).  We only contact
+users for marketing purposes when they have explicitly expressed
+interest in a product or service, for example by filling out a form
+expressing interest in a beta program.  We never share contact
+information with third parties, or sell contact information to third
+parties.
 
 ## Collection of Personally Identifying Information
 
