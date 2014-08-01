@@ -34,9 +34,11 @@ is the person with the dispute:
 3. At this point, one of three things have happened:
 
     a. Alice and Yusuf have resolved the situation in a way that works
-       for both of them.
+    for both of them.
+
     b. Alice and Yusuf have reached an impasse, and cannot resolve the
-       dispute.
+    dispute.
+
     c. Alice has not responded to Yusuf at all.
 
 By far, (a) is the most common occurrence, and the answer is simple:
@@ -102,7 +104,6 @@ leaving an abandoned module in npm, then do this:
         As per the email last week regarding the fooblx module, we've
         decided to hand control over to Yusuf, who will be actively
         developing it.
-
 
         Yusuf,
 
