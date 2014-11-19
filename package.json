@@ -1,0 +1,24 @@
+{
+  "name": "@npm/policies",
+  "version": "1.0.0",
+  "description": "npm policies, documented",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/policies.git"
+  },
+  "keywords": [
+    "npm",
+    "policies",
+    "documentation",
+    "conduct",
+    "disputes",
+    "privacy",
+    "trademark"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/policies/issues"
+  },
+  "homepage": "https://github.com/npm/policies"
+}
