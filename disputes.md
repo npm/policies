@@ -4,7 +4,7 @@ This document describes the steps that you should take to resolve module name
 disputes with other npm publishers.
 
 This document is a clarification of the acceptable behavior outlined in the [npm
-Code of Conduct](conduct.md), and nothing in this document should be interpreted to
+Code of Conduct](conduct), and nothing in this document should be interpreted to
 contradict any aspect of the npm Code of Conduct.
 
 ## tl;dr
