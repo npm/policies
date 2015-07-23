@@ -201,4 +201,4 @@ Conduct](https://github.com/mozilla/rust/wiki/Note-development-policy#conduct).
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+License](https://creativecommons.org/licenses/by-sa/4.0/).

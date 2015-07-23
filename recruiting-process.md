@@ -156,4 +156,4 @@ to view the changes.
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+License](https://creativecommons.org/licenses/by-sa/4.0/).
