@@ -91,7 +91,7 @@ interview?" but not "I didn't like Jane because...").
    anyone who hasn't already spoken to the candidate can take a 30-45
    minute slot; it's up to you to ask for a slot if you want one.
 9. After full team interview, hiring manager and their team will take
-   everyone's notes into account and make a final decison. After
+   everyone's notes into account and make a final decision. After
    selecting the best candidate, we do *not* yet notify the other
    candidates.
 10. Hiring manager will consult with the selected candidate on salary,
@@ -156,4 +156,4 @@ to view the changes.
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+License](https://creativecommons.org/licenses/by-sa/4.0/).
