@@ -149,7 +149,7 @@ explain them clearly, because that is what a knowledge worker does.
 
 This is a living document and may be updated from time to time.
 Please refer to the [git history for this
-document](https://github.com/npm/policies/commits/master/recruitment-process.md)
+document](https://github.com/npm/policies/commits/master/recruiting-process.md)
 to view the changes.
 
 ## License
