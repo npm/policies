@@ -132,7 +132,7 @@ An example of a way to refer to npm when describing your solution:
     Explaining that something is a proxy of the npm registry is OK.
 
 When in doubt about your use of the npm name or logo, please [contact
-npm, Inc.](http://www.npmjs.com/contact) for clarification.
+npm, Inc.](https://www.npmjs.com/contact) for clarification.
 
 ## The npm Logo
 
@@ -155,4 +155,4 @@ Copyright (C) npm, Inc., All rights reserved
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+License](https://creativecommons.org/licenses/by-sa/4.0/).

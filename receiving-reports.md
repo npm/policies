@@ -459,7 +459,7 @@ good faith effort to give notice of the claimed infringement to the
 user that posted the allegedly infringing material.
 
 Please note that a copy of each legal notice we receive is also sent
-to Chilling Effects <http://www.chillingeffects.org> for publication
+to Chilling Effects <https://www.chillingeffects.org> for publication
 (with any user's personal information removed).
 
 If the posting user objects to removal of the material, such user may
@@ -505,8 +505,8 @@ to view the changes.
 ## Credit and License
 
 Parts of this policy borrow heavily from the [Geek Feminism Wikia
-guide](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+guide](https://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+License](https://creativecommons.org/licenses/by-sa/4.0/).

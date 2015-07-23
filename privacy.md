@@ -75,7 +75,7 @@ addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=291963
 The npm website uses HubSpot to collect and manage leads for marketing
 purposes.  Full details of the information tracked by HubSpot can be
 found at the [HubSpot privacy
-policy](http://www.hubspot.com/legal/privacy-policy).  We only contact
+policy](https://www.hubspot.com/legal/privacy-policy).  We only contact
 users for marketing purposes when they have explicitly expressed
 interest in a product or service, for example by filling out a form
 expressing interest in a beta program.  We never share contact

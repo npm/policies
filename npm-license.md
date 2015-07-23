@@ -255,7 +255,7 @@ be removed or modified at the sole discretion of the npm server administrators.
 used with permission.
 
 "Gubblebum Blocky" font
-Copyright (c) by Tjarda Koster, http://jelloween.deviantart.com
+Copyright (c) by Tjarda Koster, https://jelloween.deviantart.com
 included for use in the npm website and documentation,
 used with permission.
 
