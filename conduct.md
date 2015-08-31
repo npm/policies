@@ -139,8 +139,10 @@ for service of notice at:
 
 Abuse Team  
 npm, Inc.  
-200 Frank Ogawa Plaza, Floor 5  
-Oakland CA 94610 USA  
+1999 Harrison Street  
+Suite 1150  
+Oakland CA 94612  
+USA  
 +1-510-858-7608  
 <abuse@npmjs.com>
 
