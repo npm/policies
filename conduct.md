@@ -128,25 +128,6 @@ abuse report.  If this is the initial report of a problem, please
 include as much detail as possible. It is easiest for us to address
 issues when we have more context.
 
-## Copyright Violations
-
-We respect the intellectual property of others and ask that you do
-too. If you believe any package or other materials available through
-the Service violates a copyright held by you and you would like to
-submit a notice pursuant to the Digital Millennium Copyright Act or
-other similar international law, you can submit a notice to our agent
-for service of notice at:
-
-Abuse Team  
-npm, Inc.  
-200 Frank Ogawa Plaza, Floor 5  
-Oakland CA 94610 USA  
-+1-510-858-7608  
-<abuse@npmjs.com>
-
-Please make sure your notice meets the Digital Millennium Copyright
-Act requirements.
-
 ## Consequences
 
 All content published to the Service, including user account

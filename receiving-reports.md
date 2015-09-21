@@ -445,39 +445,6 @@ Whether or not a staffer agrees that a wrong was done to them, the
 user should be armed with an authority they can appeal to if talking
 wasn't enough. "Please email <abuse@npmjs.com>."
 
-### Responding to DMCA Complaints
-
-We take notices of potential copyright infringement seriously.  If a
-user or other party has alleged that material on the npm website is
-infringing a copyright of such party or another third-party, the
-notice should be forwarded immediately to <abuse@npmjs.com>, who will
-work with legal counsel to resolve the dispute.  If legal determines
-the notice satisfies all requirements under the United States Digital
-Millennium Copyright Act, then access to the allegedly infringing
-material must be promptly removed or disabled.  We will then make a
-good faith effort to give notice of the claimed infringement to the
-user that posted the allegedly infringing material.
-
-Please note that a copy of each legal notice we receive is also sent
-to Chilling Effects <https://www.chillingeffects.org> for publication
-(with any user's personal information removed).
-
-If the posting user objects to removal of the material, such user may
-file a counter notice.  If we receive a counter notice from such user
-meeting the requirements of the DMCA, we will use good faith efforts
-to notify the complainant of such counter notice reinstate access to
-the material within 10-14 business days unless the complainant
-notifies us that it has filed a lawsuit against the allegedly
-infringing user. If we do not receive a counter notifice from such
-user within 10 business days of giving notice of the claimed
-infringement, we reserve the right to permanently delete the material
-at issue.
-
-We will terminate the accounts of users who are repeat infringers.
-Note, npm cannot provide legal advice to users (whether making a
-complaint or defending against a complaint), and we should ask users
-with legal questions to seek an attorney.
-
 ## Evaluation
 
 After we have had a chance to observe how the anti-harassment and
