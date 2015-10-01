@@ -4,7 +4,7 @@ This document describes the steps that you should take to resolve module name
 disputes with other npm publishers.
 
 This document is a clarification of the acceptable behavior outlined in the [npm
-Code of Conduct](conduct.md), and nothing in this document should be interpreted to
+Code of Conduct](conduct), and nothing in this document should be interpreted to
 contradict any aspect of the npm Code of Conduct.
 
 ## tl;dr
@@ -97,7 +97,7 @@ including but not limited to:
    personal application database or otherwise putting non-packagey
    things into it.
 7. Other things forbidden by the npm [Code of
-   Conduct](https://github.com/npm/policies/blob/master/conduct.md)
+   Conduct](conduct)
    such as hateful language, pornographic content, or harassment.
 
 If you see bad behavior like this, please report it to <abuse@npmjs.com>
