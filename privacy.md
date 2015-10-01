@@ -236,9 +236,9 @@ form](http://www.npmjs.com/contact), by emailing <privacy@npmjs.com>,
 or via snail mail at:
 
 npm, Inc.  
-200 Frank Ogawa Plaza  
-Floor 5  
-Oakland CA 94610  
+1999 Harrison Street  
+Suite 1150  
+Oakland CA 94612  
 USA
 
 ## Privacy Policy Changes
