@@ -105,11 +105,14 @@ features of npm and the npm website will be unavailable to them.
 ## Use of Personally Identifying Information
 
 We may use personally identifying information we have collected about
-you to provide you with news, notes, recommendations, and to operate
-our business and the npm service. We do not disclose your personal
-information to unaffiliated third parties who may want to offer you
-their own products and services unless you have requested or
-authorized us to do so.
+you, including your email address, to provide you with news, notes, and
+recommendations. You can opt out of receiving such messages at any time
+by using the "unsubscribe" links or directions at the ends of messages
+you receive. In addition, we use collected personally identifying
+information to operate our business and the npm service. We do not
+disclose your personal information to unaffiliated third parties who
+may want to offer you their own products and services unless you have
+requested or authorized us to do so.
 
 We may share your personal information with third parties or
 affiliates where it is necessary for us to complete a transaction or
