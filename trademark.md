@@ -64,7 +64,7 @@ mind:
 
 It's perfectly OK to use "npm" to refer to npm, Inc., to the npm
 software, and to the npm public registry.  That's different from using
-npm in the name of one's own product or service. 
+npm in the name of one's own product or service.
 
 Nominative use means it's OK to refer to something that is
 trademarked, but it is not OK to incorporate one company's trademark
@@ -141,6 +141,19 @@ npm Logo signifies us, or a special relationship with us, and you
 should use it only with our permission. Since the goal is to avoid
 confusion about you being us, or your relationship with us, context
 counts. We will consider requests on a case-by-case basis.
+
+## The npm Wombat Mascot
+
+Like the npm Logo, the npm Wombat graphic is a very recognizable
+part of the npm brand, and signifies a special relationship with the
+the npm project, service, or company.  It should never be used except
+with explicit written permission.  We will consider requests on a
+case-by-case basis.
+
+Please be advised that, unlike the npm logo, the Wombat generally may
+**not** be used to refer to the project, service, or company in a
+nominative sense, as any usage will almost always imply a special
+relationship with npm.
 
 ## Changes
 
