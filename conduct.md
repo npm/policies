@@ -178,7 +178,7 @@ to view the changes.
 This Code of Conduct borrows heavily from the Stumptown Syndicate
 [Citizen's Code of Conduct](http://citizencodeofconduct.org/), and the
 [Rust Project Code of
-Conduct](https://github.com/mozilla/rust/wiki/Note-development-policy#conduct).
+Conduct](https://www.rust-lang.org/conduct.html).
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
