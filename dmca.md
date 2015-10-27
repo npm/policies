@@ -42,7 +42,7 @@ meeting the requirements of the DMCA, we will use good faith efforts
 to notify the complainant of such counter notice reinstate access to
 the material within 10-14 business days unless the complainant
 notifies us that it has filed a lawsuit against the allegedly
-infringing user. If we do not receive a counter notifice from such
+infringing user. If we do not receive a counter notice from such
 user within 10 business days of giving notice of the claimed
 infringement, we reserve the right to permanently delete the material
 at issue.

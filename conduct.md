@@ -62,7 +62,7 @@ to the terms described in the npm Dispute Resolution document.  There
 is never a good reason to be rude over package name disputes.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing
-behaviour is not welcome, and will not be tolerated.
+behavior is not welcome, and will not be tolerated.
 
 Harassing other users of the Service is never tolerated, whether via
 public or private media.
@@ -89,7 +89,7 @@ just link to the appropriate location in the Terms of Use once we have
 it.
 -->
 
-The Service administrators reserve the right to make judgement calls
+The Service administrators reserve the right to make judgment calls
 about what is and isn't appropriate in published packages.  These are
 guidelines to help you be successful in our community.
 
