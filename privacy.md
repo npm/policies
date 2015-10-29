@@ -82,6 +82,12 @@ expressing interest in a beta program.  We never share contact
 information with third parties, or sell contact information to third
 parties.
 
+The npm website uses Optimizely to test the effects of changes
+to the npm website on users' browsing experiences. Information
+on what data Optimizely stores about users, how it is collected,
+and how it is used are available in [Optimizely' privacy
+policy](https://www.optimizely.com/privacy/).
+
 ## Collection of Personally Identifying Information
 
 In order to write information into the npm registry database (for
