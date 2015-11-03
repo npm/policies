@@ -31,7 +31,7 @@ Please make sure your notice meets the Digital Millennium Copyright
 Act requirements.
 
 Please note that a copy of each legal notice we receive is also sent
-to Chilling Effects <https://www.chillingeffects.org> for publication
+to [Lumen Database](https://https://lumendatabase.org) for publication
 (with any user's personal information removed).
 
 ## How npm Responds to Notices
