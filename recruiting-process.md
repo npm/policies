@@ -163,7 +163,7 @@ interviews are transparent and humane. Interviews are inherently
 uncomfortable and scary, and nobody sounds smart when they are
 uncomfortable and scared. Do your best to compensate for this. If you
 think the candidate is doing well, be liberal about saying so. If the
-candidate makes a mistake, try to prevent them spiralling into
+candidate makes a mistake, try to prevent them spiraling into
 meltdown by moving on quickly or giving positive feedback about some
 other aspect of their performance.
 

@@ -29,7 +29,7 @@ ways that happens (each of these is based on actual events.)
    later, Alice finds a bug in `foo`, and fixes it.  She sends a pull
    request to Yusuf, but Yusuf doesn't have the time to deal with it,
    because he has a new job and a new baby and is focused on his new
-   erlang project, and kind of not involved with node any more.  Alice
+   Erlang project, and kind of not involved with node any more.  Alice
    would like to publish a new `foo`, but can't, because the name is
    taken.
 3. Yusuf writes a 10-line flow-control library, and calls it `foo`, and

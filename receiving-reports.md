@@ -131,7 +131,7 @@ Caveats and things to be sensitive of:
 Note that this does not mean that we will always try to accommodate
 users' wishes.  If a module name is offensive, the package contents
 are violating licenses or other intellectual property rules that could
-get us in trouble, or the package is empty (ie, squatting), or
+get us in trouble, or the package is empty (i.e., squatting), or
 otherwise violates the terms of use, we reserve the right to remove
 packages without any discussion.
 
@@ -279,7 +279,7 @@ policy. I am going to convene a meeting of a small group of people and
 figure out what our response will be."
 
 Often, the best approach is similar to handling package name disputes.
-For example, a user may be a non-native english speaker, and not
+For example, a user may be a non-native English speaker, and not
 realize that a given term is offensive.  It is our responsibility as
 the caretakers of npm to attempt to resolve this as amicably as
 possible.
@@ -418,7 +418,7 @@ When it's necessary to communicate enforcement of our policy at an
 in-person event, a brief public statement to the attendees such as
 this would suffice:
 
-"[thing] happened. This was a violation of our policy. We apologise
+"[thing] happened. This was a violation of our policy. We apologize
 for this. We have taken [action]. This is a good time for all
 attendees to review our policy at [location]. If anyone would like to
 discuss this further they can [contact us somehow]."
