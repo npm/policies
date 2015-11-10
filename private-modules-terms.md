@@ -8,7 +8,9 @@ Modules_, the personal private package storage and delivery features of
 <https://www.npmjs.com> (the _Website_) and the npm public registry at
 <https://registry.npmjs.com> (the _Public Registry_).
 
-These npm Private Modules Terms were last updated on November 9, 2015.
+These npm Private Modules Terms were last updated on
+November 9, 2015. You can review prior versions at
+<https://github.com/npm/policies/commits/master/private-modules-terms.md>.
 
 You may only access or use npm Private Modules by agreeing to the npm
 Open Source Terms as supplemented by these npm Private Modules Terms. If
