@@ -67,20 +67,16 @@ individual users, but can in some cases be very specific.  You can
 learn more about the information gathered and retained by this service
 at the [Google Analytics privacy
 policy](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad).
-
 You can opt out of Google Analytics entirely with the [Google
 Analytics opt-out browser
 addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
-The npm website uses HubSpot to collect and manage leads for marketing
-purposes.  Full details of the information tracked by HubSpot can be
-found at the [HubSpot privacy
-policy](https://www.hubspot.com/legal/privacy-policy).  We only contact
-users for marketing purposes when they have explicitly expressed
-interest in a product or service, for example by filling out a form
-expressing interest in a beta program.  We never share contact
-information with third parties, or sell contact information to third
-parties.
+The npm website uses Oracle Marketing Cloud to collect and manage leads
+for marketing purposes. Information on what data Oracle Marketing
+Cloud stores about users, how it is collected, and hot it is used
+are available in [Oracle Marketing Cloud & Oracle Data Cloud Privacy
+Policy](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-clou
+d-privacy-policy).
 
 The npm website uses Optimizely to test the effects of changes
 to the npm website on users' browsing experiences. Information
