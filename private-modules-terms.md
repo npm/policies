@@ -53,8 +53,8 @@ will not refund any payment you make for npm Private Modules after you
 disable npm Private Modules.
 
 Dollar amounts in these npm Private Modules Terms are amounts of United
-States Dollars, and your payments for npm Private Modules must be
-denominated in United States Dollars.
+States, and you must pay for npm Private Modules in United States
+Dollars.
 
 Dollar amounts in these npm Private Modules Terms do not include tax.
 You will pay any tax.

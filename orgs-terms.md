@@ -54,9 +54,8 @@ conditions:
 You can disable npm Orgs at any time via the Website. npm will not
 refund any payment you make for npm Orgs after you disable npm Orgs.
 
-Dollar amounts in these npm Orgs Terms are amounts of United
-States Dollars, and your payments for npm Orgs must be
-denominated in United States Dollars.
+Dollar amounts in these npm Orgs Terms are amounts of United States
+Dollars, and you must pay for npm Orgs in United States Dollars.
 
 Dollar amounts in these npm Orgs Terms do not include tax.
 You will pay any tax.
