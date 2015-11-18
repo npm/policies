@@ -3,6 +3,7 @@
 These are the legal policies of npm, Inc.
 
 <ul>
+<li><a href="https://www.npmjs.com/policies/terms">Terms of Use</a></li>
 <li><a href="https://www.npmjs.com/policies/conduct">Code of Conduct</a></li>
 <li><a href="https://www.npmjs.com/policies/disputes">Package Name Disputes</a></li>
 <li><a href="https://www.npmjs.com/policies/npm-license">npm License</a></li>
