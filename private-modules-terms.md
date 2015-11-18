@@ -6,7 +6,7 @@ Terms_) supplement the terms for npm Open Source offered by npm, Inc.
 Open Source Terms_). They govern access to and use of _npm Private
 Modules_, the personal private package storage and delivery features of
 <https://www.npmjs.com> (the _Website_) and the npm public registry at
-<https://registry.npmjs.com> (the _Public Registry_).
+<https://registry.npmjs.org> (the _Public Registry_).
 
 These npm Private Modules Terms were last updated on
 November 9, 2015. You can review prior versions at
