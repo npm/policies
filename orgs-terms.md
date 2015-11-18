@@ -9,7 +9,7 @@ private package storage, delivery, and access control features of
 <https://registry.npmjs.com> (the _Public Registry_).
 
 These npm Orgs Terms were last updated on
-November 17, 2015. You can review prior versions at
+November 18, 2015. You can review prior versions at
 <https://github.com/npm/policies/commits/master/orgs-terms.md>.
 
 You may only access or use npm Orgs by agreeing to the npm Open
