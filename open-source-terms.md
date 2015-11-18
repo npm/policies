@@ -132,7 +132,7 @@ may have to use Paid Services, are subject to the following conditions:
     their specific permission.
 
 7.  You will not send advertisements, chain letters, or other
-    solicitations via npm Services.
+    solicitations via _npm Services_.
 
 8.  You will not automate access to, use, or monitor the Website, such
     as with a web crawler, browser plug-in or add-on, or other computer
