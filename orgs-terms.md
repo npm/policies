@@ -16,10 +16,9 @@ You may only access or use npm Orgs by agreeing to the npm Open
 Source Terms as supplemented by these npm Orgs Terms. If npm adds any
 additional functionality to npm Orgs, you must agree to these npm Orgs
 Terms to use those new features, too. You add these npm Orgs Terms to
-your agreement with npm by enabling npm Orgs for your account on the
-Website (your _Account_). These npm Orgs Terms then become a part of the
-contract between you and npm, until you or npm disable npm Orgs for your
-Account.
+your agreement with npm by enabling npm Orgs for your account (your
+_Account_). These npm Orgs Terms then become a part of the contract
+between you and npm, until you or npm disable npm Orgs for your Account.
 
 ## npm Orgs
 
@@ -27,11 +26,10 @@ npm will provide the features and services described
 in the public documentation for npm Orgs at
 <https://www.npmjs.com/npm/private-packages>, and npm grants you
 permission to use those features and services for one organization (your
-_Org_). Permission to use npm Orgs isn't exclusive to you, and you
-can't transfer it to others. You may give other Website account holders
-permission to use npm Orgs by adding their accounts as members of your
-Org, provided those account holders agree to and abide by the npm Open
-Source Terms.
+_Org_). Permission to use npm Orgs isn't exclusive to you, and you can't
+transfer it to others. You may give other account holders permission to
+use npm Orgs by adding their accounts as members of your Org, provided
+those account holders agree to and abide by the npm Open Source Terms.
 
 Your permission to use npm Orgs, your Org members' permission to use npm
 Orgs, and npm's commitment to provide npm Orgs are all subject to these

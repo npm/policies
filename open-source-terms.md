@@ -34,13 +34,13 @@ called _npm Services_ throughout these Terms.
 
 ## Legal Agreement
 
-You may only access or use npm Services by agreeing to these Terms. If
-npm adds any additional functionality to npm Services, you must agree
-to these Terms to use new features, too. You show your agreement with
-npm on these Terms by by creating a user account on the Website (your
-_Account_) or by accessing or using npm Services without creating an
-account. The agreement between you and npm is a legally binding contract
-(this _Agreement_).
+You may only access or use npm Services by agreeing to these Terms.
+If npm adds any additional functionality to npm Services, you must
+agree to these Terms to use new features, too. You show your agreement
+with npm on these Terms by by creating a user account (your _Account_)
+or by accessing or using npm Services without creating an account.
+The agreement between you and npm is a legally binding contract (this
+_Agreement_).
 
 ## Changes
 
@@ -194,10 +194,10 @@ You must create and log into an Account to access features of some npm
 Services, including npm Open Source.
 
 To create an Account, you must provide certain information about
-yourself, as required by the account creation form on the Website. If
-you create an Account, you will provide, at a minimum, a valid e-mail
-address. You will keep that e-mail address up-to-date. You will not
-impersonate any other individual. You may delete your Account at any
+yourself, as required by the account creation form on the Website or the
+CLI. If you create an Account, you will provide, at a minimum, a valid
+e-mail address. You will keep that e-mail address up-to-date. You will
+not impersonate any other individual. You may delete your Account at any
 time by sending an e-mail to <support@npmjs.com>.
 
 You will be responsible for all action taken using your account, whether
