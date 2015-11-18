@@ -13,14 +13,14 @@ November 9, 2015. You can review prior versions at
 <https://github.com/npm/policies/commits/master/private-modules-terms.md>.
 
 You may only access or use npm Private Modules by agreeing to the npm
-Open Source Terms as supplemented by these npm Private Modules Terms. If
-npm adds any additional functionality to npm Private Modules, you must
-agree to these npm Private Modules Terms to use those new features, too.
-You add these npm Private Modules Terms to your agreement with npm by
-clicking a check box when enabling npm Private Modules for your account
-on the Website (your _Account_). These npm Private Modules Terms then
-become a part of the contract between you and npm, until you or npm
-disable npm Private Modules for your Account.
+Open Source Terms as supplemented by these npm Private Modules Terms.
+If npm adds any additional functionality to npm Private Modules, you
+must agree to these npm Private Modules Terms to use those new features,
+too. You add these npm Private Modules Terms to your agreement with
+npm by enabling npm Private Modules for your account on the Website
+(your _Account_). These npm Private Modules Terms then become a part of
+the contract between you and npm, until you or npm disable npm Private
+Modules for your Account.
 
 ## npm Private Modules
 
