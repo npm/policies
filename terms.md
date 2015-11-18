@@ -11,16 +11,16 @@ be found in the LICENSE file of the project's source code at
 
 ## npmjs.com and Other npm Services
 
-The [npm Open Source Terms][open-source-terms] govern all users of
-<https://www.npmjs.com> and the npm public registry.
+The npm Open Source Terms at
+<https://www.npmjs.com/policies/open-source-terms>
+govern use of <https://www.npmjs.com> and the npm public registry.
 
-The [npm Private Packages Terms][private-terms] govern users of npm
-Private Packages.
+The npm Private Packages Terms at
+<https://www.npmjs.com/policies/private-terms>
+govern use of npm Private Packages.
 
-The [npm Orgs Terms][orgs-terms] govern users of npm Orgs.
-
-[open-source-terms]: https://www.npmjs.com/policies/open-source-terms
-
-[private-terms]: https://www.npmjs.com/policies/private-terms
-
-[orgs-terms]: https://www.npmjs.com/policies/orgs-terms
+The npm Personal Payment Plan
+<https://www.npmjs.com/policies/personal-plan>
+and the npm Organization Payment Plan
+<https://www.npmjs.com/policies/organization-plan>
+govern payment for npm Private Packages.
