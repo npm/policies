@@ -131,46 +131,50 @@ may have to use Paid Services, are subject to the following conditions:
 6.  You will not use or attempt to use another person's Account without
     their specific permission.
 
-7.  You will not send advertisements, chain letters, or other
-    solicitations via npm Services.
+7.  You will not buy, sell, or otherwise trade in user names,
+    organization names, names for _Packages_, or any other names
+    reserved on _npm Services_, for money or other compensation.
 
-8.  You will not automate access to, use, or monitor the Website, such
+8.  You will not send advertisements, chain letters, or other
+    solicitations via _npm Services_.
+
+9.  You will not automate access to, use, or monitor the Website, such
     as with a web crawler, browser plug-in or add-on, or other computer
     program that is not a web browser. You may replicate data from the
     Public Registry using the Public APIs per this Agreement.
 
-9.  You will not use npm Services to send e-mail to distribution lists,
+10. You will not use npm Services to send e-mail to distribution lists,
     newsgroups, or group mail aliases.
 
-10. You will not submit material containing malicious computer code,
+11. You will not submit material containing malicious computer code,
     such as computer viruses, computer worms, rootkits, back doors,
     adware, or spyware, to npm Services in such a way that you should
     expect other users of npm Services to unwittingly execute that
     malicious code.
 
-11. You will not falsely imply that you are affiliated with or endorsed
+12. You will not falsely imply that you are affiliated with or endorsed
     by npm.
 
-12. You will not operate illegal schemes, such as pyramid schemes, via
+13. You will not operate illegal schemes, such as pyramid schemes, via
     npm Services.
 
-13. You will not deep-hyperlink to images or other non-hypertext content
+14. You will not deep-hyperlink to images or other non-hypertext content
     served by npm Services.
 
-14. You will not remove any marking indicating proprietary ownership
+15. You will not remove any marking indicating proprietary ownership
     from any material got via npm Services.
 
-15. You will not display any portion of the Website via an HTML IFRAME.
+16. You will not display any portion of the Website via an HTML IFRAME.
 
-16. You will not disable, avoid, or circumvent any security or access
+17. You will not disable, avoid, or circumvent any security or access
     restrictions of npm Services, or access parts of npm Services not
     intended for access by you.
 
-17. You will not strain infrastructure of npm Services with an
+18. You will not strain infrastructure of npm Services with an
     unreasonable volume of requests, or requests designed to impose an
     unreasonable load on IT systems underlying npm Services.
 
-18. You will not encourage or assist any other person in violation of
+19. You will not encourage or assist any other person in violation of
     "Acceptable Use".
 
 ## Enforcement of Acceptable Use
