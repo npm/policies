@@ -20,8 +20,8 @@ agreement to arbitrate disputes individually in "Arbitration".***
 
 ## Other Terms
 
-npm offers additional services (_Paid Services_) that are subject to
-additional terms:
+npm offers additional, paid services (_Paid Services_) that are subject
+to additional terms:
 
 1. Additional terms for personal private packages are
    available at <https://www.npmjs.com/policies/private-modules-terms>.
@@ -327,6 +327,21 @@ The following provisions survive termination of this Agreement: "Your
 Content", "Feedback", "Indemnity", "Disclaimers", "Limits on Liability",
 and "General Terms". Users of npm Services may continue to copy and
 share Your Content after termination of this Agreement.
+
+## Payment Terms
+
+There is no charge for use of npm Open Source. If you use Paid Services,
+these payment terms apply.
+
+You can disable Paid Services at any time via the Website. npm will not
+refund any payment you have already made for Paid Services when you
+disable Paid Services.
+
+Dollar amounts throughout this Agreement are amounts of United States
+Dollars. You must pay for Paid Services in United States Dollars.
+
+Dollar amounts throughout this Agreement do not include tax. You will
+pay any tax.
 
 ## General Terms
 

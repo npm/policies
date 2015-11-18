@@ -46,14 +46,3 @@ conditions:
     add an additional member to your Org, and $7.00 per member of your
     Org (including your own Account) at the beginning of each successive
     month-long period while npm Orgs remains enabled for your Account.
-
-## Billing
-
-You can disable npm Orgs at any time via the Website. npm will not
-refund any payment you make for npm Orgs after you disable npm Orgs.
-
-Dollar amounts in these npm Orgs Terms are amounts of United States
-Dollars, and you must pay for npm Orgs in United States Dollars.
-
-Dollar amounts in these npm Orgs Terms do not include tax.
-You will pay any tax.

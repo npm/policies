@@ -44,16 +44,3 @@ conditions:
 2.  You must pay $7.00 via your Payment Card when you enable npm Private
     Packages and at the beginning of each successive month-long period
     while npm Private Packages remains enabled for your Account.
-
-## Billing
-
-You can disable npm Private Packages at any time via the Website. npm
-will not refund any payment you make for npm Private Packages after you
-disable npm Private Packages.
-
-Dollar amounts in these npm Private Packages Terms are amounts of United
-States, and you must pay for npm Private Packages in United States
-Dollars.
-
-Dollar amounts in these npm Private Packages Terms do not include tax.
-You will pay any tax.
