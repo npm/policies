@@ -21,8 +21,13 @@ agreement to arbitrate disputes individually in "Arbitration".***
 ## Other Terms
 
 npm offers additional services (_Paid Services_) that are subject to
-additional terms. Additional terms for personal private packages are
-found at <https://www.npmjs.com/policies/private-modules-terms>.
+additional terms:
+
+1. Additional terms for personal private packages are
+   available at <https://www.npmjs.com/policies/private-modules-terms>.
+
+2. Additional terms for organization private packages are
+   available at <https://www.npmjs.com/policies/orgs-terms>.
 
 npm Open Source and any Paid Services you may agree to use are together
 called _npm Services_ throughout these Terms.

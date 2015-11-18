@@ -17,6 +17,10 @@ The [npm Open Source Terms][open-source-terms] govern all users of
 The [npm Private Modules Terms][private-terms] govern users of npm
 Private Modules.
 
+The [npm Orgs Terms][orgs-terms] govern users of npm Orgs.
+
 [open-source-terms]: https://www.npmjs.com/policies/open-source-terms
 
 [private-terms]: https://www.npmjs.com/policies/private-modules-terms
+
+[orgs-terms]: https://www.npmjs.com/policies/orgs-terms
