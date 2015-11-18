@@ -43,18 +43,14 @@ conditions:
     Payment Details up-to-date via the Website.
 
 2.  You must pay $7.00 via your Payment Card when you enable npm Private
-    Modules and at the beginning of each calendar month while npm Private
-    Modules is enabled.
+    Modules and at the beginning of each successive month-long period
+    while npm Private Modules remains enabled for your Account.
 
 ## Billing
 
 You can disable npm Private Modules at any time via the Website. npm
 will not refund any payment you make for npm Private Modules after you
 disable npm Private Modules.
-
-When time or date matters for billing purposes under these npm Private
-Modules Terms, the relevant time and date are those in Oakland,
-California, USA.
 
 Dollar amounts in these npm Private Modules Terms are amounts of United
 States Dollars, and your payments for npm Private Modules must be
