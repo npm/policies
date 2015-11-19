@@ -8,7 +8,7 @@ npm, Inc. (_npm_). The Website and the Public Registry are referred to
 together as _npm Open Source_ throughout these Terms.
 
 These npm Open Source Terms were last updated on
-November 9, 2015. You can review prior versions at
+November 18, 2015. You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
 ## Important Terms
@@ -20,22 +20,27 @@ agreement to arbitrate disputes individually in "Arbitration".***
 
 ## Other Terms
 
-npm offers additional services (_Paid Services_) that are subject to
-additional terms. Additional terms for personal private packages are
-found at <https://www.npmjs.com/policies/private-modules-terms>.
+npm offers additional, paid services (_Paid Services_) that are subject
+to additional terms:
+
+1. Additional terms for personal private packages are
+   available at <https://www.npmjs.com/policies/private-modules-terms>.
+
+2. Additional terms for organization private packages are
+   available at <https://www.npmjs.com/policies/orgs-terms>.
 
 npm Open Source and any Paid Services you may agree to use are together
 called _npm Services_ throughout these Terms.
 
 ## Legal Agreement
 
-You may only access or use npm Services by agreeing to these Terms. If
-npm adds any additional functionality to npm Services, you must agree
-to these Terms to use new features, too. You show your agreement with
-npm on these Terms by clicking a check box in the process of creating an
-user account on the Website (your _Account_) or by accessing or using
-npm Services without creating an account. The agreement between you and
-npm is a legally binding contract (this _Agreement_).
+You may only access or use npm Services by agreeing to these Terms.
+If npm adds any additional functionality to npm Services, you must
+agree to these Terms to use new features, too. You show your agreement
+with npm on these Terms by by creating a user account (your _Account_)
+or by accessing or using npm Services without creating an account.
+The agreement between you and npm is a legally binding contract (this
+_Agreement_).
 
 ## Changes
 
@@ -189,10 +194,10 @@ You must create and log into an Account to access features of some npm
 Services, including npm Open Source.
 
 To create an Account, you must provide certain information about
-yourself, as required by the account creation form on the Website. If
-you create an Account, you will provide, at a minimum, a valid e-mail
-address. You will keep that e-mail address up-to-date. You will not
-impersonate any other individual. You may delete your Account at any
+yourself, as required by the account creation form on the Website or the
+CLI. If you create an Account, you will provide, at a minimum, a valid
+e-mail address. You will keep that e-mail address up-to-date. You will
+not impersonate any other individual. You may delete your Account at any
 time by sending an e-mail to <support@npmjs.com>.
 
 You will be responsible for all action taken using your account, whether
@@ -322,6 +327,27 @@ The following provisions survive termination of this Agreement: "Your
 Content", "Feedback", "Indemnity", "Disclaimers", "Limits on Liability",
 and "General Terms". Users of npm Services may continue to copy and
 share Your Content after termination of this Agreement.
+
+## Payment Terms
+
+There is no charge for use of npm Open Source. If you use Paid Services,
+these payment terms apply.
+
+When enabling Paid Services, you must provide all the payment card
+details requested by the Website (your _Payment Details_). Those details
+must be for a valid payment card that you have the right to use (your
+_Payment Card_). You must keep your Payment Details up-to-date via the
+Website.
+
+You can disable Paid Services at any time via the Website. npm will not
+refund any payment you have already made for Paid Services when you
+disable Paid Services.
+
+Dollar amounts throughout this Agreement are amounts of United States
+Dollars. You must pay for Paid Services in United States Dollars.
+
+Dollar amounts throughout this Agreement do not include tax. You will
+pay any tax.
 
 ## General Terms
 
