@@ -8,7 +8,7 @@ npm, Inc. (_npm_). The Website and the Public Registry are referred to
 together as _npm Open Source_ throughout these Terms.
 
 These npm Open Source Terms were last updated on
-November 18, 2015. You can review prior versions at
+November 20, 2015. You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
 ## Important Terms
@@ -23,11 +23,8 @@ agreement to arbitrate disputes individually in "Arbitration".***
 npm offers additional, paid services (_Paid Services_) that are subject
 to additional terms:
 
-1. Additional terms for personal private packages are
-   available at <https://www.npmjs.com/policies/private-modules-terms>.
-
-2. Additional terms for organization private packages are
-   available at <https://www.npmjs.com/policies/orgs-terms>.
+-  Additional terms for npm Private Packages are available at
+   <https://www.npmjs.com/policies/private-terms>.
 
 npm Open Source and any Paid Services you may agree to use are together
 called _npm Services_ throughout these Terms.

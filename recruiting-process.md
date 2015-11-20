@@ -62,9 +62,9 @@ Role is identified.
 Hiring Manager writes job description.
 
 As resumes come into jobs@npmjs.com (https://www.npmjs.com/jobs) and
-hiring@npmjs.com (https://www.npmjs.com/hiring), HR will upload to and
+hiring@npmjs.com (https://www.npmjs.com/whoshiring), HR will upload to and
 update [Lever](https://hire.lever.co/).  It is the responsibility
-ofthe hiring manager to review resumes on a timely basis and if there
+of the hiring manager to review resumes on a timely basis and if there
 are obvious "NO's" to let HR know immediately so the candidates can
 move forward with their job search.
 
@@ -90,11 +90,11 @@ interview?" but not "I didn't like Jane because...").
     select roughly 50% of these candidates for second-round screens.
     Anybody not selected is notified at this stage by HR.
 7.  Second-round screening is 2 longer conversations, 45-60 minutes,
-    by phone or google hangout if the applicant is remote, or
+    by phone or Google Hangout if the applicant is remote, or
     in-person if they are local. Hiring Manager will determine which
     prospective team-mates, or existing employees with relevant
     skillsets will be taking part in second-round conversations. For
-    remote applicants always supply the phone number or google hangout
+    remote applicants always supply the phone number or Google Hangout
     name *applicant-interviewer* in the calendar invitation. Anybody
     not selected for this stage will be notified by HR.
 8.  After the second round interviews, hiring manager meets with
@@ -117,7 +117,7 @@ interview?" but not "I didn't like Jane because...").
     After selecting the best candidate, we do *not* yet notify the
     other candidates.
 11. Reference checks: The candidate supplies 3 names and contact
-    information of people they haveworked directly with; hiring
+    information of people they have worked directly with; hiring
     manager has a discussion with at least 2. This is a final red-flag
     check and also gives the hiring manager a head-start on how to
     work best with the hire.  **Questions can include** What dates did

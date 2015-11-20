@@ -9,7 +9,7 @@ Private Packages Terms_). This Payment Plan governs payment for npm
 Private Packages organizations (_Organizations_) and use of npm Private
 Packages by user accounts added as members of those Organizations.
 
-This Payment Plan was last updated on November 18, 2015.
+This Payment Plan was last updated on November 20, 2015.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/personal-plan.md>.
 
