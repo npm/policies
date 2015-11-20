@@ -73,10 +73,9 @@ addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=291963
 
 The npm website uses Oracle Marketing Cloud to collect and manage leads
 for marketing purposes. Information on what data Oracle Marketing
-Cloud stores about users, how it is collected, and hot it is used
+Cloud stores about users, how it is collected, and how it is used
 are available in [Oracle Marketing Cloud & Oracle Data Cloud Privacy
-Policy](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-clou
-d-privacy-policy).
+Policy](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy).
 
 The npm website uses Optimizely to test the effects of changes
 to the npm website on users' browsing experiences. Information
