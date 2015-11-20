@@ -11,7 +11,7 @@ All requests to the registry are logged and retained by npm, Inc.
 These requests include non-personally identifiable information such as
 the package requested and the time of the request, as well as
 potentially personally identifiable information such as the IP address
-of the requestor.
+of the requester.
 
 For example, this is a sample of the kind of data we track in our logs
 when you download a package:
@@ -22,7 +22,7 @@ when you download a package:
 This includes a number of things:
 
 1. The date and time.
-2. The IP address of the requestor.
+2. The IP address of the requester.
 3. The HTTP request URL and method.
 4. The HTTP response status code.
 5. The `user-agent` string, which includes the versions of Node and
