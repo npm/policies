@@ -10,7 +10,7 @@ the npm public registry at <https://registry.npmjs.org> (the _Public
 Registry_).
 
 These npm Private Packages Terms were last updated on
-November 18, 2015. You can review prior versions at
+November 20, 2015. You can review prior versions at
 <https://github.com/npm/policies/commits/master/private-terms.md>.
 
 You may only access or use npm Private Packages by agreeing to the npm

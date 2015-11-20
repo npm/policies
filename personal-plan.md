@@ -8,7 +8,7 @@ Packages_) at <https://www.npmjs.com/policies/private-terms>. This
 Payment Plan governs payment for use of npm Private Packages by a single
 user account.
 
-This Payment Plan was last updated on November 18, 2015.
+This Payment Plan was last updated on November 20, 2015.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/personal-plan.md>.
 
