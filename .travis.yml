@@ -1,0 +1,6 @@
+---
+language: ruby
+script:
+  - "mkdir -p html"
+  - "for file in *.md ; do redcarpet --parse no_intra_emphasis --parse tables --parse autolink --parse strikethrough --parse with_toc_data $file > \"html/`basename $file .md`.html\" ; done "
+  - "htmlproof html"

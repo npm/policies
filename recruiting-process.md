@@ -62,7 +62,7 @@ Role is identified.
 Hiring Manager writes job description.
 
 As resumes come into jobs@npmjs.com (https://www.npmjs.com/jobs) and
-hiring@npmjs.com (https://www.npmjs.com/hiring), HR will upload to and
+hiring@npmjs.com (https://www.npmjs.com/whoshiring), HR will upload to and
 update [Lever](https://hire.lever.co/).  It is the responsibility
 ofthe hiring manager to review resumes on a timely basis and if there
 are obvious "NO's" to let HR know immediately so the candidates can
