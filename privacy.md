@@ -47,8 +47,8 @@ Like most website operators, npm, Inc. collects
 non-personally-identifying information of the sort that web browsers
 and servers typically make available, such as the browser type,
 language preference, referring site, and the date and time of each
-visitor request. npm, Inc.’s purpose in collecting non-personally
-identifying information is to better understand how npm’s visitors use
+visitor request. npm, Inc.'s purpose in collecting non-personally
+identifying information is to better understand how npm's visitors use
 its website. From time to time, npm, Inc. may release
 non-personally-identifying information in the aggregate, e.g., by
 publishing a report on trends in website usage.
@@ -136,15 +136,15 @@ merger, sale of company assets, or acquisition.
 ## Cookies
 
 A cookie is a string of information that a website stores on a
-visitor’s computer, and that the visitor’s browser provides to the
+visitor's computer, and that the visitor's browser provides to the
 website each time the visitor returns.
 
 The npm website uses cookies to help identify and track visitors,
 their usage of the npm website, and their website access credentials.
 npm website visitors who do not wish to have cookies placed on their
 computers should set their browsers to refuse cookies before using
-npm, Inc.’s websites, with the drawback that certain features of npm,
-Inc.’s websites may not function properly without the aid of cookies.
+npm, Inc.'s websites, with the drawback that certain features of npm,
+Inc.'s websites may not function properly without the aid of cookies.
 
 ## Packages Published to The npm Registry
 
@@ -202,7 +202,7 @@ to delete the information as soon as reasonably possible.
 
 The npm service may contain links to other websites. Any personal
 information you provide on the linked pages is provided directly to
-that third party and is subject to that third party’s privacy policy.
+that third party and is subject to that third party's privacy policy.
 Except as described above, we are not responsible for the content or
 privacy and security practices and policies of websites to which we
 link. Links from the npm service to third parties or to other sites
@@ -245,7 +245,7 @@ USA
 ## Privacy Policy Changes
 
 Although most changes are likely to be minor, npm, Inc. may change its
-Privacy Policy from time to time, and in npm, Inc.’s sole discretion.
+Privacy Policy from time to time, and in npm, Inc.'s sole discretion.
 Any such changes will be posted on [the npm
 blog](http://blog.npmjs.org/), and the detailed history of changes can
 be found in [the git repository history for this
