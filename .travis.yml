@@ -1,0 +1,6 @@
+---
+language: ruby
+before_script:
+  - "make"
+script:
+  - "htmlproof out"
