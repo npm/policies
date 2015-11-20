@@ -2,5 +2,11 @@
 language: ruby
 before_script:
   - "make"
+addons:
+  apt:
+    packages:
+      - 'aspell'
+      - 'aspell-en'
 script:
   - "htmlproof out"
+  - '! cat *.md | aspell --dont-backup list --personal=./npm.en.pws | sort -u | sed "s/^/Not in Dictionaries: /" | grep "^"'
