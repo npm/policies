@@ -1,24 +1,19 @@
 mdfiles = $(wildcard *.md)
-htmlfiles = $(addprefix out/,$(mdfiles:.md=.html)) out/npm-license.html
+htmlfiles = $(addprefix out/,$(mdfiles:.md=.html))
+marked = ./node_modules/.bin/marked
 
 all: html
 
+html: $(htmlfiles)
+
+out/%.html: %.md $(marked)
+	@mkdir -p out
+	$(marked) < $< > $@
+
+$(marked):
+	npm install
+
+.PHONY: clean
+
 clean:
 	rm -rf out
-
-html: marked $(htmlfiles)
-
-# this one is special, because not markdown
-out/npm-license.html: npm-license
-	@mkdir -p out
-	echo "<pre>" > $@
-	cat $< >> $@
-	echo "</pre>" >> $@
-
-out/%.html: %.md
-	@mkdir -p out
-	node_modules/.bin/marked < $< > $@
-
-marked: node_modules/.bin/marked
-node_modules/.bin/marked:
-	npm install

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/npm/policies/issues"
   },
-  "homepage": "https://github.com/npm/policies"
+  "homepage": "https://github.com/npm/policies",
+  "devDependencies": {
+    "marked": "^0.3.5"
+  }
 }
