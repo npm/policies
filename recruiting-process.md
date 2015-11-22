@@ -61,12 +61,11 @@ Role is identified.
 
 Hiring Manager writes job description.
 
-As resumes come into jobs@npmjs.com (https://www.npmjs.com/jobs) and
-hiring@npmjs.com (https://www.npmjs.com/whoshiring), HR will upload to and
-update [Lever](https://hire.lever.co/).  It is the responsibility
-ofthe hiring manager to review resumes on a timely basis and if there
-are obvious "NO's" to let HR know immediately so the candidates can
-move forward with their job search.
+As resumes come into [jobs@npmjs.com](https://www.npmjs.com/jobs), HR
+will upload to and update [Lever](https://hire.lever.co/).  It is the
+responsibility ofthe hiring manager to review resumes on a timely
+basis and if there are obvious "NO's" to let HR know immediately so
+the candidates can move forward with their job search.
 
 Everyone who speaks to a candidate must put their notes in
 [Lever](https://hire.lever.co/). The #recruitment channel on slack is
