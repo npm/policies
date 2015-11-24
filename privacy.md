@@ -233,7 +233,7 @@ information, or how that information is used, please contact us at
 once.
 
 You may contact npm, Inc. via our [contact
-form](http://www.npmjs.com/contact), by emailing <privacy@npmjs.com>,
+form](http://www.npmjs.com/contact), by emailing <legal@npmjs.com>,
 or via snail mail at:
 
 npm, Inc.  
