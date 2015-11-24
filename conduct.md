@@ -1,4 +1,4 @@
-# npm Code of Conduct
+npm Code of Conduct
 
 npm exists to facilitate sharing code, by making it easy for
 JavaScript module developers to publish and distribute packages.
@@ -48,7 +48,7 @@ the npm abuse team.
 
 We are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender identity, sexual
-orientation, disability, ethnicity, religion, age, physical
+orientation, ability, ethnicity, religion, age, physical
 appearance, body size, race, or similar personal characteristics.
 
 We ask that you please respect that people have differences of opinion
@@ -73,7 +73,7 @@ environment for all.
 
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender identity, sexual
-orientation, disability, ethnicity, religion, age, physical
+orientation, ability, ethnicity, religion, age, physical
 appearance, body size, race, or similar personal characteristics;
 inappropriate use of nudity, sexual images, and/or sexually explicit
 language in public spaces; threats of physical or non-physical harm;
