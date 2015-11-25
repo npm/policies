@@ -229,11 +229,13 @@ suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
 You own Your Content, but grant npm a free-of-charge license to provide
-Your Content to users of npm Services. That license allows npm to copy,
-publish, and process Your Content for that purpose, but does not give
-npm any additional rights to build products or services using Your
-Content. The license lasts, for each piece of Your Content, until the
-last copy disappears from npm's backups, caches, and other systems,
+Your Content to users of npm Services. That license allows npm to make
+copies of and publish Your Content, as well as to analyze Your Content
+and share results with users of npm Services. npm may run computer code
+in Your Content to analyze it, but the license does not give npm any
+additional rights to run your code for its functionality in npm products
+or services. The license lasts, for each piece of Your Content, until
+the last copy disappears from npm's backups, caches, and other systems,
 after you delete it from the Website or the Public Registry.
 
 Others who receive Your Content via npm Services may violate the terms
