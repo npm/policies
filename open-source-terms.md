@@ -8,7 +8,8 @@ npm, Inc. (_npm_). The Website and the Public Registry are referred to
 together as _npm Open Source_ throughout these Terms.
 
 These npm Open Source Terms were last updated on
-November 18, 2015. You can review prior versions at
+December 1, 2015.
+You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
 ## Important Terms
