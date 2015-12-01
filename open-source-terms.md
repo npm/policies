@@ -8,7 +8,8 @@ npm, Inc. (_npm_). The Website and the Public Registry are referred to
 together as _npm Open Source_ throughout these Terms.
 
 These npm Open Source Terms were last updated on
-November 18, 2015. You can review prior versions at
+December 1, 2015.
+You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
 ## Important Terms
@@ -228,11 +229,14 @@ npm may remove Your Content from npm Services without notice if npm
 suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
-You own Your Content, but grant npm a license to use it free of charge.
-That license allows npm to do whatever it needs to do with your content,
-within reason, to provide and improve npm Services, for you and other
-users. That license lasts, for each piece of Your Content, until the
-last copy disappears from npm's backups, caches, and other systems,
+You own Your Content, but grant npm a free-of-charge license to provide
+Your Content to users of npm Services. That license allows npm to make
+copies of and publish Your Content, as well as to analyze Your Content
+and share results with users of npm Services. npm may run computer code
+in Your Content to analyze it, but the license does not give npm any
+additional rights to run your code for its functionality in npm products
+or services. The license lasts, for each piece of Your Content, until
+the last copy disappears from npm's backups, caches, and other systems,
 after you delete it from the Website or the Public Registry.
 
 Others who receive Your Content via npm Services may violate the terms
