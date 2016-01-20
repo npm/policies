@@ -11,6 +11,7 @@ These are the legal policies of npm, Inc.
 <li><a href="https://www.npmjs.com/policies/receiving-reports">Receiving Abuse Reports</a></li>
 <li><a href="https://www.npmjs.com/policies/dmca">Copyright and DMCA Policy</a></li>
 <li><a href="https://www.npmjs.com/policies/trademark">Trademark Policy</a></li>
+<li><a href="https://www.npmjs.com/policies/security">Security</a></li>
 <li><a href="https://www.npmjs.com/policies/recruiting-process">Recruiting Process</a></li>
 </ul>
 
