@@ -181,8 +181,7 @@ On the servers that we manage for other companies, we should audit
 logs on a regular basis.
 
 TODO: We plan to build automated anomaly detection systems in place
-for our logs [see internal issue
-#381](https://github.com/npm/issue-tracker/issues/381).
+for our logs [see internal issue #381](https://github.com/npm/issue-tracker/issues/381).
 
 #### Secrets in Logs
 
