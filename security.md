@@ -289,3 +289,16 @@ On our managed Ubuntu hosts, we run the
 
 The infected server should be retired, and a new server should be
 provisioned from scratch.
+
+## Changes
+
+This is a living document and may be updated from time to time.
+Please refer to the [git history for this
+document](https://github.com/npm/policies/commits/master/security.md)
+to view the changes.
+
+## License
+
+This document may be reused under a [Creative Commons
+Attribution-ShareAlike
+License](https://creativecommons.org/licenses/by-sa/4.0/).
