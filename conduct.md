@@ -1,4 +1,4 @@
-npm Code of Conduct
+# npm Code of Conduct
 
 npm exists to facilitate sharing code, by making it easy for
 JavaScript module developers to publish and distribute packages.
