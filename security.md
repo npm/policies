@@ -224,7 +224,7 @@ Communication between services on the same host can be performed via
 HTTP.
 
 All inter-service communication between two hosts is performed using
-SSL.
+TLS.
 
 ## Development Process
 
