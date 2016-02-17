@@ -63,7 +63,7 @@ Hiring Manager writes job description.
 
 As resumes come into [jobs@npmjs.com](https://www.npmjs.com/jobs), HR
 will upload to and update [Lever](https://hire.lever.co/).  It is the
-responsibility ofthe hiring manager to review resumes on a timely
+responsibility of the hiring manager to review resumes on a timely
 basis and if there are obvious "NO's" to let HR know immediately so
 the candidates can move forward with their job search.
 
@@ -116,7 +116,7 @@ interview?" but not "I didn't like Jane because...").
     After selecting the best candidate, we do *not* yet notify the
     other candidates.
 11. Reference checks: The candidate supplies 3 names and contact
-    information of people they haveworked directly with; hiring
+    information of people they have worked directly with; hiring
     manager has a discussion with at least 2. This is a final red-flag
     check and also gives the hiring manager a head-start on how to
     work best with the hire.  **Questions can include** What dates did
