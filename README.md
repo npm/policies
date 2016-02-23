@@ -13,6 +13,7 @@ These are the legal policies of npm, Inc.
 <li><a href="https://www.npmjs.com/policies/trademark">Trademark Policy</a></li>
 <li><a href="https://www.npmjs.com/policies/security">Security</a></li>
 <li><a href="https://www.npmjs.com/policies/recruiting-process">Recruiting Process</a></li>
+<li><a href="https://www.npmjs.com/policies/crawlers">Replication and web crawler policy</a></li>
 </ul>
 
 These are updated from time to time.  Their sources are stored in a git
