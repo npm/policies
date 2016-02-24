@@ -80,7 +80,7 @@ Policy](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privac
 The npm website uses Optimizely to test the effects of changes
 to the npm website on users' browsing experiences. Information
 on what data Optimizely stores about users, how it is collected,
-and how it is used are available in [Optimizely' privacy
+and how it is used are available in [Optimizely's privacy
 policy](https://www.optimizely.com/privacy/).
 
 ## Collection of Personally Identifying Information
