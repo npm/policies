@@ -51,7 +51,7 @@ endgame when possible.
 
 If Alice has responded but the parties cannot come to an agreement,
 start a cooling-off period. Let both parties know the cooling-off 
-period has begun, set a timer for 3 weeks, and then continue.
+period has begun, set a timer for 4 weeks, and then continue.
 
 If Alice has not responded, then we must make a judgment call.  There
 are a few possible considerations:
