@@ -229,15 +229,20 @@ npm may remove Your Content from npm Services without notice if npm
 suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
-You own Your Content, but grant npm a free-of-charge license to provide
-Your Content to users of npm Services. That license allows npm to make
-copies of and publish Your Content, as well as to analyze Your Content
-and share results with users of npm Services. npm may run computer code
-in Your Content to analyze it, but the license does not give npm any
-additional rights to run your code for its functionality in npm products
-or services. The license lasts, for each piece of Your Content, until
-the last copy disappears from npm's backups, caches, and other systems,
-after you delete it from the Website or the Public Registry.
+Your Content belongs to you. You decide whether and how to license it.
+But at a minimum, you license npm to provide Your Content to users
+of npm Services when you share Your Content. That special license
+allows npm to copy, publish, and analyze Your Content, and to share
+its analyses with others. npm may run computer code in Your Content to
+analyze it, but npm's special license alone does not give npm the right
+to run code for its functionality in npm products or services.
+
+When Your Content is removed from the Website or the Public Registry,
+whether by you or npm, npm's special license ends when the last copy
+disappears from npm's backups, caches, and other systems. Other
+licenses, such as open source licenses, may continue after Your Content
+is removed. Those licenses may give others, or npm itself, the right to
+share Your Content with npm Services again.
 
 Others who receive Your Content via npm Services may violate the terms
 on which you license Your Content. You agree that npm will not be liable
