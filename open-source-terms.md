@@ -230,7 +230,7 @@ suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
 Your Content belongs to you. You decide whether and how to license it. In 
-addition to any license that may apply to Your Content, You hereby grant 
+addition to any license that may apply to Your Content, you hereby grant 
 npm a worldwide, non-exclusive, royalty-free, sublicenseable and 
 transferable license to use, archive, reproduce, distribute, and display 
 Your Content in connection with npm Services as well as other services or 
