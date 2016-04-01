@@ -229,18 +229,18 @@ npm may remove Your Content from npm Services without notice if npm
 suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
-Your Content belongs to you. You decide whether and how to license it. In 
-addition to any license that may apply to Your Content, you hereby grant 
-npm a worldwide, non-exclusive, royalty-free, sublicenseable and 
-transferable license to use, archive, reproduce, distribute, and display 
-Your Content in connection with npm Services as well as other services or 
-web sites owned or operated by npm, its successors and its affiliates, 
-including without limitation the npm CLI tool.
+Your Content belongs to you. You decide whether and how to license it. 
+The npm Services are intended to remove the burden of distributing Your
+Content. You agree that npm has the irrevocable right to distribute
+Your Content, to analyze its code, and to do our best to ensure that
+Your Content continues to be available to others via npm Services.
+We may use the services of other companies in the process, and you agree
+that we can do that. If we ever change our legal business structure, or
+sell our company to another, you agree that the new owner will continue
+to have these rights.
 
 If Your Content is removed by you or by npm, other licenses, such as open 
 source licenses, may continue to be in force after Your Content is removed. 
-Those licenses may give others, or npm itself, the right to share Your 
-Content with npm Services again.
 
 Others who receive Your Content via npm Services may violate the terms
 by which you license Your Content. You agree that npm will not be liable
