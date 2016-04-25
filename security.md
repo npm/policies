@@ -196,7 +196,7 @@ is used to help with this.
 Micro-services should only have access to databases and files that
 they need access to.
 
-With our docker-based infrastructure (npm On-Site) this is achieved by
+With our docker-based infrastructure (npm Enterprise) this is achieved by
 having containers only mount folders on the root host that they
 require access to.
 
