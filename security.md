@@ -241,7 +241,7 @@ made over HTTP instead of HTTPS?"
 
 ### Deploying Updates
 
-* Any new code pushed to production is first throughly tested in a
+* Any new code pushed to production is first thoroughly tested in a
   staging environment.
 * Mechanisms are in place for rolling back any changes that are pushed
   to production.
