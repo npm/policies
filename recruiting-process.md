@@ -89,11 +89,11 @@ interview?" but not "I didn't like Jane because...").
     select roughly 50% of these candidates for second-round screens.
     Anybody not selected is notified at this stage by HR.
 7.  Second-round screening is 2 longer conversations, 45-60 minutes,
-    by phone or Google Hangout if the applicant is remote, or
+    by phone or google hangout if the applicant is remote, or
     in-person if they are local. Hiring Manager will determine which
     prospective team-mates, or existing employees with relevant
     skillsets will be taking part in second-round conversations. For
-    remote applicants always supply the phone number or Google Hangout
+    remote applicants always supply the phone number or google hangout
     name *applicant-interviewer* in the calendar invitation. Anybody
     not selected for this stage will be notified by HR.
 8.  After the second round interviews, hiring manager meets with
