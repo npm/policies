@@ -1,5 +1,10 @@
 # npm Trademark Policy
 
+This policy describes npm trademarks and how you may use them.
+For information on what to do if someone infringes a trademark of
+_yours_ with a confusing package name, see the [Dispute Resolution
+Policy](https://www.npmjs.com/policies/disputes).
+
 ## What is npm?
 
 npm is a package manager for Node.js modules.   It was created in 2009

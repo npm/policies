@@ -1,7 +1,8 @@
 # Dispute Resolution
 
-This document describes the steps that you should take to resolve module name
-disputes with other npm publishers.
+This document describes the steps that you should take to resolve module
+name disputes with other npm publishers.  It also describes special steps
+you should take about names you think infringe your trademarks.
 
 This document is a clarification of the acceptable behavior outlined in
 the [npm Code of Conduct](https://www.npmjs.com/policies/conduct), and
@@ -104,6 +105,19 @@ including but not limited to:
 If you see bad behavior like this, please report it to <abuse@npmjs.com>
 right away.  **You are never expected to resolve abusive behavior on
 your own.**  We are here to help.
+
+## Trademarks
+
+If you think another npm publisher is infringing your trademark, such as
+by using a confusingly similar package name, email <abuse@npmjs.com> with
+a link to the package or user account on <https://npmjs.com>.  Attach a
+copy of your trademark registration certificate.
+
+If we see that the package's publisher is intentionally misleading others
+by misusing your registered mark without permission, we will transfer the
+package name to you.  Otherwise, we will contact the package publisher
+and ask them to clear up any confusion with changes to their package's
+`README` file or metadata.
 
 ## Changes
 
