@@ -20,12 +20,11 @@ submit a notice pursuant to the Digital Millennium Copyright Act or
 other similar international law, you can submit a notice to our agent
 for service of notice at:
 
-Abuse Team  
-npm, Inc.  
+Kyle E. Mitchell  
+c/o npm, Inc.  
 1999 Harrison St, Ste 1150  
 Oakland CA 94612 USA  
-+1-510-858-7608  
-<abuse@npmjs.com>
+<copyright@npmjs.com>
 
 Please make sure your notice meets the Digital Millennium Copyright
 Act requirements.
