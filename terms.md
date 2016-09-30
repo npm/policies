@@ -21,6 +21,6 @@ govern use of npm Private Packages.
 
 The npm Solo Payment Plan
 <https://www.npmjs.com/policies/solo-plan>
-and the npm Organization Payment Plan
-<https://www.npmjs.com/policies/organization-plan>
+and the npm Organizations Payment Plan
+<https://www.npmjs.com/policies/organizations-plan>
 govern payment for npm Private Packages.

@@ -47,13 +47,13 @@ only according to that Payment Plan.
 Both your permission to use npm Private Packages and npm's commitment to
 provide npm Private Packages are subject to these npm Private Packages
 Terms, the npm Open Source Terms, and payment for use of npm Private
-Packages by your Account under a _Payment Plan_. Payment plans include:
+Packages by your Account under a _Payment Plan_. The Payment Plans are:
 
 1. the npm Solo Payment Plan at
    <https://www.npmjs.com/policies/solo-plan>
 
-2. or the npm Organization Payment Plan at
-   <https://www.npmjs.com/policies/organization-plan>
+2. the npm Organizations Payment Plan at
+   <https://www.npmjs.com/policies/organizations-plan>
 
 You may not use npm Private Packages unless you or someone else has
 agreed to a Payment Plan, enabled npm Private Packages for your Account

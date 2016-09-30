@@ -1,6 +1,6 @@
-# npm Organization Payment Plan
+# npm Organizations Payment Plan
 
-This npm Organization Payment Plan (this _Payment Plan_) supplements
+This npm Organizations Payment Plan (this _Payment Plan_) supplements
 the terms for npm Open Source offered by npm, Inc. (_npm_) at
 <https://www.npmjs.com/policies/open-source-terms> (_npm Open Source
 Terms_), as well as the terms for npm Private Packages (_npm Private
@@ -12,7 +12,7 @@ Packages by user accounts added as members of those Organizations.
 This Payment Plan was last updated on
 December 1, 2015.
 You can review prior versions at
-<https://github.com/npm/policies/commits/master/organization-plan.md>.
+<https://github.com/npm/policies/commits/master/organizations-plan.md>.
 
 Under this Payment Plan, you may create one or more Organizations.
 
