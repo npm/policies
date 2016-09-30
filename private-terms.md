@@ -25,11 +25,11 @@ and npm, until you or npm disable npm Private Packages for your Account.
 
 ## Use of npm Private Packages
 
-npm will provide the private package storage and delivery features and
-services described in the public documentation for npm Private Packages
-at <https://www.npmjs.com/private-modules> (the _npm Private Packages
-Documentation_). npm grants you permission to use those features and
-services.
+npm will provide the private package storage and delivery features
+and services described in the public documentation for npm Private
+Packages at <https://docs.npmjs.com/private-modules/intro> (the _npm
+Private Packages Documentation_). npm grants you permission to use
+those features and services.
 
 npm will also provide the organization management and access control
 features described in the npm Private Packages Documentation, and grants
