@@ -12,7 +12,7 @@ Packages by user accounts added as members of those Organizations.
 This Payment Plan was last updated on
 December 1, 2015.
 You can review prior versions at
-<https://github.com/npm/policies/commits/master/personal-plan.md>.
+<https://github.com/npm/policies/commits/master/organization-plan.md>.
 
 Under this Payment Plan, you may create one or more Organizations.
 

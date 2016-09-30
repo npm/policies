@@ -49,8 +49,8 @@ provide npm Private Packages are subject to these npm Private Packages
 Terms, the npm Open Source Terms, and payment for use of npm Private
 Packages by your Account under a _Payment Plan_. Payment plans include:
 
-1. the npm Personal Payment Plan at
-   <https://www.npmjs.com/policies/personal-plan>
+1. the npm Solo Payment Plan at
+   <https://www.npmjs.com/policies/solo-plan>
 
 2. or the npm Organization Payment Plan at
    <https://www.npmjs.com/policies/organization-plan>

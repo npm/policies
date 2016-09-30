@@ -19,8 +19,8 @@ The npm Private Packages Terms at
 <https://www.npmjs.com/policies/private-terms>
 govern use of npm Private Packages.
 
-The npm Personal Payment Plan
-<https://www.npmjs.com/policies/personal-plan>
+The npm Solo Payment Plan
+<https://www.npmjs.com/policies/solo-plan>
 and the npm Organization Payment Plan
 <https://www.npmjs.com/policies/organization-plan>
 govern payment for npm Private Packages.
