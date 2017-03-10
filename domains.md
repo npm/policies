@@ -7,6 +7,7 @@ How can you tell an email or domain really belongs to npm and isn't a phishing a
 * registry.npmjs.org - the official, default npm registry
 * npmjs.com - the domain of our website and any email from us
 * npm.im - a short domain used to redirect to packages, e.g. npm.im/express
+* npm.me - a short domain used for redirects in marketing campaigns, ads, etc.
 
 ## Formerly used
 
