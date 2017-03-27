@@ -8,6 +8,7 @@ How can you tell an email or domain really belongs to npm and isn't a phishing a
 * npmjs.com - the domain of our website and any email from us
 * npm.im - a short domain used to redirect to packages, e.g. npm.im/express
 * npm.me - a short domain used for redirects in marketing campaigns, ads, etc.
+* npm.red - a domain used for staging our website and registry in development
 
 ## Formerly used
 
@@ -22,3 +23,10 @@ We own these but don't use them for anything (yet).
 * npm.tips
 * npm.xyz
 * npm.computer
+* npm.technology
+* npm.today
+* npm.email
+* npm.mn
+* npm.me
+* npm.so
+* npm.tips
