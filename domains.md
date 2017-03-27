@@ -30,3 +30,18 @@ We own these but don't use them for anything (yet).
 * npm.me
 * npm.so
 * npm.tips
+
+## Changes
+
+This is a living document and may be updated from time to time.
+Please refer to the [git history for this
+document](https://github.com/npm/policies/commits/master/domains.md)
+to view the changes.
+
+## License
+
+Copyright (C) npm, Inc., All rights reserved
+
+This document may be reused under a [Creative Commons
+Attribution-ShareAlike
+License](https://creativecommons.org/licenses/by-sa/4.0/).
