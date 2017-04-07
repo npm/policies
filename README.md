@@ -15,6 +15,7 @@ These are the legal policies of npm, Inc.
 <li><a href="https://www.npmjs.com/policies/recruiting-process">Recruiting Process</a></li>
 <li><a href="https://www.npmjs.com/policies/crawlers">Replication and web crawler policy</a></li>
 <li><a href="https://www.npmjs.com/policies/domains">Our official list of domains</a></li>
+<li><a href="https://www.npmjs.com/what-is-npm">What is npm?</a></li>
 </ul>
 
 These are updated from time to time.  Their sources are stored in a git
