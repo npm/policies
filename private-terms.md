@@ -25,11 +25,11 @@ and npm, until you or npm disable npm Private Packages for your Account.
 
 ## Use of npm Private Packages
 
-npm will provide the private package storage and delivery features and
-services described in the public documentation for npm Private Packages
-at <https://www.npmjs.com/private-modules> (the _npm Private Packages
-Documentation_). npm grants you permission to use those features and
-services.
+npm will provide the private package storage and delivery features
+and services described in the public documentation for npm Private
+Packages at <https://docs.npmjs.com/private-modules/intro> (the _npm
+Private Packages Documentation_). npm grants you permission to use
+those features and services.
 
 npm will also provide the organization management and access control
 features described in the npm Private Packages Documentation, and grants
@@ -47,13 +47,13 @@ only according to that Payment Plan.
 Both your permission to use npm Private Packages and npm's commitment to
 provide npm Private Packages are subject to these npm Private Packages
 Terms, the npm Open Source Terms, and payment for use of npm Private
-Packages by your Account under a _Payment Plan_. Payment plans include:
+Packages by your Account under a _Payment Plan_. The Payment Plans are:
 
-1. the npm Personal Payment Plan at
-   <https://www.npmjs.com/policies/personal-plan>
+1. the npm Solo Payment Plan at
+   <https://www.npmjs.com/policies/solo-plan>
 
-2. or the npm Organization Payment Plan at
-   <https://www.npmjs.com/policies/organization-plan>
+2. the npm Organizations Payment Plan at
+   <https://www.npmjs.com/policies/organizations-plan>
 
 You may not use npm Private Packages unless you or someone else has
 agreed to a Payment Plan, enabled npm Private Packages for your Account
