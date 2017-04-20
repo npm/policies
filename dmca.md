@@ -1,52 +1,136 @@
 # Copyright Policy
 
-We take notices of potential copyright infringement seriously.  If a
-user or other party has alleged that material on the npm website is
-infringing a copyright of such party or another third-party, the
-notice should be forwarded immediately to <abuse@npmjs.com>, who will
-work with legal counsel to resolve the dispute.  If legal determines
-the notice satisfies all requirements under the United States Digital
-Millennium Copyright Act, then access to the allegedly infringing
-material must be promptly removed or disabled.  We will then make a
-good faith effort to give notice of the claimed infringement to the
-user that posted the allegedly infringing material.
+This policy describes how we at npm, Inc., the company behind npmjs.com
+and the npm public registry, respond to claims that materials user
+have submitted to our service infringe copyright.  In short, we follow
+the Digital Millennium Copyright Act, or DMCA.
 
-## How to Report Infringement
+## What's the DMCA?
 
-We respect the intellectual property of others and ask that you do
-too. If you believe any package or other materials available through
-the Service violates a copyright held by you and you would like to
-submit a notice pursuant to the Digital Millennium Copyright Act or
-other similar international law, you can submit a notice to our agent
-for service of notice at:
+The DMCA is a United States federal law that sets up a formal process
+for reports of copyright infringement by our users, called takedown
+notices.  It also sets up a process for disputing takedown notices
+by sending counter notices.  The law protects us from liability for
+infringement by our users when we follow these steps.  It also makes
+those who abuse the takedown and dispute processes liable for damage
+they cause.
 
-Kyle E. Mitchell  
+Many online service providers like us handle great numbers of takedown
+notices and counter notices.  Often, the whole process takes place
+online, with the help of automated tools.  However, the legal claims
+and documents involved remain very serious.  Please approach the
+process accordingly.
+
+## Should I send a takedown notice?
+
+If you aren't absolutely sure both that you own copyright, and that a
+user' material on our service infringes, speak to an attorney before
+sending a DMCA takedown notice.  Knowing, material misrepresentations
+about infringement in a takedown notice can make you liable to us,
+the person you allege infringes, copyright owners, and licensees,
+all for significant damages, including costs and attorneys' fees.
+A lawyer can help you decide if you should file a takedown notice,
+and if so, help you prepare it correctly.  We cannot.
+
+## How do I send a takedown notice?
+
+Send takedown notices to our agent.  You can find their contact
+information [below](#agent).
+
+Per United States Code, title 17, section 512(c)(3), your takedown
+notice must have:
+
+1.  A physical or electronic signature of a person authorized to act
+    on behalf of the copyright owner.
+
+2.  Identification of the copyrighted work you claim is been infringed.
+
+3.  Identification of the infringing material to be removed.
+
+4.  Contact information, preferably an e-mail address, that we can
+    use to reach you.
+
+5.  Your statement of good faith belief that use of the material in
+    the manner complained of is not authorized by the copyright owner,
+    its agent, or the law.
+
+6.  Your statement that the information in your notice is accurate.
+
+7.  Your statement, under penalty of perjury, that you are authorized
+    to act on behalf of the owner of the copyright allegedly infringed.
+
+## How do we respond to takedown notices?
+
+When we receive a valid takedown notice, we forward a copy to the
+[Lumen Database](https://lumendatabase.org/) and remove or restrict
+access to allegedly infringing material.  We then try to contact
+the user that submitted the material, to notify them that we have
+removed or restricted access to the material, provide them a copy of
+the takedown notice, and direct them to this policy.
+
+When appropriate, we suspend or terminate the accounts of users who
+repeatedly infringe copyright through our service.
+
+## Should I dispute a takedown?
+
+If you aren't absolutely sure that your material doesn't infringe
+copyright, speak to an attorney before sending a DMCA counter notice.
+Knowing, material misrepresentations about mistaken removal or access
+restriction can make you liable to us, the one who filed the takedown
+notice, copyright owners, and licensees, all for significant damages,
+including costs and attorneys' fees.  A lawyer can help you decide
+if you should file a counter notice, and if so, help you prepare
+it correctly.  We cannot.
+
+## How do I dispute a takedown?
+
+Do _not_ resubmit material to our service that we removed or restricted
+in response to a takedown notice.  If you do this, we will suspend
+or terminate your account.
+
+Send counter notices to our agent.  You can find their contact
+information [below](#agent).
+
+Per United States Code, title 17, section 512(g)(3), your counter
+notice must have:
+
+1.  Your physical or electronic signature.
+
+2.  Identification of the material removed access-restricted, and
+    where it was available via our service before we removed or
+    restricted access to it.
+
+3.  Your statement, under penalty of perjury, that you have a good
+    faith belief that the material was removed or disabled as a result
+    of a mistake or misidentification of the material.
+
+4.  Your name, address, and telephone number.
+
+5.  Your statement that you consent to the jurisdiction of the Federal
+    District Court for the judicial district in which your address
+    is located, or if outside the United Sates, for any any judicial
+    district in which we may be found.
+
+6.  Your statement that you will accept service of process from the
+    person who provided the takedown notice, or their agent.
+
+## How do we respond to counter notices?
+
+When we receive a valid counter-notice, we forward a copy to the
+person who filed the takedown notice.  If they don't notify us in ten
+business days that they are seeking a court order to prevent further
+infringement, we may replace or restore access to to the material
+we removed.
+
+## Where do I send notice?<a id="agent"></a>
+
+Send all takedown notices and counter notices to:
+
+Kyle Mitchell  
 c/o npm, Inc.  
-1999 Harrison St, Ste 1150  
-Oakland CA 94612 USA  
-<copyright@npmjs.com>
+1999 Harrison Street, Suite 1150  
+Oakland, CA 94612  
+copyright@npmjs.com  
+(510) 858 - 7608
 
-Please make sure your notice meets the Digital Millennium Copyright
-Act requirements.
-
-Please note that a copy of each legal notice we receive is also sent
-to [Lumen Database](https://lumendatabase.org) for publication
-(with any user's personal information removed).
-
-## How npm Responds to Notices
-
-If the posting user objects to removal of the material, such user may
-file a counter notice.  If we receive a counter notice from such user
-meeting the requirements of the DMCA, we will use good faith efforts
-to notify the complainant of such counter notice reinstate access to
-the material within 10-14 business days unless the complainant
-notifies us that it has filed a lawsuit against the allegedly
-infringing user. If we do not receive a counter notice from such
-user within 10 business days of giving notice of the claimed
-infringement, we reserve the right to permanently delete the material
-at issue.
-
-We will terminate the accounts of users who are repeat infringers.
-Note, npm cannot provide legal advice to users (whether making a
-complaint or defending against a complaint), and we should ask users
-with legal questions to seek an attorney.
+Send via e-mail for fastest processing.
