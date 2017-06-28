@@ -4,13 +4,13 @@ These npm Private Packages Terms of Use (these _npm Private Packages
 Terms_) supplement the terms for npm Open Source offered by npm, Inc.
 (_npm_) at <https://www.npmjs.com/policies/open-source-terms> (_npm Open
 Source Terms_). They govern access to and use of _npm Private Packages_,
-the private package storage, delivery, organization management, and
-access control features of <https://www.npmjs.com> (the _Website_) and
-the npm public registry at <https://registry.npmjs.org> (the _Public
-Registry_).
+also known as _npm Solo_ and _npm Organizations_, the private package
+storage, delivery, organization management, and access control features
+of <https://www.npmjs.com> (the _Website_) and the npm public registry
+at <https://registry.npmjs.org> (the _Public Registry_).
 
 These npm Private Packages Terms were last updated on
-December 1, 2015.
+June 27, 2017.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/private-terms.md>.
 
