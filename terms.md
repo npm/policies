@@ -34,9 +34,9 @@ have concerns about your own trademark's use on npm please see our [Disputes Pol
 ## Paid npm services
 
 npm's paid products, including the npm Solo and Organizations plans, are
-covered by the npm Private Packages Terms at <https://www.npmjs.com/policies/private-terms>.
+covered by the npm Paid Services Terms at <https://www.npmjs.com/policies/private-terms>.
 
-The npm Personal Payment Plan 
+The npm Personal Payment Plan
 <https://www.npmjs.com/policies/personal-plan>
 and the npm Organization Payment Plan
 <https://www.npmjs.com/policies/organization-plan>

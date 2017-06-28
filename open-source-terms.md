@@ -24,7 +24,7 @@ agreement to arbitrate disputes individually in "Arbitration".***
 npm offers additional, paid services (_Paid Services_) that are subject
 to additional terms:
 
--  Additional terms for npm Private Packages are available at
+-  Additional terms for npm Paid Services are available at
    <https://www.npmjs.com/policies/private-terms>.
 
 npm Open Source and any Paid Services you may agree to use are together
@@ -67,8 +67,10 @@ to notifications about alleged infringement via npm Services per
 the copyright policy at <https://www.npmjs.com/policies/dmca> (the
 _Copyright Policy_).
 
-npm resolves disputes about package names in the Public Registry per the
-policy at <https://www.npmjs.com/policies/disputes> (_Dispute Policy_).
+npm resolves disputes about package names, user names and organization
+names in the Public Registry per the policy at
+<https://www.npmjs.com/policies/disputes> (_Dispute Policy_). This
+includes "package squatting".
 
 Use of all npm Services is governed by the code of conduct at
 <https://www.npmjs.com/policies/conduct> (_Code of Conduct_).
@@ -336,24 +338,9 @@ share Your Content after termination of this Agreement.
 
 ## Payment Terms
 
-There is no charge for use of npm Open Source. If you use Paid Services,
-these payment terms apply.
-
-When enabling Paid Services, you must provide all the payment card
-details requested by the Website (your _Payment Details_). Those details
-must be for a valid payment card that you have the right to use (your
-_Payment Card_). You must keep your Payment Details up-to-date via the
-Website.
-
-You can disable Paid Services at any time via the Website. npm will not
-refund any payment you have already made for Paid Services when you
-disable Paid Services.
-
-Dollar amounts throughout this Agreement are amounts of United States
-Dollars. You must pay for Paid Services in United States Dollars.
-
-Dollar amounts throughout this Agreement do not include tax. You will
-pay any tax.
+There is no charge for use of npm Open Source. If you use Paid Services
+from npm, our Paid Services Terms at <https://www.npmjs.com/policies/private-terms>
+apply.
 
 ## General Terms
 
