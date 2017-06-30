@@ -4,67 +4,65 @@ This document describes the steps that you should take to resolve module
 name disputes with other npm publishers.  It also describes special steps
 you should take about names you think infringe your trademarks.
 
-This document is a clarification of the acceptable behavior outlined in
-the [npm Code of Conduct](https://www.npmjs.com/policies/conduct), and
-nothing in this document should be interpreted to contradict any aspect
-of the npm Code of Conduct.
+This document is additive to the guidelines in the
+[npm Code of Conduct](https://www.npmjs.com/policies/conduct) and
+[npm Open-Source terms](https://www.npmjs.com/policies/open-source-terms).
+Nothing in this document should be interpreted to contradict any aspect
+of the npm Code of Conduct or Open-Source Terms.
 
 ## tl;dr
 
 1. Get the author email with `npm owner ls <pkgname>`
 2. Email the author, CC <support@npmjs.com>
-3. After a few weeks, if there's no resolution, we'll sort it out.
+3. After 4 weeks, if there's no resolution, we'll address it.
 
-Don't squat on package names.  Publish code or move out of the way.
+Don't squat on package names, user names or organization names.
+Publish code or move out of the way.
 
-## Description
+## When to use this process
 
-There sometimes arise cases where a user publishes a module, and then
-later, some other user wants to use that name.  Here are some common
-ways that happens (each of these is based on actual events.)
+This process is an excellent way to:
 
-1. Alice writes a JavaScript module `foo`, which is not node-specific.
-   Alice doesn't use node at all.  Yusuf wants to use `foo` in node, so he
-   wraps it in an npm module.  Some time later, Alice starts using node,
-   and wants to take over management of her program.
-2. Yusuf writes an npm module `foo`, and publishes it.  Perhaps much
-   later, Alice finds a bug in `foo`, and fixes it.  She sends a pull
-   request to Yusuf, but Yusuf doesn't have the time to deal with it,
-   because he has a new job and a new baby and is focused on his new
-   Erlang project, and kind of not involved with node any more.  Alice
-   would like to publish a new `foo`, but can't, because the name is
-   taken.
-3. Yusuf writes a 10-line flow-control library, and calls it `foo`, and
-   publishes it to the npm registry.  Being a simple little thing, it
-   never really has to be updated.  Alice works for Foo Inc, the makers
-   of the critically acclaimed and widely-marketed `foo` JavaScript
-   toolkit framework.  They publish it to npm as `foojs`, but people
-   are routinely confused when `npm install foo` is some different
-   thing.
-4. Yusuf writes a parser for the widely-known `foo` file format, because
-   he needs it for work.  Then, he gets a new job, and never updates
-   the prototype.  Later on, Alice writes a much more complete `foo`
-   parser, but can't publish, because Yusuf's `foo` is in the way.
+* Adopt an "abandoned" package
+* Adopt a package created from your project, published by someone else
+* Report "squatting"
+* Report a deliberately misleading or confusing package name
 
-The validity of Alice's claim in each situation can be debated.
-However, Alice's appropriate course of action in each case is the same.
+This process does not apply if the package violates our
+[Terms of Use](https://www.npmjs.com/policies/open-source-terms),
+in particular our
+[Acceptable Use](https://www.npmjs.com/policies/open-source-terms#acceptable-use)
+and [Acceptable Content](https://www.npmjs.com/policies/open-source-terms)
+rules, or our [Code of Conduct](https://www.npmjs.com/policies/conduct).
+Those documents refer to this one to resolve cases of "squatting"; see
+below.
 
-1. `npm owner ls foo`.  This will tell Alice the email address of the
-   owner (Yusuf).
-2. Alice emails Yusuf, explaining the situation **as respectfully as
-   possible**, and what she would like to do with the module name.  She
-   adds the npm support staff <support@npmjs.com> to the CC list of
-   the email.  Mention in the email that Yusuf can run `npm owner add
-   alice foo` to add Alice as an owner of the `foo` package.
-3. After a reasonable amount of time, if Yusuf has not responded, or if
-   Yusuf and Alice can't come to any sort of resolution, email support
-   <support@npmjs.com> and we'll sort it out.  ("Reasonable" is
-   usually at least 4 weeks.)
+If you see bad behavior or content you believe is unacceptable, refer to
+the Code of Conduct for guidelines on
+[reporting violations](https://www.npmjs.com/policies/conduct#reporting-violations-of-this-code-of-conduct).
+**You are never expected to resolve abusive behavior on your own.**
+**We are here to help.**
+
+## Beginning the process
+
+To dispute a package called `foo`, follow these steps:
+
+1. Run `npm owner ls foo`.  This will give you the email address of
+   an owner of `foo` (there may be more than one valid owner).
+2. Send a message to that email address, explaining the situation
+   **as respectfully as possible**, as well as what you would like
+   to see happen. Add <support@npmjs.com> to the CC list of the email.
+   If you would like to be given control of the package, mention
+   in the email that the current owner can run
+   `npm owner add <yourusername> foo` to do so.
+3. After 4 weeks, if the owner has not responded, support will
+   address your request. They will use their discretion and you
+   will not automatically get what you requested.
 
 ## Reasoning
 
-In almost every case so far, the parties involved have been able to
-reach an amicable resolution without any major intervention.  Most
+In 99.9% of cases of disputes, the parties involved have been able
+to reach an amicable resolution without any major intervention. Most
 people really do want to be reasonable, and are probably not even
 aware that they're in your way.
 
@@ -75,36 +73,49 @@ regardless of the justification.  When humans solve their problems by
 talking to other humans with respect, everyone has the chance to end
 up feeling good about the interaction.
 
-## Exceptions
+## Squatting
 
-Some things are not allowed, and will be removed without discussion if
-they are brought to the attention of the npm registry admins,
-including but not limited to:
+It is against npm's
+[Terms of Use](https://www.npmjs.com/policies/open-source-terms#acceptable-content)
+to publish a package, register a user name or an organization name
+simply for the purposes of reserving it for future use. We handle
+squatting via the dispute process in order to give the current owner
+a chance to make genuine use of the name.
 
-1. Malware (that is, a package designed to exploit or harm the machine
-   on which it is installed).
-2. Violations of copyright or licenses (for example, cloning an
-   MIT-licensed program, and then removing or changing the copyright
-   and license statement).
-3. Illegal content.
-4. "Squatting" on a package name that you *plan* to use, but aren't
-   actually using.  Sorry, I don't care how great the name is, or how
-   perfect a fit it is for the thing that someday might happen.  If
-   someone wants to use it today, and you're just taking up space with
-   an empty tarball, you're going to be evicted.
-5. Putting empty packages in the registry.  Packages must have SOME
-   functionality.  It can be silly, but it can't be *nothing*.  (See
-   also: squatting.)
-6. Doing weird things with the registry, like using it as your own
-   personal application database or otherwise putting non-packagey
-   things into it.
-7. Other things forbidden by the npm
-   [Code of Conduct](https://www.npmjs.com/policies/conduct)
-   such as hateful language, pornographic content, or harassment.
+We do not pro-actively scan the registry for squatted packages, so
+the fact that a name is in use does not mean we consider it valid.
+The standards for what we consider squatting depend on what is being
+squatted:
 
-If you see bad behavior like this, please report it to <abuse@npmjs.com>
-right away.  **You are never expected to resolve abusive behavior on
-your own.**  We are here to help.
+### Packages
+
+Package names are considered squatted if the package has no genuine
+function. This judgement is made by a human, and attempts to "game"
+squatting by making pseudo-functional packages will increase, not
+decrease, the likelihood that we will transfer the package to a user
+who requests it.
+
+### Organizations
+
+Organization names are considered squatted if there are no packages
+published within a reasonable time. If an organization is a paid
+organization, it may have private packages that are invisible to
+third parties. For privacy reasons, we cannot reveal whether or not
+an organization has private packages, so a paid organization will
+never be considered squatted.
+
+Unlike users, organizations do not have an "owner" or published
+email address. If you believe an organization is squatted, email
+<support@npmjs.com> directly and we will contact the organization
+owner on your behalf.
+
+### User names
+
+We are extremely unlikely to transfer control of a user name, as it
+is totally valid to be an npm user and never publish and packages.
+If a user has not logged into their account in over 2 years, we
+may consider transferring a name.
+
 
 ## Trademarks
 
@@ -118,6 +129,9 @@ by misusing your registered mark without permission, we will transfer the
 package name to you.  Otherwise, we will contact the package publisher
 and ask them to clear up any confusion with changes to their package's
 `README` file or metadata.
+
+Use of npm's own trademarks is covered by our Trademark Policy at
+<https://www.npmjs.com/policies/trademark>.
 
 ## Changes
 
