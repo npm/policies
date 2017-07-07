@@ -15,12 +15,12 @@ The npm Open Source Terms at
 <https://www.npmjs.com/policies/open-source-terms>
 govern use of <https://www.npmjs.com> and the npm public registry.
 
-The npm Private Packages Terms at
+The npm Paid Services Terms at
 <https://www.npmjs.com/policies/private-terms>
-govern use of npm Private Packages.
+govern use of npm Paid Services.
 
 The npm Solo Payment Plan
 <https://www.npmjs.com/policies/solo-plan>
 and the npm Organizations Payment Plan
 <https://www.npmjs.com/policies/organizations-plan>
-govern payment for npm Private Packages.
+govern payment for npm Paid Services.
