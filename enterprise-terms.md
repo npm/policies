@@ -1,11 +1,11 @@
-# npm Enterprise Terms
+## npm Enterprise Terms
 
-These npm Enterprise Terms \(version v6.0.0\) and the **Summary**
-document or online form referencing them make up an agreement between
-npm, Inc., a Delaware corporation \(**npm**\) and the licensee named on
-the _Summary_ \(**Licensee**\).
+These npm Enterprise Terms \(version v6.0.1\) and the **Summary**
+document or online form referencing them make up an agreement
+between npm, Inc., a Delaware corporation \(**npm**\) and the licensee
+named on the _Summary_ \(**Licensee**\).
 
-## Background<a id="Background"></a>
+### Background<a id="Background"></a>
 
 1.  _npm_ develops and provides computer software and services \(**npm
 Offerings**\) for installing, managing, and sharing packages of computer
@@ -19,7 +19,7 @@ interface for interacting with the _Public Registry_ at npmjs.com \(the
 2.  _npm_ also develops software \(**npm Enterprise**\) for hosting a
 _Registry_ \(a **Private Registry**\).
 
-## Enterprise Components<a id="Enterprise Components"></a>
+### Enterprise Components<a id="Enterprise_Components"></a>
 
 _npm Enterprise_ is made up of:
 
@@ -50,7 +50,7 @@ by _npm_:
 by _npm_ at license.npmjs.com for managing _npm Enterprise_ license keys
 \(each a **License Key**\)
 
-## Licenses<a id="Licenses"></a>
+### Licenses<a id="Licenses"></a>
 
 _npm_ grants _Licensee_ a nonexclusive license \(the **Software
 License**\) to install and use _npm Enterprise_. _npm_ further grants
@@ -61,7 +61,7 @@ License_ \(the **Licenses**\) are subject to the other terms of this
 agreement, including payment of fees \(**License Fees**\) and number of
 seats \(**Seats**\).
 
-## Subscription<a id="Subscription"></a>
+### Subscription<a id="Subscription"></a>
 
 If _Licensee_ has not licensed _npm Enterprise_ before and the _Summary_
 provides for a free trial, _Licensee_ will pay no _License Fees_, and
@@ -71,7 +71,7 @@ shall begin paying _License Fees_. _Licensee_ will have the number of
 _Seats_ on the _Summary_ to start. _Licensee_ may increase the number
 of _Seats_ as the _Summary_ describes.
 
-## Permitted Use<a id="Permitted Use"></a>
+### Permitted Use<a id="Permitted_Use"></a>
 
 The _Licenses_ let _Licensee_:
 
@@ -88,7 +88,7 @@ Registry_ in any _Month_ as _Licensee_ has _Seats_ for that _Month_
 protect against data loss or inability to access the _Public Registry_
 and _Proprietary npm Registry_
 
-## Prohibited Uses<a id="Prohibited Uses"></a>
+### Prohibited Uses<a id="Prohibited_Uses"></a>
 
 The _Licenses_ do not let _Licensee_:
 
@@ -111,7 +111,7 @@ Registry_, _Proprietary npm Registry_, or _License API_ with an
 unreasonable volume of requests, or requests that might impose an
 unreasonable load on _npm_ IT systems
 
-## Responsibility and Audit<a id="Responsibility and Audit"></a>
+### Responsibility and Audit<a id="Responsibility_and_Audit"></a>
 
 If any _Authorized Personnel_ breaches any term of the _Licenses_, or if
 any third party breaches the terms of the _Licenses_ under _Licensee_'s
@@ -120,13 +120,13 @@ breach as if committed by _Licensee_ itself. During the _Term_, _npm_
 may audit _Licensee_'s compliance with this agreement and the _Licenses_
 at most once per calendar year.
 
-## License Key<a id="License Key"></a>
+### License Key<a id="License_Key"></a>
 
 _npm_ shall give _Licensee_ _Notice_ containing a _License Key_ no later
 than the third _Business Day_ after the date of this agreement. Every
 _License Key_ is _Confidential Information_ of _npm_.
 
-## Documentation<a id="Documentation"></a>
+### Documentation<a id="Documentation"></a>
 
 During the _Term_, _npm_ shall publish documentation for _npm Enterprise_
 that enables a computer professional skilled in the installation
@@ -135,7 +135,7 @@ system to host _Licensee's Registry_ using _npm Enterprise_, and to
 configure the features described in [Functionality](#Functionality)
 \(**Documentation**\).
 
-## Support<a id="Support"></a>
+### Support<a id="Support"></a>
 
 _npm_ shall provide support during the _Term_ \(**Support Services**\) by
 responding to questions and requests for help concerning _npm Enterprise_
@@ -144,26 +144,27 @@ from _Authorized Personnel_ via the channels the _Summary_ describes
 Requests_ as the _Summary_ describes. In return, _Licensee_ shall pay the
 fees for _Support Services_ on the _Summary_, if any \(**Support Fees**\).
 
-## Other Services<a id="Other Services"></a>
+### Other Services<a id="Other_Services"></a>
 
 _Licensee_'s use of the _Public Registry_, _Website_, and _npm Offerings_
 other than _npm Enterprise_, if any, is governed by the terms for use
 of those _npm Offerings_.
 
-## Payment<a id="Payment"></a>
+### Payment<a id="Payment"></a>
 
-_npm_ shall pay _License Fees_ and any _Support Fees_ as the _Summary_
-describes. _Licensee_ shall pay _License Fees_ and any _Support Fees_ in
-United States dollars, with interest of 1.5% per month \(or the highest
-legal rate\) on overdue amounts. No stated amounts of _License Fees_ or
-_Support Fees_ include tax. _Licensee_ shall pay any tax on _License Fees_
-and any _Support Fees_. _npm_ will not issue credits or refunds for part
-of any _Month_ that is not a whole calendar month. _Licensee_ shall give
-prompt _Notice_ of any change to its method of payment during the _Term_.
+_Licensee_ shall pay _License Fees_ and any _Support Fees_ as the
+_Summary_ describes. _Licensee_ shall pay _License Fees_ and any _Support
+Fees_ in United States dollars, with interest of 1.5% per month \(or
+the highest legal rate\) on overdue amounts. No stated amounts of
+_License Fees_ or _Support Fees_ include tax. _Licensee_ shall pay
+any tax on _License Fees_ and any _Support Fees_. _npm_ will not issue
+credits or refunds for part of any _Month_ that is not a whole calendar
+month. _Licensee_ shall give prompt _Notice_ of any change to its method
+of payment during the _Term_.
 
-## Intellectual Property<a id="Intellectual Property"></a>
+### Intellectual Property<a id="Intellectual_Property"></a>
 
-### npm Intellectual Property<a id="npm Intellectual Property"></a>
+#### npm Intellectual Property<a id="npm_Intellectual_Property"></a>
 
 _npm_ retains every _Intellectual Property Right_ and other legal right it
 has in _npm Enterprise_, including in any copies _Licensee_ makes, except
@@ -172,21 +173,20 @@ acknowledges _npm_ owns every _Intellectual Property Right_ in _npm's
 Packages_ and _npm Enterprise_ overall, and that other _Packages_
 available from the _Registry_ remain property of their owners.
 
-### Licensee Intellectual Property<a id="Licensee Intellectual
-Property"></a>
+#### Licensee Intellectual Property<a id="Licensee_Intellectual_Property"></a>
 
 _npm_ acknowledges _Licensee_ retains every _Intellectual Property Right_
 it has as of the date of this agreement, acquires other than from _npm_
 under this agreement, and develops during the term of this agreement.
 
-## Publicity<a id="Publicity"></a>
+### Publicity<a id="Publicity"></a>
 
 During the _Term_, starting after any _Free Trial_, _npm_ may identify
 _Licensee_ as an _npm Enterprise_ licensee to current and potential
 customers, and may list _Licensee_'s business name and logotype in
 promotional materials, such as on the _Website_.
 
-## Confidentiality<a id="Confidentiality"></a>
+### Confidentiality<a id="Confidentiality"></a>
 
 The parties may exchange confidential information \(**Confidential
 Information**\). _Confidential Information_ includes information marked
@@ -205,46 +205,46 @@ of this agreement. If a party's personnel breach these confidentiality
 obligations, this agreement will treat that breach as if committed by
 the party itself.
 
-## Warranties<a id="Warranties"></a>
+### Warranties<a id="Warranties"></a>
 
-### Only Express Warranties<a id="Only Express Warranties"></a>
+#### Only Express Warranties<a id="Only_Express_Warranties"></a>
 
 _npm_ makes the statements in [Warranties](#Warranties) instead of other
 express and implied warranties. _npm_ expressly disclaims any warranties
 the law might otherwise imply, like warranties of merchantability,
 fitness for any particular purpose, title, or noninfringement.
 
-### Functionality<a id="Functionality"></a>
+#### Functionality<a id="Functionality"></a>
 
 _npm_ states that during the _Term_, the _Latest Stable Version_
 of _npm Enterprise_ will support the features described at
 https:\/\/npmjs.com\/enterprise as of the date of this agreement.
 
-### Third-Party Packages<a id="Third-Party Packages"></a>
+#### Third-Party Packages<a id="Third-Party_Packages"></a>
 
 _npm_ states that during the _Term_, the _Latest Stable Version_ of
 _npm Enterprise_ will _Utilize_ only _Third-Party Packages_ that are
 _Open-Source Packages_ when the _Latest Stable Version_ is released.
 
-### Third-Party Repositories<a id="Third-Party Repositories"></a>
+#### Third-Party Repositories<a id="Third-Party_Repositories"></a>
 
 _npm_ states that during the _Term_, the _Latest Stable Version_ of
 _npm Enterprise_ will _Utilize_ only _Third-Party Packages_ from _Linux
 Distribution Repositories_ and _Source Code Hosts_, if any, that are
 publicly accessible free of charge.
 
-### CLI Availability<a id="CLI Availability"></a>
+#### CLI Availability<a id="CLI_Availability"></a>
 
 _npm_ states that during the _Term_, a version of _CLI_ compatible with
 the _Latest Stable Version_ of _npm Enterprise_ will be available free
 of charge on _Open-Source Terms_.
 
-## Limits<a id="Limits"></a>
+### Limits<a id="Limits"></a>
 
-### Limited Remedies<a id="Limited Remedies"></a>
+#### Limited Remedies<a id="Limited_Remedies"></a>
 
 Except for material breach of [Confidentiality](#Confidentiality)
-or [Indemnification by npm](#Indemnification by npm), _Licensee_'s
+or [Indemnification by npm](#Indemnification_by_npm), _Licensee_'s
 sole remedy for damage or loss relating to _npm Enterprise_, _Support
 Services_, this agreement, or any material, information, or services
 furnished by _npm_ under this agreement will be _npm_'s choice of:
@@ -258,7 +258,7 @@ _npm_ from _Licensee_
 This limit applies even if damage or loss is caused by _npm_'s negligence
 or breach of warranty.
 
-### Limited Damages<a id="Limited Damages"></a>
+#### Limited Damages<a id="Limited_Damages"></a>
 
 Except for obligations under [Indemnification](#Indemnification), no
 party's liability under this agreement will exceed the amount received by
@@ -268,11 +268,11 @@ advised the other may suffer damages. Neither party will be liable for
 breach-of-contract damages they could not have reasonably foreseen when
 entering this agreement.
 
-## Indemnification<a id="Indemnification"></a>
+### Indemnification<a id="Indemnification"></a>
 
-### Indemnification by npm<a id="Indemnification by npm"></a>
+#### Indemnification by npm<a id="Indemnification_by_npm"></a>
 
-Subject to [Indemnification Exceptions](#Indemnification Exceptions),
+Subject to [Indemnification Exceptions](#Indemnification_Exceptions),
 _npm_ shall indemnify and hold _Licensee_ harmless for all liability,
 expenses, damages, and costs from any third-party claims, demands,
 lawsuits, or other actions alleging that _Licensee_'s use of _npm
@@ -281,7 +281,7 @@ be indemnified, _Licensee_ must provide _Notice_ of any action as soon
 as possible, allow _npm_ to control defense and settlement, and cooperate
 with that defense.
 
-### Indemnification Exceptions<a id="Indemnification Exceptions"></a>
+#### Indemnification Exceptions<a id="Indemnification_Exceptions"></a>
 
 _npm_ will not indemnify or hold _Licensee_ harmless for any third-party
 action based on any of:
@@ -306,33 +306,33 @@ or otherwise becoming aware, that use infringes a third-party copyright
 or trade secret right, unless _Licensee_ gave _Notice_ of that fact to
 _npm_ within 5 _Business Day_s of becoming aware of it
 
-### Only Remedy<a id="Only Remedy"></a>
+#### Only Remedy<a id="Only_Remedy"></a>
 
-[Indemnification by npm](#Indemnification by npm) describes _Licensee_'s
+[Indemnification by npm](#Indemnification_by_npm) describes _Licensee_'s
 only remedy and _npm_'s only liability relating to infringement of any
 _Intellectual Property Right_.
 
-### Mitigation<a id="Mitigation"></a>
+#### Mitigation<a id="Mitigation"></a>
 
 If a third party brings an action covered by [Indemnification by
-npm](#Indemnification by npm), or if _npm_ believes a third party
+npm](#Indemnification_by_npm), or if _npm_ believes a third party
 will likely bring an action, _npm_ may secure _Licensee_ the right to
 continue using _npm Enterprise_, replace or modify _npm Enterprise_
 to avoid infringement, or, if neither of those is reasonably possible,
 terminate this agreement and refund all _License Fees_ paid by _Licensee_.
 
-### Indemnification by Licensee<a id="Indemnification by Licensee"></a>
+#### Indemnification by Licensee<a id="Indemnification_by_Licensee"></a>
 
 _Licensee_ shall indemnify and hold _npm_ harmless for all liability,
 expenses, damages, and costs from actions under [Indemnification
-Exceptions](#Indemnification Exceptions) as well as any third-party
+Exceptions](#Indemnification_Exceptions) as well as any third-party
 claims, demands, lawsuits, or other actions based on breach of this
 agreement by _Licensee_ or content _Licensee_ stores using _npm
 Enterprise_.
 
-## General<a id="General"></a>
+### General<a id="General"></a>
 
-### Term<a id="Term"></a>
+#### Term<a id="Term"></a>
 
 The _Term_ begins on the date the _Summary_ states, and otherwise when
 _Licensee_ agrees to these terms. Unless the _Summary_ says otherwise,
@@ -342,7 +342,7 @@ the _Term_ by giving _Notice_ at least 30 calendar days before it would
 otherwise renew. When the _Term_ ends, the terms of the _Licenses_ also
 end. When the term of any of the _Licenses_ ends, the _Term_ also ends.
 
-### Termination for Breach<a id="Termination for Breach"></a>
+#### Termination for Breach<a id="Termination_for_Breach"></a>
 
 If either party materially breaches any part of this agreement that is not
 subject to a specific sole remedy and fails to correct that breach within
@@ -351,16 +351,17 @@ agreement immediately on _Notice_. _npm_ may terminate this agreement
 immediately on _Notice_ of _Licensee_'s breach of [Licenses](#Licenses)
 or [Confidentiality](#Confidentiality).
 
-### Survival<a id="Survival"></a>
+#### Survival<a id="Survival"></a>
 
-[Licenses](#Licenses), [Responsibility and Audit](#Responsibility and
-Audit), [Indemnification](#Indemnification), [Warranties](#Warranties),
-[Limits](#Limits), [Assignment](#Assignment), [Intellectual
-Property](#Intellectual Property), and [Confidentiality](#Confidentiality)
-continue to apply after the _Term_. All provisions of this agreement about
-payment also apply after the _Term_, until all required payments are made.
+[Licenses](#Licenses), [Responsibility and
+Audit](#Responsibility_and_Audit), [Indemnification](#Indemnification),
+[Warranties](#Warranties), [Limits](#Limits), [Assignment](#Assignment),
+[Intellectual Property](#Intellectual_Property), and
+[Confidentiality](#Confidentiality) continue to apply after the
+_Term_. All provisions of this agreement about payment also apply after
+the _Term_, until all required payments are made.
 
-### Disputes<a id="Disputes"></a>
+#### Disputes<a id="Disputes"></a>
 
 California law will govern any adversarial proceeding relating to this
 agreement or _Licensee_ use of _npm Enterprise_ \(a **Dispute**\). Each
@@ -370,7 +371,7 @@ subject matter jurisdiction, in any state court sitting in San Francisco,
 California. The parties waive objection to exclusive jurisdiction, venue,
 or forum when a _Dispute_ is brought in such a court.
 
-### Assignment<a id="Assignment"></a>
+#### Assignment<a id="Assignment"></a>
 
 _npm_ may assign this agreement to an _Affiliate_ or any third party that
 obtains direct or indirect possession of the power to direct or cause
@@ -381,21 +382,20 @@ involuntarily, by merger, consolidation, dissolution, operation of law,
 or otherwise, without the other party's _Permission_. Any purported
 assignment of rights in breach of this agreement is void.
 
-### Delegation<a id="Delegation"></a>
+#### Delegation<a id="Delegation"></a>
 
 Neither party shall delegate any performance under this agreement without
 the other party's _Permission_. Any purported delegation of performance
 in breach of this agreement is void.
 
-### Entire Agreement<a id="Entire Agreement"></a>
+#### Entire Agreement<a id="Entire_Agreement"></a>
 
 This agreement is the whole understanding of the parties about use of
 _npm Enterprise_. It replaces all other agreements about _npm Enterprise_
 between the parties. This agreement does not give legal rights or remedies
 to any third party.
 
-### Waivers, Amendments, and Signature<a id="Waivers, Amendments, and
-Signature"></a>
+#### Waivers, Amendments, and Signature<a id="Waivers,_Amendments,_and_Signature"></a>
 
 Neither exercising any right under this agreement nor waiving any breach
 of this agreement prevents any later claim for breach. Amendments to
@@ -404,12 +404,12 @@ signed and delivered copies of this agreement and any amendments to this
 agreement will be as effective as hand-signed counterparts delivered in
 hard copy.
 
-### Notices<a id="Notices"></a>
+#### Notices<a id="Notices"></a>
 
 _Notice_ is effective on receipt. Each party shall reply by e-mail to
 confirm receipt of e-mailed _Notice_ when received.
 
-## Definitions<a id="Definitions"></a>
+### Definitions<a id="Definitions"></a>
 
 1.  **Affiliate** means any legal person that another legal person has
 control over, is under the control of, or is under common control with.
