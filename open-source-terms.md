@@ -24,7 +24,7 @@ agreement to arbitrate disputes individually in "Arbitration".***
 npm offers additional, paid services (_Paid Services_) that are subject
 to additional terms:
 
--  Additional terms for npm Private Packages are available at
+-  Additional terms for npm Paid Services are available at
    <https://www.npmjs.com/policies/private-terms>.
 
 npm Open Source and any Paid Services you may agree to use are together
@@ -67,8 +67,10 @@ to notifications about alleged infringement via npm Services per
 the copyright policy at <https://www.npmjs.com/policies/dmca> (the
 _Copyright Policy_).
 
-npm resolves disputes about package names in the Public Registry per the
-policy at <https://www.npmjs.com/policies/disputes> (_Dispute Policy_).
+npm resolves disputes about package names, user names and organization
+names in the Public Registry per the policy at
+<https://www.npmjs.com/policies/disputes> (_Dispute Policy_). This
+includes "package squatting".
 
 Use of all npm Services is governed by the code of conduct at
 <https://www.npmjs.com/policies/conduct> (_Code of Conduct_).
@@ -117,11 +119,8 @@ may have to use Paid Services, are subject to the following conditions:
    [Code of Conduct](https://www.npmjs.com/policies/conduct) and the
    [Dispute Policy](https://www.npmjs.com/policies/disputes).
 
-2.  You will not submit any content that is illegal, offensive, or
-    otherwise harmful. You will not submit any content in violation
-    of law, infringing the intellectual property rights of others,
-    violating the privacy or other rights of others, or in violation of
-    any agreement with a third party.
+2.  You will not submit material to npm as a package or in any other
+    form that violates npm's _Acceptable Content_, described below.
 
 3.  You will not disclose information that you do not have the right to
     disclose, such as confidential information of others.
@@ -149,36 +148,66 @@ may have to use Paid Services, are subject to the following conditions:
 10. You will not use npm Services to send e-mail to distribution lists,
     newsgroups, or group mail aliases.
 
-11. You will not submit material containing malicious computer code,
-    such as computer viruses, computer worms, rootkits, back doors,
-    adware, or spyware, to npm Services in such a way that you should
-    expect other users of npm Services to unwittingly execute that
-    malicious code.
-
-12. You will not falsely imply that you are affiliated with or endorsed
+11. You will not falsely imply that you are affiliated with or endorsed
     by npm.
 
-13. You will not operate illegal schemes, such as pyramid schemes, via
+12. You will not operate illegal schemes, such as pyramid schemes, via
     npm Services.
 
-14. You will not deep-hyperlink to images or other non-hypertext content
+13. You will not deep-hyperlink to images or other non-hypertext content
     served by npm Services.
 
-15. You will not remove any marking indicating proprietary ownership
+14. You will not remove any marking indicating proprietary ownership
     from any material got via npm Services.
 
-16. You will not display any portion of the Website via an HTML IFRAME.
+15. You will not display any portion of the Website via an HTML IFRAME.
 
-17. You will not disable, avoid, or circumvent any security or access
+16. You will not disable, avoid, or circumvent any security or access
     restrictions of npm Services, or access parts of npm Services not
     intended for access by you.
 
-18. You will not strain infrastructure of npm Services with an
+17. You will not strain infrastructure of npm Services with an
     unreasonable volume of requests, or requests designed to impose an
     unreasonable load on IT systems underlying npm Services.
 
-19. You will not encourage or assist any other person in violation of
+18. You will not encourage or assist any other person in violation of
     "Acceptable Use".
+
+## Acceptable Content
+
+Administrators at npm reserve the right to delete content hosted on
+the npm Services that is deemed unacceptable. Unacceptable content
+can take the form of a package, a README file, a user or organization
+name, or any other content submitted to the npm Services. Content
+that is unacceptable includes but is not limited to:
+
+1. Content that is illegal, offensive, or otherwise harmful. This includes
+   content that is harassing, inappropriate or abusive.
+
+2. Content in violation of law, infringing the intellectual property
+   rights of others, violating the privacy or other rights of others,
+   or in violation of any agreement with a third party. This includes
+   code which violates a license.
+
+3. Content containing malicious computer code, such as computer viruses,
+   computer worms, rootkits, back doors, adware, or spyware. This
+   includes content submitted for research purposes unless agreed to
+   in advance by npm. Tools designed and documented explicitly to
+   assist in security research are acceptable, but proof-of-concept
+   exploits are not.
+
+4. Packages that are not functionally compatible with the npm
+   command-line client. For example, a "package" cannot simply be
+   a PNG or JPEG image, a movie file, or a text document uploaded
+   directly to the registry. Using the Public Registry as a general purpose database is not allowed.
+
+5. Content that exists only to "reserve" a name, whether a package name,
+   user name, or organization name, i.e. "squatting". The
+   [Dispute Policy](https://www.npmjs.com/policies/disputes) governs
+   how npm handles cases of squatting.
+
+To find out how to report violations of Acceptable Content, refer to the
+[Code of Conduct](https://www.npmjs.com/policies/conduct).
 
 ## Enforcement of Acceptable Use
 
@@ -336,24 +365,9 @@ share Your Content after termination of this Agreement.
 
 ## Payment Terms
 
-There is no charge for use of npm Open Source. If you use Paid Services,
-these payment terms apply.
-
-When enabling Paid Services, you must provide all the payment card
-details requested by the Website (your _Payment Details_). Those details
-must be for a valid payment card that you have the right to use (your
-_Payment Card_). You must keep your Payment Details up-to-date via the
-Website.
-
-You can disable Paid Services at any time via the Website. npm will not
-refund any payment you have already made for Paid Services when you
-disable Paid Services.
-
-Dollar amounts throughout this Agreement are amounts of United States
-Dollars. You must pay for Paid Services in United States Dollars.
-
-Dollar amounts throughout this Agreement do not include tax. You will
-pay any tax.
+There is no charge for use of npm Open Source. If you use Paid Services
+from npm, our Paid Services Terms at <https://www.npmjs.com/policies/private-terms>
+apply.
 
 ## General Terms
 

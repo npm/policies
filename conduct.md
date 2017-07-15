@@ -58,8 +58,8 @@ single right answer.  A difference of technology preferences is not a
 license to be rude.
 
 Disputes over package rights must be handled respectfully, according
-to the terms described in the npm Dispute Resolution document.  There
-is never a good reason to be rude over package name disputes.
+to the terms described in the [Disputes Policy](https://www.npmjs.com/policies/disputes).
+There is never a good reason to be rude over package name disputes.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing
 behavior is not welcome, and will not be tolerated.
@@ -81,52 +81,47 @@ deliberate intimidation, stalking or following; harassing photography
 or recording; sustained disruption of talks or other events;
 inappropriate physical contact; and unwelcome sexual attention.
 
-## Acceptable Package Content
-
-<!--
-TODO: This should probably be split out into a separate doc.  Maybe
-just link to the appropriate location in the Terms of Use once we have
-it.
--->
+## Acceptable Use
 
 The Service administrators reserve the right to make judgment calls
-about what is and isn't appropriate in published packages.  These are
-guidelines to help you be successful in our community.
-
-Packages published to the Service must be created using the npm
-command-line client, or a functionally equivalent implementation.  For
-example, a "package" must not be a PNG or JPEG image, movie file, or
-text document.  Using the Service as a personal general-purpose
-database is also not allowed for this reason.  Packages should be npm
-packages, and nothing else.
-
-Packages must contain some functionality.  "Squatting", that is,
-publishing an empty package to "reserve" a name, is not allowed.
-
-Packages must not contain illegal or infringing content.  You should
-only publish packages or other materials to the Service if you have
-the right to do so.  This includes complying with all software license
-agreements or other intellectual property restrictions. For example,
-redistributing an MIT-licensed module with the copyright notice
-removed, would not be allowed.  You will be responsible for any
-violation of laws or others’ intellectual property rights.
-
-Packages must not be malware.  For example, a package which is
-designed to maliciously exploit or damage computer systems, is not
-allowed.  However, an explicitly documented penetration testing
-library designed to be used for white-hat security research would most
-likely be fine.
-
-Package name, description, and other visible metadata must not include
-abusive, inappropriate, or harassing content.
+about what is and isn't appropriate in published packages, package names,
+user and organization names, and other public content. Package that
+violates the npm Service's
+[Acceptable Use](https://www.npmjs.com/policies/open-source-terms#acceptable-use)
+rules including its
+[Acceptable Content](https://www.npmjs.com/policies/open-source-terms#acceptable-use)
+rules will be deleted, at the discretion of npm.
 
 ## Reporting Violations of this Code of Conduct
 
-If you believe someone is harassing you or has otherwise violated this
-Code of Conduct, please contact us at <abuse@npmjs.com> to send us an
-abuse report.  If this is the initial report of a problem, please
-include as much detail as possible. It is easiest for us to address
-issues when we have more context.
+Please select the method of contact you think is most appropriate for
+the form of violation:
+
+* For urgent security issues, contact <security@npmjs.com>. Requests to
+  reset lost passwords are best handled by <support@npmjs.com>. Requests
+  to un-publish packages are not usually considered urgent security
+  issues, as it is possible to [un-publish a package](https://docs.npmjs.com/cli/unpublish)
+  within 24 hours of its first publish. Any publicly published package
+  is [immediately replicated to thousands of third-party mirrors](http://blog.npmjs.org/post/101934969510/oh-no-i-accidentally-published-private-data-to),
+  so any confidential information contained in a package should be considered 
+  immediately compromised.
+
+* If you believe someone is harassing you or is demonstrating
+  some other form of malicious or inappropriate behavior, contact
+  <abuse@npmjs.com>. If this is the initial report of a problem,
+  please include as much detail as possible. It is easiest for us
+  to address issues when we have more context.
+
+* If you have concerns about a potential copyright violation,
+  please refer to our [Copyright Policy](https://www.npmjs.com/policies/dmca)
+  and take action as recommended by that policy.
+
+* If you think a package or other content is "squatting" on a name,
+  follow the process described in the
+  [Disputes Policy](https://www.npmjs.com/policies/disputes).
+
+For any other issues, or if in doubt, contact <support@npmjs.com>.
+
 
 ## Consequences
 
