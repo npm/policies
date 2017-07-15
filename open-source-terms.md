@@ -197,9 +197,9 @@ that is unacceptable includes but is not limited to:
    exploits are not.
 
 4. Packages that are not functionally compatible with the npm
-   command-line client. For example, a "package" cannot be a PNG or
-   JPEG image, a movie file, or a text document. Using the Public
-   Registry as a general purpose database is not allowed.
+   command-line client. For example, a "package" cannot simply be
+   a PNG or JPEG image, a movie file, or a text document uploaded
+   directly to the registry. Using the Public Registry as a general purpose database is not allowed.
 
 5. Content that exists only to "reserve" a name, whether a package name,
    user name, or organization name, i.e. "squatting". The

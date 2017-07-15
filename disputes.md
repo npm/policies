@@ -56,12 +56,11 @@ To dispute a package called `foo`, follow these steps:
    in the email that the current owner can run
    `npm owner add <yourusername> foo` to do so.
 3. After 4 weeks, if the owner has not responded, support will
-   address your request. They will use their discretion and you
-   will not automatically get what you requested.
+   address your request. The ultimate outcome is at their discretion and judgement.
 
 ## Reasoning
 
-In 99.9% of cases of disputes, the parties involved have been able
+In most disputes, the parties involved have been able
 to reach an amicable resolution without any major intervention. Most
 people really do want to be reasonable, and are probably not even
 aware that they're in your way.
@@ -112,9 +111,11 @@ owner on your behalf.
 ### User names
 
 We are extremely unlikely to transfer control of a user name, as it
-is totally valid to be an npm user and never publish and packages.
-If a user has not logged into their account in over 2 years, we
-may consider transferring a name.
+is totally valid to be an npm user and never publish any packages:
+for instance, you might be part of an organization or need read-only
+access to private packages. If a user has not logged into their account
+in a long time, we may consider transferring a name if it is requested
+by a new user.
 
 
 ## Trademarks
