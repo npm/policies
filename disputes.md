@@ -45,6 +45,8 @@ the Code of Conduct for guidelines on
 
 ## Beginning the process
 
+### Packages
+
 To dispute a package called `foo`, follow these steps:
 
 1. Run `npm owner ls foo`.  This will give you the email address of
@@ -55,8 +57,25 @@ To dispute a package called `foo`, follow these steps:
    If you would like to be given control of the package, mention
    in the email that the current owner can run
    `npm owner add <yourusername> foo` to do so.
-3. After 4 weeks, if the owner has not responded, support will
-   address your request. The ultimate outcome is at their discretion and judgement.
+3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+
+### Organizations
+
+To dispute an organization name, follow these steps:
+
+1. Contact support@npmjs.com with the name of the organization, e.g. `@foo`.
+2. Support will contact the organization owner on your behalf requesting
+   the transfer. They may at their discretion include you in this dialogue.
+3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+
+### User names
+
+To dispute a user name, follow these steps:
+
+1. Visit the user page at <https://www.npmjs.com/~foo>. Their email address is listed on this page.
+2. Send a message to that address and CC <support@npmjs.com>. Politely and respectfully explain your request and your desired outcome.
+3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+
 
 ## Reasoning
 
