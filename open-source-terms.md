@@ -45,7 +45,7 @@ _Agreement_).
 npm may change these Terms and the additional terms for Paid Services
 in the future. npm will post changes on the Website with a new "last
 updated" date. If you have an Account, npm will notify you of changes
-by e-mail to the address provided for your Account, by a message on the
+by email to the address provided for your Account, by a message on the
 Website, or both. If you do not have an account, npm may notify you of
 changes by a general announcement via the Website, but it is up to you
 to check for changes to these Terms. After receiving notice of changes
@@ -145,7 +145,7 @@ may have to use Paid Services, are subject to the following conditions:
     program that is not a web browser. You may replicate data from the
     Public Registry using the Public APIs per this Agreement.
 
-10. You will not use npm Services to send e-mail to distribution lists,
+10. You will not use npm Services to send email to distribution lists,
     newsgroups, or group mail aliases.
 
 11. You will not falsely imply that you are affiliated with or endorsed
@@ -223,9 +223,9 @@ Services, including npm Open Source.
 To create an Account, you must provide certain information about
 yourself, as required by the account creation form on the Website or the
 CLI. If you create an Account, you will provide, at a minimum, a valid
-e-mail address. You will keep that e-mail address up-to-date. You will
+email address. You will keep that email address up-to-date. You will
 not impersonate any other individual. You may delete your Account at any
-time by sending an e-mail to <support@npmjs.com>.
+time by sending an email to <support@npmjs.com>.
 
 You will be responsible for all action taken using your account, whether
 authorized by you or not, until you either close your account or give
@@ -417,7 +417,7 @@ enter arbitration awards in any court with jurisdiction.
 
 You may send notice to npm and questions about the terms governing npm
 products and services by mail to npm, Inc., Legal Department, 1999
-Harrison Street, Suite 1150, Oakland, California 94612, or by e-mail to
-<legal@npmjs.com>. npm may send you notice using the e-mail address you
+Harrison Street, Suite 1150, Oakland, California 94612, or by email to
+<legal@npmjs.com>. npm may send you notice using the email address you
 provide for your Account or by posting a message to the homepage or your
 Account page on the Website.

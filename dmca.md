@@ -47,7 +47,7 @@ notice must have:
 
 3.  Identification of the infringing material to be removed.
 
-4.  Contact information, preferably an e-mail address, that we can
+4.  Contact information, preferably an email address, that we can
     use to reach you.
 
 5.  Your statement of good faith belief that use of the material in
@@ -133,4 +133,4 @@ Oakland, CA 94612
 copyright@npmjs.com  
 (510) 858 - 7608
 
-Send via e-mail for fastest processing.
+Send via email for fastest processing.

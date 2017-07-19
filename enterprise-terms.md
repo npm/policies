@@ -406,8 +406,8 @@ hard copy.
 
 #### Notices<a id="Notices"></a>
 
-_Notice_ is effective on receipt. Each party shall reply by e-mail to
-confirm receipt of e-mailed _Notice_ when received.
+_Notice_ is effective on receipt. Each party shall reply by email to
+confirm receipt of emailed _Notice_ when received.
 
 ### Definitions<a id="Definitions"></a>
 
@@ -432,11 +432,11 @@ rather than merely test or development, systems.
 6.  **Month** means a whole or partial calendar month during the _Term_.
 
 7.  **Notice** means written communication from one party to the other by
-registered or certified mail, courier, or e-mail. _Notice_ to _Licensee_
-must be sent to the street addresses or e-mail address for _Licensee_ on
+registered or certified mail, courier, or email. _Notice_ to _Licensee_
+must be sent to the street addresses or email address for _Licensee_ on
 the _Summary_. _Notice_ to _npm_ must be sent to 1999 Harrison Street,
 Suite 1150, Oakland, California 94612 or legal@npmjs.com. Either party
-may change its postal or e-mail address for _Notice_ by giving _Notice_
+may change its postal or email address for _Notice_ by giving _Notice_
 of a new address.
 
 8.  **Open-Source Terms** means the terms of a form license approved
