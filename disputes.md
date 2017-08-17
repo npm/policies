@@ -96,9 +96,9 @@ up feeling good about the interaction.
 It is against npm's
 [Terms of Use](https://www.npmjs.com/policies/open-source-terms#acceptable-content)
 to publish a package, register a user name or an organization name
-simply for the purposes of reserving it for future use. We handle
-squatting via the dispute process in order to give the current owner
-a chance to make genuine use of the name.
+simply for the purposes of reserving it for future use. If a package
+matches our criteria for squatting we will transfer it to another 
+user who asks for it.
 
 We do not pro-actively scan the registry for squatted packages, so
 the fact that a name is in use does not mean we consider it valid.
