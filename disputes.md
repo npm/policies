@@ -98,7 +98,8 @@ It is against npm's
 to publish a package, register a user name or an organization name
 simply for the purposes of reserving it for future use. If a package
 matches our criteria for squatting we will transfer it to another 
-user who asks for it.
+user who asks for it; this is immediate and does not follow the 
+4-week process outlined for normal transfer requests above.
 
 We do not pro-actively scan the registry for squatted packages, so
 the fact that a name is in use does not mean we consider it valid.
@@ -124,8 +125,8 @@ never be considered squatted.
 
 Unlike users, organizations do not have an "owner" or published
 email address. If you believe an organization is squatted, email
-<support@npmjs.com> directly and we will contact the organization
-owner on your behalf.
+<support@npmjs.com> directly and we will make the determination 
+on your behalf.
 
 ### User names
 
