@@ -36,8 +36,9 @@ issues, and will alert our security point of contact if needed.
 
 ## Security Point of Contact
 
-npm's CTO [Laurie Voss](mailto:laurie@npmjs.com) is the current point
-of contact for all security related issues.
+npm's CTO [C J Silverio](mailto:ceej@npmjs.com) is the current point
+of contact for all security related issues. npm's COO [Laurie Voss](mailto:laurie@npmjs.com)
+is our secondary contact.
 
 Any emails sent to <security@npmjs.com> will be escalated to the
 security point of contact, who will delegate incident response
