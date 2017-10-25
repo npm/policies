@@ -116,8 +116,6 @@ The cloud hosting platforms that we use provide options for automated
 vulnerability scanning.
 
 * AWS: <https://aws.amazon.com/security/penetration-testing/>
-* SoftLayer:
-  <https://knowledgelayer.softlayer.com/procedure/nessus-security-scanner>
 
 ## Password Policies
 
@@ -139,7 +137,7 @@ We should opt for alternative authentication methods when possible:
 ### SSH Keys
 
 SSH keys should be rolled out selectively, providing developers access
-to only the severs that they require access to.
+to only the servers that they require access to.
 
 ## Application Design Best Practices
 
