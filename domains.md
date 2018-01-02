@@ -27,7 +27,6 @@ We own these but don't use them for anything (yet).
 * npm.today
 * npm.email
 * npm.mn
-* npm.me
 * npm.so
 * npm.tips
 
