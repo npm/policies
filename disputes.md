@@ -140,17 +140,17 @@ by a new user.
 
 ## Trademarks
 
-If you think another npm publisher is infringing your trademark,
-such as by using a confusingly similar package or user account name,
-email <abuse@npmjs.com> with a link to the package or user account
-on <https://npmjs.com>.  Attach a copy of your trademark registration
+If you think another npm publisher is infringing your trademark, such
+as by using a confusingly similar package, org, or user account name,
+email <abuse@npmjs.com> with a link to the package, org, or user account
+page on <https://npmjs.com>.  Attach a copy of your trademark registration
 certificate.
 
-If we see that the user or package publisher is intentionally misleading
-others by misusing your registered mark without permission, we will
-transfer the account or package name to you.  Otherwise, we will contact
-the package publisher and ask them to clear up any confusion with changes
-to their user account page or package `README` file.
+If we see that the user, org, or package publisher is intentionally
+misleading others by misusing your registered mark without permission,
+we will transfer the account, org, or package name to you.  Otherwise, we
+will contact the relevant user and ask them to clear up any confusion with
+changes to their user account page, or page, or package `README` file.
 
 Use of npm's own trademarks is covered by our Trademark Policy at
 <https://www.npmjs.com/policies/trademark>.
