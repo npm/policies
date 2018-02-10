@@ -1,9 +1,9 @@
 ## npm Enterprise Terms
 
-These npm Enterprise Terms \(version v6.0.1\) and the **Summary**
-document or online form referencing them make up an agreement
-between npm, Inc., a Delaware corporation \(**npm**\) and the licensee
-named on the _Summary_ \(**Licensee**\).
+These npm Enterprise Terms \(version 6.1.0\) and the **Quote** document
+or online form referencing them make up an agreement between npm, Inc.,
+a Delaware corporation \(**npm**\) and the licensee named on the _Quote_
+\(**Licensee**\).
 
 ### Background<a id="Background"></a>
 
@@ -63,13 +63,13 @@ seats \(**Seats**\).
 
 ### Subscription<a id="Subscription"></a>
 
-If _Licensee_ has not licensed _npm Enterprise_ before and the _Summary_
+If _Licensee_ has not licensed _npm Enterprise_ before and the _Quote_
 provides for a free trial, _Licensee_ will pay no _License Fees_, and
 have an unlimited number of _Seats_, for the number of calendar days on
-the _Summary_ \(the **Free Trial**\). After any _Free Trial_, _Licensee_
+the _Quote_ \(the **Free Trial**\). After any _Free Trial_, _Licensee_
 shall begin paying _License Fees_. _Licensee_ will have the number of
-_Seats_ on the _Summary_ to start. _Licensee_ may increase the number
-of _Seats_ as the _Summary_ describes.
+_Seats_ on the _Quote_ to start. _Licensee_ may increase the number of
+_Seats_ as the _Quote_ describes.
 
 ### Permitted Use<a id="Permitted_Use"></a>
 
@@ -104,7 +104,7 @@ or trademark notice, from any component of _npm Enterprise_
 
 5.  disable, avoid, or circumvent any security or access restrictions
 of _npm Offerings_, or access parts of _npm Offerings_ not intended for
-access by you
+access by _Licensee_
 
 6.  strain infrastructure of _npm Offerings_, such as the _Public
 Registry_, _Proprietary npm Registry_, or _License API_ with an
@@ -139,10 +139,10 @@ configure the features described in [Functionality](#Functionality)
 
 _npm_ shall provide support during the _Term_ \(**Support Services**\) by
 responding to questions and requests for help concerning _npm Enterprise_
-from _Authorized Personnel_ via the channels the _Summary_ describes
+from _Authorized Personnel_ via the channels the _Quote_ describes
 \(**Support Requests**\). _npm_ shall respond to and prioritize _Support
-Requests_ as the _Summary_ describes. In return, _Licensee_ shall pay the
-fees for _Support Services_ on the _Summary_, if any \(**Support Fees**\).
+Requests_ as the _Quote_ describes. In return, _Licensee_ shall pay the
+fees for _Support Services_ on the _Quote_, if any \(**Support Fees**\).
 
 ### Other Services<a id="Other_Services"></a>
 
@@ -152,15 +152,14 @@ of those _npm Offerings_.
 
 ### Payment<a id="Payment"></a>
 
-_Licensee_ shall pay _License Fees_ and any _Support Fees_ as the
-_Summary_ describes. _Licensee_ shall pay _License Fees_ and any _Support
-Fees_ in United States dollars, with interest of 1.5% per month \(or
-the highest legal rate\) on overdue amounts. No stated amounts of
-_License Fees_ or _Support Fees_ include tax. _Licensee_ shall pay
-any tax on _License Fees_ and any _Support Fees_. _npm_ will not issue
-credits or refunds for part of any _Month_ that is not a whole calendar
-month. _Licensee_ shall give prompt _Notice_ of any change to its method
-of payment during the _Term_.
+_Licensee_ shall pay _License Fees_ and any _Support Fees_ as the _Quote_
+describes. _Licensee_ shall pay _License Fees_ and any _Support Fees_ in
+United States dollars, with interest of 1.5% per month \(or the highest
+legal rate\) on overdue amounts. All stated amounts of _License Fees_ or
+_Support Fees_ will include tax. _npm_ will not issue credits or refunds
+for part of any _Month_ that is not a whole calendar month. _Licensee_
+shall give prompt _Notice_ of any change to its method of payment during
+the _Term_.
 
 ### Intellectual Property<a id="Intellectual_Property"></a>
 
@@ -334,9 +333,9 @@ Enterprise_.
 
 #### Term<a id="Term"></a>
 
-The _Term_ begins on the date the _Summary_ states, and otherwise when
-_Licensee_ agrees to these terms. Unless the _Summary_ says otherwise,
-the _Term_ continues for the initial term on the _Summary_, then renews
+The _Term_ begins on the date the _Quote_ states, and otherwise when
+_Licensee_ agrees to these terms. Unless the _Quote_ says otherwise,
+the _Term_ continues for the initial term on the _Quote_, then renews
 automatically for consecutive one-year periods, and either party can end
 the _Term_ by giving _Notice_ at least 30 calendar days before it would
 otherwise renew. When the _Term_ ends, the terms of the _Licenses_ also
@@ -395,7 +394,8 @@ _npm Enterprise_. It replaces all other agreements about _npm Enterprise_
 between the parties. This agreement does not give legal rights or remedies
 to any third party.
 
-#### Waivers, Amendments, and Signature<a id="Waivers,_Amendments,_and_Signature"></a>
+#### Waivers, Amendments, and Signature<a
+id="Waivers,_Amendments,_and_Signature"></a>
 
 Neither exercising any right under this agreement nor waiving any breach
 of this agreement prevents any later claim for breach. Amendments to
@@ -406,8 +406,8 @@ hard copy.
 
 #### Notices<a id="Notices"></a>
 
-_Notice_ is effective on receipt. Each party shall reply by email to
-confirm receipt of emailed _Notice_ when received.
+_Notice_ is effective on receipt. Each party shall reply by e-mail to
+confirm receipt of e-mailed _Notice_ when received.
 
 ### Definitions<a id="Definitions"></a>
 
@@ -432,11 +432,11 @@ rather than merely test or development, systems.
 6.  **Month** means a whole or partial calendar month during the _Term_.
 
 7.  **Notice** means written communication from one party to the other by
-registered or certified mail, courier, or email. _Notice_ to _Licensee_
-must be sent to the street addresses or email address for _Licensee_ on
-the _Summary_. _Notice_ to _npm_ must be sent to 1999 Harrison Street,
+registered or certified mail, courier, or e-mail. _Notice_ to _Licensee_
+must be sent to the street addresses or e-mail address for _Licensee_
+on the _Quote_. _Notice_ to _npm_ must be sent to 1999 Harrison Street,
 Suite 1150, Oakland, California 94612 or legal@npmjs.com. Either party
-may change its postal or email address for _Notice_ by giving _Notice_
+may change its postal or e-mail address for _Notice_ by giving _Notice_
 of a new address.
 
 8.  **Open-Source Terms** means the terms of a form license approved
