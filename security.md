@@ -62,7 +62,7 @@ of the onboarding process.
 We learn about critical software updates and security threats from a
 variety of sources:
 
-* Ubuntu's security notices page: <http://www.ubuntu.com/usn/trusty/>
+* Ubuntu's security notices page: <https://usn.ubuntu.com/>
 * The Node.js mailing list.
 * The <security@npmjs.com> email address.
 * and other media sources.
