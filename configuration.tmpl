@@ -1,0 +1,14 @@
+app = "policies"
+description =  "the rules"
+processes = 1
+start =  "node -pe 'Date.now()'"
+
+[build]
+    command = "./bin/write.sh"
+
+[environment]
+    SERVICE_NAME = "wubwub"
+    NODE_ENV = "{{node_env}}"
+    CMS_HOST = "{{cms_host}}"
+    CMS_API_KEY = "{{cms_api_key}}"
+
