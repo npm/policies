@@ -15,5 +15,5 @@ for path in out/*.html; do
   candidate_slug="/policies/${name}"
   slug=${candidate_slug/\/README/}
   title=${name/-/ }
-  node_modules/.bin/mkp $slug -t "npm | policies | ${title}" $path
+  node_modules/.bin/mkp $slug -t "npm | policies | ${title}" <( echo '<div class="flatpages"><div>'; cat $path; echo '</div></div>' )
 done
