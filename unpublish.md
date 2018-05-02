@@ -38,6 +38,8 @@ Once deprecated, if you would also like for the package to be removed from your 
 
 If for some reason the unpublish command fails within the 24 hour window, or if you need assistance with the deprecate process, please reach to support@npmjs.com where we'll be happy to assist.
 
+If you believe a package violates npm's terms or policies, such as our terms of use, [reach out to support@npmjs.com](mailto:support@npmjs.com).  If a package infringes your copyright, [refer to npm's DMCA takedown policy](https://www.npmjs.com/policies/dmca).  If you believe a package violates your privacy rights, [contact our privacy team](https://www.npmjs.com/policies/privacy#contact) as soon as possible.
+
 ## Changes
 
 This is a living document and may be updated from time to time.
