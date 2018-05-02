@@ -36,7 +36,7 @@ Once deprecated, if you would also like for the package to be removed from your 
 
 ## Issues?
 
-If for some reason the unpublish command fails within the 24 hour window, or if you need assistence with the deprecate process, please reach to support@npmjs.com where we'll be happy to assist.
+If for some reason the unpublish command fails within the 24 hour window, or if you need assistance with the deprecate process, please reach to support@npmjs.com where we'll be happy to assist.
 
 ## Changes
 
