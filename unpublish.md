@@ -16,7 +16,7 @@ If the package is still within the first 24 hours, you should use one of the fol
 Some considerations:
 
 -  Once `package@version` has been used, you can never use it again. You must publish a new version even if you unpublished the old one
-- If you entirely unpublish a package, nobody else (even you) will be able to unpublish a package of that name for 24 hours.
+- If you entirely unpublish a package, nobody else (even you) will be able to publish a package of that name for 24 hours.
 
 ## What to do if your package was published more than 24 hours ago
 
