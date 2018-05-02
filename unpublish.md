@@ -2,29 +2,32 @@
 
 This document describes your options when looking to unpublish a package or version(s) of a package published to the public registry.
 
-Ideally, the registry should be as immutable as possible. Meaning, if a user can access something today, they should be able to access it a week, month, year...from today. We understand that accidents happen, so we've allowed a 24 hour window for users to unpublish packages they have just created. Beyond that, unless in extreme cases, we'll prefer a deprecation path.
+Registry data is immutable, meaning once published, a package cannot change. We do this for reasons of security and stability of the users who depend on those packages. So if you've ever published a package called "bob" at version 1.1.0, no other package can ever be published with that name at that version. This is true even if that package is unpublished. However, because accidents happen we've allowed a 24 hour window for users to unpublish packages they have just created. Beyond that, unless in extreme cases, we'll prefer a deprecation path.
 
 This document is additive to the CLI commands [unpublish documentation](https://docs.npmjs.com/cli/unpublish) and an update and clarification of ["changes to npm’s unpublish policy"](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy) blog post.
 
-## Take action within 24 hours of publish
+## What to do if your package was published less than 24 hours ago
 
 If the package is still within the first 24 hours, you should use one of the following from your command line:
 
 - `npm unpublish <package_name> -f` to remove the entire package thanks to the `-f` or force flag
 - `npm unpublish <package_name>@<version>` to remove a specific version
 
-Some considerations, once a `<package>@<version>` combination has been used, you'll be unable to reuse or reset those versions, **even if they have been unpublished.** Additionally, if the entire package has been unpublished, the package name will be blocked from reuse for 24 hours. Beyond that, **it is generally considered bad behavior to remove versions of a library that others are depending on!**
+Some considerations:
 
-## Take action beyond the first 24 hours of publish
+-  Once `package@version` has been used, you can never use it again. You must publish a new version even if you unpublished the old one
+- If you entirely unpublish a package, nobody else (even you) will be able to unpublish a package of that name for 24 hours.
 
-If the package or version(s) are older than 24 hours, the unpublish command will fail and will instead recommend that it be [deprecated](https://docs.npmjs.com/cli/deprecate). This can be achieved by using one of the following from your command line:
+## What to do if your package was published more than 24 hours ago
+
+After 24 hours, we strongly discourage unpublishing a package, as other users may be depending on it. Instead, we recommend [deprecating](https://docs.npmjs.com/cli/deprecate) a package. This allows the package to be downloaded but publishes a clear warning message (that you get to write) every time the package is downloaded, and on the package's npmjs.com page. Users will know that you do not recommend they use the package, but if they are depending on it their builds will not break. We consider this a good compromise between reliability and author control.
+
+This can be achieved by using one of the following from your command line:
 
 - `npm deprecate <package> "<message>"` to deprecate the entire package
 - `npm deprecate <package>@<version> "<message>"` to deprecate a specific version
 
-This will alert users when they install that the package and/or version(s) are no longer supported. If the entire package or the `latest` version of a package is deprecated, the user will also be alerted on the package page on the website.
-
-Additionally, if the entire package is deprecated, the package name will be dropped from our search results.
+If the entire package is deprecated, the package name will be dropped from our search results.
 
 Once deprecated, if you would also like for the package to be removed from your user profile, it can be [transferred](https://docs.npmjs.com/cli/owner) to our [@npm](https://www.npmjs.com/~npm) account. This can be achieved by using the following from your command line:
 
