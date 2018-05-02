@@ -8,16 +8,16 @@ This document is additive to the CLI commands [unpublish documentation](https://
 
 ## Take action within 24 hours of publish
 
-If the package is still within the first 24 hours, you should utilizing one of the following from your command line:
+If the package is still within the first 24 hours, you should use one of the following from your command line:
 
 - `npm unpublish <package_name> -f` to remove the entire package thanks to the `-f` or force flag
-- or `npm unpublish <package_name>@<version>` to remove a specific version
+- `npm unpublish <package_name>@<version>` to remove a specific version
 
-Some considerations, once a `<package>@<version>` combination has been used, you'll be unable reuse or reset those versions, **even if they have been unpublished.** Additionally, if the entire package has been unpublished, the package name will be blocked from reuse for 24 hours. Beyond that, **it is generally considered bad behavior to remove versions of a library that others are depending on!**
+Some considerations, once a `<package>@<version>` combination has been used, you'll be unable to reuse or reset those versions, **even if they have been unpublished.** Additionally, if the entire package has been unpublished, the package name will be blocked from reuse for 24 hours. Beyond that, **it is generally considered bad behavior to remove versions of a library that others are depending on!**
 
 ## Take action beyond the first 24 hours of publish
 
-If the package or version(s) are older than 24 hours, the unpublish command will fail and will instead recommend that it be [deprecated](https://docs.npmjs.com/cli/deprecate). This can be achieved by utilizing one of the following from your command line:
+If the package or version(s) are older than 24 hours, the unpublish command will fail and will instead recommend that it be [deprecated](https://docs.npmjs.com/cli/deprecate). This can be achieved by using one of the following from your command line:
 
 - `npm deprecate <package> "<message>"` to deprecate the entire package
 - `npm deprecate <package>@<version> "<message>"` to deprecate a specific version
@@ -26,7 +26,7 @@ This will alert users when they install that the package and/or version(s) are n
 
 Additionally, if the entire package is deprecated, the package name will be dropped from our search results.
 
-Once deprecated, if you would also like for the package to be removed from your user profile, it can be [transferred](https://docs.npmjs.com/cli/owner) to our [@npm](https://www.npmjs.com/~npm) account. This can be achieved by utilizing the following from your command line:
+Once deprecated, if you would also like for the package to be removed from your user profile, it can be [transferred](https://docs.npmjs.com/cli/owner) to our [@npm](https://www.npmjs.com/~npm) account. This can be achieved by using the following from your command line:
 
 - `npm owner add npm <package>`
 - `npm owner rm <your_username> <package>`
