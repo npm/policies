@@ -607,12 +607,13 @@ United States of America
 European Union users with questions or complaints about GDPR compliance
 should also address npm's representative in the Union:
 
-DP-dock GmbH
-Attention: Mr. Arno Schlösser  
-[info@dp-dock.com](mailto:info@dp-dock.com)  
-Ballindamm 39 / Ecke Jungfernstieg  
+DP-Dock GmbH  
+[npm@gdpr-rep.com](mailto:npm@gdpr-rep.com)  
+Ballindamm 39  
 20095 Hamburg  
-Germany
+Germany  
+Telephone: +49 (0) 40 99999 - 3430  
+Mobile: +49 (0) 172 918 22 22
 
 For complaints under the Privacy Shields, npm has a contract with JAMS,
 an independent alternative resolution provider based in the United States.
