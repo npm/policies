@@ -540,7 +540,7 @@ your computer also sends a request to Gravatar.  You can read
 ### <a id="cdns">npm uses content delivery networks.</a>
 
 npm uses [Cloudflare](https://cloudflare.com) and
-[Fastly](https://cloud.google.com/) to distribute copies of package and
+[Fastly](https://www.fastly.com) to distribute copies of package and
 other data worldwide, so that others can download it quickly from a server
 near them.  You can read [the privacy and security policy for
 Cloudflare](https://www.cloudflare.com/security-policy/) and
