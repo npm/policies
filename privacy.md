@@ -442,7 +442,7 @@ apply to most packages, and making exceptions that do.
 If you accidentally publish a package that threatens your privacy, or
 discover someone else has published a package that does,
 [_email privacy@npmjs.com immediately_](mailto:privacy@npmjs.com).
-npm can and will make take down packages in specific, exceptional
+npm can and will take down packages in specific, exceptional
 situations to protect you, especially if others violate your privacy.
 Using npm to violate others' privacy is against our
 [terms of service](https://www.npmjs.com/policies/open-source-terms).
