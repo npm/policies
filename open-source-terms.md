@@ -320,7 +320,7 @@ npm Services provide information about ownership and licensing of
 Packages, as provided by those Packages' publishers. That information
 may be wrong. npm cannot and does not provide legal advice.
 
-### Third-Party Services
+## Third-Party Services
 
 npm Services may hyperlink to and integrate with third-party
 applications, websites, and other services. You decide whether and how
