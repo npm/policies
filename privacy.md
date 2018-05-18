@@ -101,7 +101,7 @@ or private packages, npm logs data that might be identified to you:
 
 npm uses this data to:
 
-- fulfill you requests, such as by sending the packages you ask for
+- fulfill your requests, such as by sending the packages you ask for
 
 - send you alerts about security vulnerabilities that may affect the
   software you're building, when you run `npm install` or `npm audit`
