@@ -359,6 +359,29 @@ npm distributes package data published to the npm public registry and
 metadata about those packages worldwide, via
 [content delivery networks](#cdns).
 
+### <a id="privacy-shield">npm participates in the Privacy Shields.</a>
+
+npm participates in the [EU-US and Swiss-US Privacy Shields](https://www.privacyshield.gov/Individuals-in-Europe).
+Under the Privacy Shields:
+
+- npm must respond to questions and complaints about Privacy Shield
+  principles within 45 days.
+
+- npm is subject to the investigatory and enforcement powers of the
+  Federal Trade Commission.
+
+- npm is liable in cases of onward transfers to third parties.
+
+- npm commits to subject all personal data received in reliance on the
+  Privacy Shields to the Privacy Shield Principles.
+
+- npm is required to disclose personal information in response to lawful
+  requests by public authorities, including to meet national security or
+  law enforcement requirements.
+
+You can find the Privacy Shield list online at
+<https://www.privacyshield.gov/list>.
+
 ## <a id="gdpr">Does npm comply with the EU General Data Protection Regulation?</a>
 
 npm respects privacy rights under [Regulation (EU) 2016/679](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG),
