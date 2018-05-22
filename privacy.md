@@ -592,6 +592,14 @@ Germany
 Telephone: +49 (0) 40 99999 - 3430  
 Mobile: +49 (0) 172 918 22 22
 
+For complaints under the Privacy Shields, npm has a contract with JAMS,
+an independent alternative resolution provider based in the United States.
+If we can't resolve a complaint about Privacy Shield between us, you can
+[submit a Privacy Shield claim through JAMS](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim).
+Arbitrating through JAMS is free of charge to you.  Under some
+circumstances, European Union users may invoke binding Privacy Shield
+arbitration, as a last resort.
+
 For complaints under GDPR more generally, European Union users may lodge
 complaints with their local data protection supervisory authorities.
 
