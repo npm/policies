@@ -593,6 +593,11 @@ npm uses [Yesware](http://www.yesware.com/) to send some email, as well
 as track who reads and follows links in those messages.  You can read
 [the privacy policy for Yesware online](https://www.yesware.com/privacy/).
 
+### <a id="slack">npm uses Slack for internal communication.</a>
+
+npm uses [Slack](https://slack.com) for internal communication.  You can read
+[the privacy policy for Slack online](https://slack.com/privacy).
+
 ## <a id="contact">Who can I contact about npm and my privacy?</a>
 
 You can send questions or complaints to:
