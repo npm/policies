@@ -34,7 +34,7 @@ called _npm Services_ throughout these Terms.
 
 You may only access or use npm Services by agreeing to these Terms.
 If npm adds any additional functionality to npm Services, you must
-agree to these Terms to use new features, too. You show your agreement
+agree to these Terms to use that new functionality, too. You show your agreement
 with npm on these Terms by by creating a user account (your _Account_)
 or by accessing or using npm Services without creating an account.
 The agreement between you and npm is a legally binding contract (this
