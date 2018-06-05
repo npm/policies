@@ -67,7 +67,7 @@ to notifications about alleged infringement via npm Services per
 the copyright policy at <https://www.npmjs.com/policies/dmca> (the
 _Copyright Policy_).
 
-npm resolves disputes about package names, user names and organization
+npm resolves disputes about package names, user names, and organization
 names in the Public Registry per the policy at
 <https://www.npmjs.com/policies/disputes> (_Dispute Policy_). This
 includes "package squatting".
