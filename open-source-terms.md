@@ -187,7 +187,7 @@ of unacceptable content:
 2. Content in violation of law, infringing the intellectual property
    rights of others, violating the privacy or other rights of others,
    or in violation of any agreement with a third party. This includes
-   code which violates a license.
+   code that violates a public license for others' work.
 
 3. Content containing malicious computer code, such as computer viruses,
    computer worms, rootkits, back doors, adware, or spyware. This
