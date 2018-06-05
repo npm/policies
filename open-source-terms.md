@@ -3,11 +3,11 @@
 These npm Open Source terms of use (these _Terms_) govern access to
 and use of <https://www.npmjs.com> (the _Website_) as well as the
 "npm Public Registry" at <https://registry.npmjs.org> (the _Public
-Registry_). Both the Website and the Public Registry are operated by
-npm, Inc. (_npm_). The Website and the Public Registry are referred to
-together as _npm Open Source_ throughout these Terms.
+Registry_). npm, Inc. (_npm_) operates both the Website and
+the Public Registry. These terms refer to the Website and
+the Public Registry together as _npm Open Source_.
 
-These npm Open Source Terms were last updated on
+npm last updated these npm Open Source Terms on
 December 1, 2015.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
@@ -176,7 +176,7 @@ may have to use Paid Services, are subject to the following conditions:
 ## Acceptable Content
 
 Administrators at npm reserve the right to delete content hosted on
-the npm Services that is deemed unacceptable. Unacceptable content
+the npm Services that they deem unacceptable. Unacceptable content
 can take the form of a package, a README file, a user or organization
 name, or any other content submitted to the npm Services. Content
 that is unacceptable includes but is not limited to:
