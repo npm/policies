@@ -182,7 +182,7 @@ name, or any other content submitted to npm Services. A few examples
 of unacceptable content:
 
 1. Content that is illegal, offensive, or otherwise harmful. This includes
-   content that is harassing, inappropriate or abusive.
+   content that is harassing, inappropriate, or abusive.
 
 2. Content in violation of law, infringing the intellectual property
    rights of others, violating the privacy or other rights of others,
