@@ -202,7 +202,7 @@ of unacceptable content:
    directly to the registry. Using the Public Registry as a general purpose database is not allowed.
 
 5. Content that exists only to "reserve" a name, whether a package name,
-   user name, or organization name, i.e. "squatting". The
+   user name, or organization name, or "squatting". The
    [Dispute Policy](https://www.npmjs.com/policies/disputes) governs
    how npm handles cases of squatting.
 
