@@ -178,8 +178,8 @@ may have to use Paid Services, are subject to the following conditions:
 Administrators at npm reserve the right to delete content hosted on
 the npm Services that they deem unacceptable. Unacceptable content
 can take the form of a package, a README file, a user or organization
-name, or any other content submitted to npm Services. Content
-that is unacceptable includes but is not limited to:
+name, or any other content submitted to npm Services. A few examples
+of unacceptable content:
 
 1. Content that is illegal, offensive, or otherwise harmful. This includes
    content that is harassing, inappropriate or abusive.
