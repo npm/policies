@@ -1,9 +1,9 @@
 #!/bin/bash
 
 head=$(git rev-parse HEAD)
-master=$(git rev-parse origin/master)
+target=$(git rev-parse origin/deploy-${NODE_ENV})
 
-if [ "$head" != "$master" ]; then
+if [ "$head" != "$target" ]; then
   exit
 fi
 
