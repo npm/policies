@@ -32,16 +32,16 @@ these payment terms apply. When enabling Paid Services, you must provide
 all the payment card details requested by the Website (your _Payment
 Details_). Those details must be for a valid payment card that you have
 the right to use (your _Payment Card_). You must keep your Payment
-Details up-to-date via the Website.		
+Details up-to-date via the Website.
 
-You can disable Paid Services at any time via the Website. npm will not		
-refund any payment you have already made for Paid Services when you		
-disable Paid Services.		
+You can disable Paid Services at any time via the Website. npm will not
+refund any payment you have already made for Paid Services when you
+disable Paid Services.
 
-Dollar amounts throughout this Agreement are amounts of United States		
-Dollars. You must pay for Paid Services in United States Dollars.		
+Dollar amounts throughout this Agreement are amounts of United States
+Dollars. You must pay for Paid Services in United States Dollars.
 
-Dollar amounts throughout this Agreement do not include tax. You will		
+Dollar amounts throughout this Agreement do not include tax. You will
 pay any tax.
 
 ## Use of npm Paid Services
