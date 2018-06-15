@@ -25,7 +25,7 @@ using npm Paid Services with your account (your _Account_). These
 npm Paid Services Terms then become a part of the contract between you
 and npm, until you or npm disable npm Paid Services for your Account.
 
-## Payment terms
+## Payment Terms
 
 There is no charge for use of npm Open Source. If you use Paid Services,
 these payment terms apply. When enabling Paid Services, you must provide
