@@ -10,7 +10,7 @@ Paid Services Terms_). This Payment Plan governs payment for
 accounts added as members of those Organizations.
 
 This Payment Plan was last updated on
-June 27, 2017.
+June 15, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/organization-plan.md>.
 
@@ -23,3 +23,8 @@ entitles you to a single member of the organization (a _New Paid Services
 User_). You will pay $7.00 via your Payment Card per each additional
 New Paid Services User that you add to an Organization, counted and
 billed on your Billing Day.
+
+Note that the npm Paid Services Terms require everyone using npm Paid
+Services to have an Account of their own, added under a Payment Plan.
+You must add a New Paid Services User to an Organization for each
+person who will use npm Paid Services under this Payment Plan.
