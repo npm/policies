@@ -45,10 +45,10 @@ npm projects.
 
 At npm, Inc. we do three things to support this goal:
 
-1.	Run the open source registry as a free service.
-2.	Build tools and operate services that support the secure use of
+1.  Run the open source registry as a free service.
+2.  Build tools and operate services that support the secure use of
     packages in a private or enterprise context.
-3.	Build innovative new tools and services for the developer
+3.  Build innovative new tools and services for the developer
     community.
 
 ## Why npm, Inc. has a trademark policy
