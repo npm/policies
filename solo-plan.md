@@ -1,6 +1,6 @@
 # npm Solo Payment Plan
 
-This npm Personal Payment Plan (this _Payment Plan_) supplements
+This npm Solo Payment Plan (this _Payment Plan_) supplements
 the terms for npm Open Source offered by npm, Inc. (_npm_) at
 <https://www.npmjs.com/policies/open-source-terms> (_npm Open Source
 Terms_), as well as the terms for npm Paid Services (_npm Paid Services_)

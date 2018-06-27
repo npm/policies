@@ -33,11 +33,11 @@ have concerns about your own trademark's use on npm please see our [Disputes Pol
 
 ## Paid npm services
 
-npm's paid products, including the npm Solo and Organizations plans, are
+npm's paid products, including the npm Solo and Orgs plans, are
 covered by the npm Paid Services Terms at <https://www.npmjs.com/policies/private-terms>.
 
-The npm Personal Payment Plan
-<https://www.npmjs.com/policies/personal-plan>
-and the npm Organization Payment Plan
-<https://www.npmjs.com/policies/organization-plan>
+The npm Solo Payment Plan
+<https://www.npmjs.com/policies/solo-plan>
+and the npm Orgs Payment Plan
+<https://www.npmjs.com/policies/orgs-plan>
 govern payment for these services.

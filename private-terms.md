@@ -5,7 +5,7 @@ supplement the terms for npm Open Source offered by npm, Inc.
 (_npm_) at <https://www.npmjs.com/policies/open-source-terms> (_npm Open
 Source Terms_). They govern access to and use of _npm Paid Services_,
 including but not limited to the products known as  _npm Solo_ and
-_npm Organizations_, the private package storage, delivery,
+_npm Orgs_, the private package storage, delivery,
 organization management, and access control features of
 <https://www.npmjs.com> (the _Website_) and the npm public registry
 at <https://registry.npmjs.org> (the _Public Registry_). These are
@@ -70,11 +70,11 @@ provide npm Paid Services are subject to these npm Paid Services
 Terms, the npm Open Source Terms, and payment for use of npm Paid
 Services by your Account under a _Payment Plan_. Payment plans include:
 
-1. the npm Personal Payment Plan at
-   <https://www.npmjs.com/policies/personal-plan>
+1. the npm Solo Payment Plan at
+   <https://www.npmjs.com/policies/solo-plan>
 
-2. or the npm Organization Payment Plan at
-   <https://www.npmjs.com/policies/organization-plan>
+2. or the npm Orgs Payment Plan at
+   <https://www.npmjs.com/policies/orgs-plan>
 
 You may not use npm Paid Services unless you or someone else has
 agreed to a Payment Plan, enabled npm Paid Services for your Account
