@@ -2,13 +2,13 @@
 
 This document describes your options when looking to unpublish a package or version(s) of a package published to the public registry.
 
-Registry data is immutable, meaning once published, a package cannot change. We do this for reasons of security and stability of the users who depend on those packages. So if you've ever published a package called "bob" at version 1.1.0, no other package can ever be published with that name at that version. This is true even if that package is unpublished. However, because accidents happen we've allowed a 24 hour window for users to unpublish packages they have just created. Beyond that, unless in extreme cases, we'll prefer a deprecation path.
+Registry data is immutable, meaning once published, a package cannot change. We do this for reasons of security and stability of the users who depend on those packages. So if you've ever published a package called "bob" at version 1.1.0, no other package can ever be published with that name at that version. This is true even if that package is unpublished. However, because accidents happen we've allowed a 72 hour window for users to unpublish packages they have just created. Beyond that, unless in extreme cases, we'll prefer a deprecation path.
 
 This document is additive to the CLI commands [unpublish documentation](https://docs.npmjs.com/cli/unpublish) and an update and clarification of ["changes to npm’s unpublish policy"](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy) blog post.
 
-## What to do if your package was published less than 24 hours ago
+## What to do if your package was published less than 72 hours ago
 
-If the package is still within the first 24 hours, you should use one of the following from your command line:
+If the package is still within the first 72 hours, you should use one of the following from your command line:
 
 - `npm unpublish <package_name> -f` to remove the entire package thanks to the `-f` or force flag
 - `npm unpublish <package_name>@<version>` to remove a specific version
@@ -16,11 +16,11 @@ If the package is still within the first 24 hours, you should use one of the fol
 Some considerations:
 
 -  Once `package@version` has been used, you can never use it again. You must publish a new version even if you unpublished the old one
-- If you entirely unpublish a package, nobody else (even you) will be able to publish a package of that name for 24 hours.
+- If you entirely unpublish a package, nobody else (even you) will be able to publish a package of that name for 72 hours.
 
-## What to do if your package was published more than 24 hours ago
+## What to do if your package was published more than 72 hours ago
 
-After 24 hours, we strongly discourage unpublishing a package, as other users may be depending on it. Instead, we recommend [deprecating](https://docs.npmjs.com/cli/deprecate) a package. This allows the package to be downloaded but publishes a clear warning message (that you get to write) every time the package is downloaded, and on the package's npmjs.com page. Users will know that you do not recommend they use the package, but if they are depending on it their builds will not break. We consider this a good compromise between reliability and author control.
+After 72 hours, we strongly discourage unpublishing a package, as other users may be depending on it. Instead, we recommend [deprecating](https://docs.npmjs.com/cli/deprecate) a package. This allows the package to be downloaded but publishes a clear warning message (that you get to write) every time the package is downloaded, and on the package's npmjs.com page. Users will know that you do not recommend they use the package, but if they are depending on it their builds will not break. We consider this a good compromise between reliability and author control.
 
 This can be achieved by using one of the following from your command line:
 
@@ -36,7 +36,7 @@ Once deprecated, if you would also like for the package to be removed from your 
 
 ## Issues?
 
-If for some reason the unpublish command fails within the 24 hour window, or if you need assistance with the deprecate process, please reach to support@npmjs.com where we'll be happy to assist.
+If for some reason the unpublish command fails within the 72 hour window, or if you need assistance with the deprecate process, please reach to support@npmjs.com where we'll be happy to assist.
 
 If you believe a package violates npm's terms or policies, such as our terms of use, [reach out to support@npmjs.com](mailto:support@npmjs.com).  If a package infringes your copyright, [refer to npm's DMCA takedown policy](https://www.npmjs.com/policies/dmca).  If you believe a package violates your privacy rights, [contact our privacy team](https://www.npmjs.com/policies/privacy#contact) as soon as possible.
 
