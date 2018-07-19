@@ -27,7 +27,8 @@ react appropriately to security threats when they arise.
 
 If you need to report a security vulnerability.  Please [contact
 us](https://www.npmjs.com/support) or email
-[security@npmjs.com](mailto:security@npmjs.com).
+[security@npmjs.com](mailto:security@npmjs.com). If your issue 
+is specific to your account, such as lost credentials, contacting [support@npmjs.com](mailto:support@npmjs.com) is more appropriate.
 
 We review all security reports within one business day.  Note that
 the npm staff is generally offline for most US holidays, but please do
@@ -36,13 +37,14 @@ issues, and will alert our security point of contact if needed.
 
 ## Security Point of Contact
 
-npm's CTO [C J Silverio](mailto:ceej@npmjs.com) is the current point
-of contact for all security related issues. npm's COO [Laurie Voss](mailto:laurie@npmjs.com)
-is our secondary contact.
-
 Any emails sent to <security@npmjs.com> will be escalated to the
 security point of contact, who will delegate incident response
-activities as appropriate.
+activities as appropriate. This is the best and fastest way to contact npm about any security-related matter.
+
+npm's Head of Security [Adam Baldwin](mailto:adam@npmjs.com) is the current point
+of contact for all security related issues. npm's CTO [CJ Silverio](mailto:ceej@npmjs.com)
+is our secondary contact.
+
 
 ## Onboarding Developers
 
@@ -51,11 +53,9 @@ of the onboarding process.
 
 ## Separation of Duties and Authorization
 
-* Developers are only be given access to key npm services (Fastly,
-  AWS, etc) when it's required for their job.
-* [IAM](https://aws.amazon.com/iam/) is used to limit the permissions
-  on AWS accounts, minimizing the damage that would be incurred if an
-  account is compromised.
+* Developers are only be given access to key npm services (Cloudflare,
+  AWS, Google Cloud, etc) when it's required for their job.
+* IAM is used to limit the permissions on AWS and Google Cloud accounts, minimizing the damage that would be incurred if an account is compromised. We use IAM services provided both by [AWS](https://aws.amazon.com/iam/) and [Google Cloud](https://cloud.google.com/iam/)
 
 ## Critical Updates And Security Notices
 
@@ -98,17 +98,14 @@ place:
 Along with reacting to security notifications as they happen, we
 proactively pen-test and audit software.
 
-### Third-Party Audits
+### Internal Audits
 
-We perform regular penetration testing and code audits with the
-security firm [Lift Security](https://liftsecurity.io/).
+We have a dedicated security team who perform ongoing penetration testing, code auditing, and other forms of security oversight.
 
 While working on features at npm, all engineers coordinate security
-audits with the [Security Point of
-Contact](#security-point-of-contact).
+audits with the [Security Point of Contact](#security-point-of-contact).
 
-Documents from this process are available, and can be provided to
-customers when requested.
+Documentation of our internal audits is available, and can be provided to customers when requested.
 
 ### Automated Scanning
 
@@ -116,6 +113,7 @@ The cloud hosting platforms that we use provide options for automated
 vulnerability scanning.
 
 * AWS: <https://aws.amazon.com/security/penetration-testing/>
+* Google Cloud: <https://cloud.google.com/security-scanner/>
 
 ## Password Policies
 
@@ -204,8 +202,7 @@ services across multiple hosts.
 
 ### Security Groups
 
-Security-groups, or Zones in the case of SoftLayer, are used to limit
-the network connectivity between hosts.
+Security groups are used to limit the network connectivity between hosts.
 
 When deploying a service, ask: "what other services does this
 actually need to connect to?"
