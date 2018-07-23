@@ -20,5 +20,7 @@ for path in out/*.html; do
   echo '<div class="flatpages"><div class="policies"><div class="dt mw7 center pv2 pv2-m pv2-ns pa4 mb4">' >> ${path}.tmp
   cat $path >> ${path}.tmp
   echo '</div></div></div>' >> ${path}.tmp
-  node_modules/.bin/mkp $slug -t "npm | policies | ${title}" ${path}.tmp
+
+  echo "writing $slug ('$title') for $path"
+  node_modules/.bin/mkp $slug -t "npm | policies | ${title}" ${path}.tmp >/dev/null || echo 'failed to write'
 done
