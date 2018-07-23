@@ -9,6 +9,7 @@ fi
 
 npm ci
 make
+echo out/*.html
 for path in out/*.html; do
   filename=$(basename $path)
   name=${filename%.*}
