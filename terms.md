@@ -7,7 +7,7 @@ and terms of use.
 
 License terms and notices for the `npm` command-line program can
 be found in the LICENSE file of the project's source code at
-<https://www.github.com/npm/npm>.
+<https://www.github.com/npm/cli>.
 
 ## Free to use npm services
 
