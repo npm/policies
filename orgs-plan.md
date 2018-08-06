@@ -10,7 +10,7 @@ _Orgs_ and use of npm Paid Services by user
 accounts added as members of those Orgs.
 
 This Payment Plan was last updated on
-June 15, 2018.
+August 6, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/orgs-plan.md>.
 

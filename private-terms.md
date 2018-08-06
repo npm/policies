@@ -12,7 +12,7 @@ at <https://registry.npmjs.org> (the _Public Registry_). These are
 collectively called the _Paid Services_.
 
 These npm Paid Services Terms were last updated on
-June 27, 2017.
+August 6, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/private-terms.md>.
 

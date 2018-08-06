@@ -8,7 +8,7 @@ the Public Registry. These terms refer to the Website and
 the Public Registry together as _npm Open Source_.
 
 npm last updated these npm Open Source Terms on
-December 1, 2015.
+August 6, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 

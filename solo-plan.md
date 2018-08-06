@@ -9,7 +9,7 @@ Services Terms_). This Payment Plan governs payment for use of
 npm Solo by a single user account.
 
 This Payment Plan was last updated on
-June 15, 2018.
+August 6, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/solo-plan.md>.
 
