@@ -117,6 +117,13 @@ may have to use Paid Services, are subject to the following conditions:
 
 3.  You must use npm Services only in accordance with "Acceptable Use".
 
+4.  You may access and use data about the security of Packages, such
+    as vulnerability reports, audit status reports, and supplementary
+    security documentation, only for your own personal or internal
+    business purposes. You may _not_ provide others access to, copies
+    of, or use of npm data about the security of Packages, directly
+    or as part of other products or services.
+
 ## Acceptable Use
 
 1.  You will abide by the
