@@ -3,12 +3,12 @@
 These npm Open Source terms of use (these _Terms_) govern access to
 and use of <https://www.npmjs.com> (the _Website_) as well as the
 "npm Public Registry" at <https://registry.npmjs.org> (the _Public
-Registry_). Both the Website and the Public Registry are operated by
-npm, Inc. (_npm_). The Website and the Public Registry are referred to
-together as _npm Open Source_ throughout these Terms.
+Registry_). npm, Inc. (_npm_) operates both the Website and
+the Public Registry. These terms refer to the Website and
+the Public Registry together as _npm Open Source_.
 
-These npm Open Source Terms were last updated on
-December 1, 2015.
+npm last updated these npm Open Source Terms on
+August 6, 2018.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
@@ -34,8 +34,8 @@ called _npm Services_ throughout these Terms.
 
 You may only access or use npm Services by agreeing to these Terms.
 If npm adds any additional functionality to npm Services, you must
-agree to these Terms to use new features, too. You show your agreement
-with npm on these Terms by by creating a user account (your _Account_)
+agree to these Terms to use that new functionality, too. You show your agreement
+with npm on these Terms by creating a user account (your _Account_)
 or by accessing or using npm Services without creating an account.
 The agreement between you and npm is a legally binding contract (this
 _Agreement_).
@@ -67,7 +67,7 @@ to notifications about alleged infringement via npm Services per
 the copyright policy at <https://www.npmjs.com/policies/dmca> (the
 _Copyright Policy_).
 
-npm resolves disputes about package names, user names and organization
+npm resolves disputes about package names, user names, and organization
 names in the Public Registry per the policy at
 <https://www.npmjs.com/policies/disputes> (_Dispute Policy_). This
 includes "package squatting".
@@ -176,18 +176,18 @@ may have to use Paid Services, are subject to the following conditions:
 ## Acceptable Content
 
 Administrators at npm reserve the right to delete content hosted on
-the npm Services that is deemed unacceptable. Unacceptable content
+the npm Services that they deem unacceptable. Unacceptable content
 can take the form of a package, a README file, a user or organization
-name, or any other content submitted to the npm Services. Content
-that is unacceptable includes but is not limited to:
+name, or any other content submitted to npm Services. A few examples
+of unacceptable content:
 
 1. Content that is illegal, offensive, or otherwise harmful. This includes
-   content that is harassing, inappropriate or abusive.
+   content that is harassing, inappropriate, or abusive.
 
 2. Content in violation of law, infringing the intellectual property
    rights of others, violating the privacy or other rights of others,
    or in violation of any agreement with a third party. This includes
-   code which violates a license.
+   code that violates a public license for others' work.
 
 3. Content containing malicious computer code, such as computer viruses,
    computer worms, rootkits, back doors, adware, or spyware. This
@@ -202,9 +202,9 @@ that is unacceptable includes but is not limited to:
    directly to the registry. Using the Public Registry as a general purpose database is not allowed.
 
 5. Content that exists only to "reserve" a name, whether a package name,
-   user name, or organization name, i.e. "squatting". The
+   user name, or organization name. The
    [Dispute Policy](https://www.npmjs.com/policies/disputes) governs
-   how npm handles cases of squatting.
+   how npm handles such cases of "squatting".
 
 To find out how to report violations of Acceptable Content, refer to the
 [Code of Conduct](https://www.npmjs.com/policies/conduct).
