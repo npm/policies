@@ -11,7 +11,8 @@ be found in the LICENSE file of the project's source code at
 
 ## Free to use npm services
 
-Free usage of <https://www.npmjs.com> and the npm public registry
+Free usage of <https://www.npmjs.com>, the npm public registry,
+and <https://npm.community>
 are covered by the npm Open Source Terms at <https://www.npmjs.com/policies/open-source-terms>.
 These terms include several important policies, including:
 
