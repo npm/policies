@@ -59,6 +59,8 @@ npm collects data about you:
 
 - when you send support, privacy, legal, and other requests to npm
 
+- when you visit [npm.community](https://npm.community)
+
 - when working with and researching current and potential customers
 
 When researching potential customers, npm staff sometimes search the
@@ -322,6 +324,12 @@ npm uses contact data to:
 
 npm stores correspondence as long as it may be useful for these purposes.
 
+### <a id="forum-data">npm collects data about use of npm.community.</a>
+
+npm collects data about visits, user accounts, and forum data on [npm.community](https://npm.community), the discussion forum for npm command-line interface development.  npm uses data from npm.community to collaborate with the development community, and to inform development decisions about the command-line interface and other software.
+
+Civilized Discourse Construction Kit, Inc. hosts [npm.community](https://npm.community) for npm.  For more information on CDCK, and a link to their privacy notice, see [the section on CDCK below](#cdck).
+
 ## <a id="choice">How can I make choices about data collection?</a>
 
 You choose what data the `npm publish` command includes in package data. 
@@ -358,6 +366,8 @@ customers' choosing.
 npm distributes package data published to the npm public registry and
 metadata about those packages worldwide, via
 [content delivery networks](#cdns).
+
+Data for [npm-community](https://npm.community) is hosted and stored by Civilized Discourse Construction Kit, Inc., which hosts the forum for npm.  For more information on CDCK, and a link to their privacy notice, see [the section on CDCK below](#cdck).
 
 ### <a id="privacy-shield">npm participates in the Privacy Shields.</a>
 
@@ -410,6 +420,8 @@ by accessing the appropriate [registry's API](https://github.com/npm/registry/tr
 Registry APIs provide metadata in standard [JSON](https://www.json.org)
 format, and packages as [tarballs](https://en.wikipedia.org/wiki/Tar_(computing)).
 
+The [privacy policy for Discourse](#cdck) describes how you can access data about you stored for [npm.community](https://npm.community).
+
 ## <a id="change">How can I change or erase data about me?</a>
 
 You can change your personal account data and payment card data at any
@@ -446,6 +458,8 @@ distribution, and use of package data indefinitely.  Nearly all popular
 open source software licenses actually require preserving personal data
 that attributes the software to you, such as copyright notices, as a
 condition of permission for the software.
+
+The [privacy policy for Discourse](#cdck) describes how you can change or erase data about you stored for [npm.community](https://npm.community).
 
 ## <a id="forgotten">Does the right to be forgotten cover unpublishing packages?</a>
 
@@ -496,6 +510,8 @@ If you think your package has been wrongly blocked or erased,
 [email support@npmjs.com](mailto:support@npmjs.com) to reach an npm team
 member who can review the decision.
 
+The [privacy policy for Discourse](#cdck) describes automated decisions on [npm.community](https://npm.community).
+
 ## <a id="sharing">Does npm share data about me with others?</a>
 
 npm shares account data with others as
@@ -503,6 +519,8 @@ npm shares account data with others as
 
 npm shares package data with others as
 [mentioned in the section about package data](#package-data).
+
+npm publishes posts and other content you submit to [npm.community](https://npm.community).
 
 npm does not sell information about you to others.  However, npm uses
 services provided by other companies to provide npm services.  Some of
@@ -597,6 +615,10 @@ as track who reads and follows links in those messages.  You can read
 
 npm uses [Slack](https://slack.com) for internal communication.  You can read
 [the privacy policy for Slack online](https://slack.com/privacy).
+
+### <a id="cdck">npm uses Civilized Discourse Construction Kit for npm.community.</a>
+
+npm uses [CDCK](https://discourse.com) to host [npm.community](https://npm.community), the discussion forum for npm command-line interface development.  You can read [CDCK's privacy policy online](https://www.discourse.org/privacy).
 
 ## <a id="contact">Who can I contact about npm and my privacy?</a>
 
