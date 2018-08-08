@@ -258,23 +258,21 @@ npm may remove Your Content from npm Services without notice if npm
 suspects Your Content was submitted or used in violation of "Acceptable
 Use", as well as per the Copyright Policy.
 
-Your Content belongs to you. You decide whether and how to license it.
-But at a minimum, you license npm to provide Your Content to users
-of npm Services when you share Your Content. That special license
-allows npm to copy, publish, and analyze Your Content, and to share
-its analyses with others. npm may run computer code in Your Content to
-analyze it, but npm's special license alone does not give npm the right
-to run code for its functionality in npm products or services.
+Your Content belongs to you. You decide whether and how to license it. 
+The npm Services are intended to remove the burden of distributing Your
+Content. You agree that npm has the irrevocable right to distribute
+Your Content, to analyze its code, and to do our best to ensure that
+Your Content continues to be available to others via npm Services.
+We may use the services of other companies in the process, and you agree
+that we can do that. If we ever change our legal business structure, or
+sell our company to another, you agree that the new owner will continue
+to have these rights.
 
-When Your Content is removed from the Website or the Public Registry,
-whether by you or npm, npm's special license ends when the last copy
-disappears from npm's backups, caches, and other systems. Other
-licenses, such as open source licenses, may continue after Your Content
-is removed. Those licenses may give others, or npm itself, the right to
-share Your Content with npm Services again.
+If Your Content is removed by you or by npm, other licenses, such as open 
+source licenses, may continue to be in force after Your Content is removed. 
 
 Others who receive Your Content via npm Services may violate the terms
-on which you license Your Content. You agree that npm will not be liable
+by which you license Your Content. You agree that npm will not be liable
 to you for those violations or their consequences.
 
 ## Feedback
