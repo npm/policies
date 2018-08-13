@@ -326,7 +326,7 @@ npm stores correspondence as long as it may be useful for these purposes.
 
 ### <a id="forum-data">npm collects data about use of npm.community.</a>
 
-npm collects data about visits, user accounts, and forum data on [npm.community](https://npm.community), the discussion forum for npm products and services.  npm uses data from npm.community to collaborate with the development community, and to inform development decisions about the command-line interface and other software.
+npm collects data about visits, user accounts, and forum data on [npm.community](https://npm.community), the discussion forum for users of npm products and services.  npm uses data from npm.community to collaborate with the development community, and to inform development decisions about the command-line interface and other software.
 
 Civilized Discourse Construction Kit, Inc. hosts [npm.community](https://npm.community) for npm.  For more information on CDCK, and a link to their privacy notice, see [the section on CDCK below](#cdck).
 
