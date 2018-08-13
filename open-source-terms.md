@@ -3,9 +3,10 @@
 These npm Open Source terms of use (these _Terms_) govern access to
 and use of <https://www.npmjs.com> (the _Website_) as well as the
 "npm Public Registry" at <https://registry.npmjs.org> (the _Public
-Registry_). npm, Inc. (_npm_) operates both the Website and
-the Public Registry. These terms refer to the Website and
-the Public Registry together as _npm Open Source_.
+Registry_), and the discussion forum at <https://npm.community>
+(_npm.community_). npm, Inc. (_npm_) operates each of those
+services. These terms refer to all of them together as _npm Open
+Source_.
 
 npm last updated these npm Open Source Terms on
 August 6, 2018.
@@ -100,6 +101,9 @@ Your permission to use npm Open Source entitles you to do the following:
     otherwise interact with the Public Registry, via the Website.
 
 4.  You may update and manage your Account via the Website.
+
+5.  You may visit, create an account for, and participate in,
+    discussions on npm.community.
 
 ## Conditions
 
@@ -266,7 +270,7 @@ its analyses with others. npm may run computer code in Your Content to
 analyze it, but npm's special license alone does not give npm the right
 to run code for its functionality in npm products or services.
 
-When Your Content is removed from the Website or the Public Registry,
+When Your Content is removed from npm Services,
 whether by you or npm, npm's special license ends when the last copy
 disappears from npm's backups, caches, and other systems. Other
 licenses, such as open source licenses, may continue after Your Content
