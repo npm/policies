@@ -115,9 +115,9 @@ may have to use Paid Services, are subject to the following conditions:
 
 ## Acceptable Use
 
-1. You will abide by the
-   [Code of Conduct](https://www.npmjs.com/policies/conduct) and the
-   [Dispute Policy](https://www.npmjs.com/policies/disputes).
+1.  You will abide by the
+    [Code of Conduct](https://www.npmjs.com/policies/conduct) and the
+    [Dispute Policy](https://www.npmjs.com/policies/disputes).
 
 2.  You will not submit material to npm as a package or in any other
     form that violates npm's _Acceptable Content_, described below.
