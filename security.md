@@ -53,7 +53,7 @@ of the onboarding process.
 
 ## Separation of Duties and Authorization
 
-* Developers are only be given access to key npm services (Cloudflare,
+* Developers are only given access to key npm services (Cloudflare,
   AWS, Google Cloud, etc) when it's required for their job.
 * IAM is used to limit the permissions on AWS and Google Cloud accounts, minimizing the damage that would be incurred if an account is compromised. We use IAM services provided both by [AWS](https://aws.amazon.com/iam/) and [Google Cloud](https://cloud.google.com/iam/)
 
