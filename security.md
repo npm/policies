@@ -105,7 +105,7 @@ We have a dedicated security team who perform ongoing penetration testing, code 
 While working on features at npm, all engineers coordinate security
 audits with the [Security Point of Contact](#security-point-of-contact).
 
-Documentation of our internal audits are available, and can be provided to customers when requested.
+Documentation of our internal audits is available, and can be provided to customers when requested.
 
 ### Automated Scanning
 
