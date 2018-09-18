@@ -1,0 +1,5 @@
+# developing
+
+TEMPORARY AS OF 09/17: If you create new files, or rename existing files,
+please ping **@chrisdickinson** or **@jefflembeck** in Slack. They will move
+the files from "draft" mode to "live" mode.
