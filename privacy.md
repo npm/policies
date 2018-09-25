@@ -430,8 +430,8 @@ time by visiting your account settings page on
 payment data for Enterprise by
 [emailing support@npmjs.com](mailto:support@npmjs.com).
 
-You can close your npm account at any time through
-[www.npmjs.com](https://www.npmjs.com).  Closing your account starts a
+You can close your npm account at any time by e-mailing
+[support@npmjs.com](mailto:support@npmjs.com).  Closing your account starts a
 process of erasing npm's records of your account data.  Closing your
 account does not automatically erase packages published under
 your account.
