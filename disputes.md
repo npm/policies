@@ -72,8 +72,8 @@ To dispute an organization name, follow these steps:
 
 To dispute a user name, follow these steps:
 
-1. Visit the user page at <https://www.npmjs.com/~foo>. Their email address is listed on this page.
-2. Send a message to that address and CC <support@npmjs.com>. Politely and respectfully explain your request and your desired outcome.
+1. Contact support@npmjs.com with the name of the user account, e.g. `@foo`
+2. Support will contact the user account owner on your behalf requesting the transfer. They may at their discretion include you in this dialogue.
 3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
 
 
