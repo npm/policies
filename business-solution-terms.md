@@ -10,7 +10,7 @@ These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.
 
 3.  _npm_ hosts the world's largest and most-used registry of _Packages_, the **npm Public Registry**. All _Packages_ in the _npm Public Registry_ are public, and anyone can download them.
 
-4.  Most users search and discover _Packages_ in the _npm Public Registry_ through the **npm Website**, https:\/\/www.npmjs.com. Users also visit the _npm Website_ to create and manage accounts for publishing _Packages_.
+4.  Most users search and discover _Packages_ in the _npm Public Registry_ through the **npm Website**, https://www.npmjs.com. Users also visit the _npm Website_ to create and manage accounts for publishing _Packages_.
 
 5.  _npm_ uses its familiarity and expertise with the _CLI_, _npm Public Registry_, and _npm Website_ to develop and offer software services for sharing _Packages_ privately within organizations, and for performing security analysis of _Packages_ that organizations use.
 
@@ -18,7 +18,7 @@ These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.
 
 7.  **npm Enterprise** gives organizations access to their own, private registry, hosted on infrastructure separate from the _npm Public Registry_.
 
-8.  _npm_ publishes **Documentation** for the _CLI_, _npm Orgs_, and _npm Enterprise_ at https:\/\/docs.npmjs.com\/.
+8.  _npm_ publishes **Documentation** for the _CLI_, _npm Orgs_, and _npm Enterprise_ at https://docs.npmjs.com/.
 
 9.  This is an agreement for _npm_ to provide either _npm Orgs_ or _npm Enterprise_ for _Customer_, as **Customer's Solution**.
 
