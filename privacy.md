@@ -503,7 +503,7 @@ npm uses data in packages and data about how you use the registry to
 make decisions about whether the packages you publish are spam, promote
 scams, abuse others, or otherwise violate our
 [terms of service](https://www.npmjs.com/policies/terms).
-When [Smyte](#smyte) decides that a package is likely in violation, npm
+When [Sift Science](#sift) decides that a package is likely in violation, npm
 blocks publishing the package or erases the package.
 
 If you think your package has been wrongly blocked or erased,
@@ -575,13 +575,12 @@ npm uses [Google Cloud Platform](https://cloud.google.com/) to host
 some npm Enterprise registries.  You can read [the privacy policy for
 Google services online](https://policies.google.com/privacy?hl=en&gl=us).
 
-### <a id="smyte">npm uses Smyte.</a>
+### <a id="sift">npm uses Sift Science.</a>
 
-npm uses [Smyte](https://www.smyte.com/) to detect packages that are
+npm uses [Sift Science](https://siftscience.com/) to detect packages that are
 spam, promote scams, abuse others, or otherwise violate our
 [terms of service](https://www.npmjs.com/policies/terms).  You can read
-[the privacy policy for Smyte online by following the link at the
-bottom of their homepage](https://www.smyte.com/).
+[the privacy policy for Sift Science online](https://siftscience.com/service-privacy).
 
 ### <a id="stripe">npm uses Stripe.</a>
 
