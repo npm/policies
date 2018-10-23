@@ -499,7 +499,7 @@ npm public registry that published data has been erased:
 
 ## <a id="decisions">Does npm make automated decisions based on data about me?</a>
 
-npm uses data in packages and data about how you use the registry to
+npm uses data in packages and data about how you use npm software and the public registry to
 make decisions about whether the packages you publish are spam, promote
 scams, abuse others, or otherwise violate our
 [terms of service](https://www.npmjs.com/policies/terms).
