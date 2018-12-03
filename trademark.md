@@ -5,23 +5,6 @@ For information on what to do if someone infringes a trademark of
 _yours_ with a confusing package name, see the [Dispute Resolution
 Policy](https://www.npmjs.com/policies/disputes).
 
-## What is npm, Inc. and what is its mission statement?
-
-npm, Inc. is a company co-founded by npm's creator, Isaac Schlueter,
-along with Laurie Voss and Rod Boothby.
-
-npm, Inc. is dedicated to the long term success of the JavaScript
-community, which includes the success of the open-source Node.js and
-npm projects.
-
-At npm, Inc. we do three things to support this goal:
-
-1.  Run the open source registry as a free service.
-2.  Build tools and operate services that support the secure use of
-    packages in a private or enterprise context.
-3.  Build innovative new tools and services for the developer
-    community.
-
 ## Why npm, Inc. has a trademark policy
 
 npm, Inc. has filed for trademarks for the npm name and logo. We have
