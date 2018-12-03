@@ -104,7 +104,7 @@ counts. We will consider requests on a case-by-case basis.
 ## The npm Wombat Mascot
 
 Like the npm Logo, the npm Wombat graphic is a very recognizable
-part of the npm brand, and signifies a special relationship with the
+part of the npm brand, and signifies a special relationship with
 the npm project, service, or company.  It should never be used except
 with explicit written permission.  We will consider requests on a
 case-by-case basis.
