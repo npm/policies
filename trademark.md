@@ -5,35 +5,6 @@ For information on what to do if someone infringes a trademark of
 _yours_ with a confusing package name, see the [Dispute Resolution
 Policy](https://www.npmjs.com/policies/disputes).
 
-## What is npm?
-
-npm is a package manager for Node.js modules.   It was created in 2009
-by Isaac Schlueter as an open source project to help JavaScript
-developers share modules (aka packages) of code in a very easy and
-efficient way.
-
-The npm project contains two main parts:
-
-1. The npm client, which is bundled with the Node.js platform, and is
-   used as a command line tool to install and publish packages.  It is
-   simply called "npm".  Its code is available as an open-source
-   project: https://github.com/npm/npm
-2. The npm registry service.   When a user of the npm client runs the
-   command `npm install example-package`, the npm client retrieves the
-   package and all related dependencies from the npm registry service.
-   The example output looks like this:
-
-```BASH
-user1-MacBook-Pro-2:~ user1$ npm install example-package
-npm http GET https://registry.npmjs.org/example-package
-npm http 200 https://registry.npmjs.org/example-package
-example-package@2.4.1 node_modules/example-package
-```
-
-The registry is run as a free (as in beer) public service for anyone
-wanting to publish an open source package and for anyone to install an
-open source package.
-
 ## What is npm, Inc. and what is its mission statement?
 
 npm, Inc. is a company co-founded by npm's creator, Isaac Schlueter,
