@@ -15,7 +15,7 @@ wanting to publish an open source package and for anyone to install an open sour
 
 ## Why npm, Inc. has a trademark policy
 
-"npm" and the npm logos are trademarks owned by npm, Inc. We have developed this trademark usage policy to make it clear how other businesses and projects can (and cannot) use the npm name and logo.
+"npm" and the npm logos are trademarks owned by npm, Inc. We have developed this trademark usage policy to make it clear how other businesses and projects can (and cannot) use the npm name and logos.
 
 ## General rules
 
@@ -28,9 +28,9 @@ wanting to publish an open source package and for anyone to install an open sour
 
 ## Nominative use - No need to type ™ on Twitter&reg;
 
-"Nominative" or "referential" use means to refer to something or someone else by their trademark. So it's perfectly OK to use "npm" to refer to npm, Inc., the npm client, npm code, and the npm public registry. A referential use is generally going to be in a sentence or sentence fragment, like "first install the npm client," or in a book or article title. The use should not be attention-getting or potentially misperceived as suggesting "npm" is your own company's name, project, product or services.
+"Nominative" or "referential" use means to refer to something or someone else by their trademark. So it's perfectly OK to use "npm" to refer to npm, Inc., the npm client, npm code, and the npm public registry. A referential use is generally going to be in a sentence or sentence fragment, like "first install the npm client," or in a book or article title. The use should not be attention-getting or potentially misperceived as suggesting "npm" is your own name, project, product or services.
 
-It is not a referential use to incorporate the letters "npm" or any of the npm logos in the name or logo for your own company or its projects, prducts, services or social media handles.
+It is not a referential use to incorporate the letters "npm" or any of the npm logos in the name or logo for your own company or its projects, products, services or social media handles.
 
 If you need to use "npm" to indicate compatibility, you should use "npm" after your own product or service name and an accurate preposition:
 
