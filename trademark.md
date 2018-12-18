@@ -5,111 +5,81 @@ For information on what to do if someone infringes a trademark of
 _yours_ with a confusing package name, see the [Dispute Resolution
 Policy](https://www.npmjs.com/policies/disputes).
 
+## What is npm?
+
+The npm project contains two main parts:
+
+1. The npm client. It is a command line tool to install and publish packages.
+2. The npm registry service. npm, Inc. runs the registry as a free (as in beer) public service for anyone
+wanting to publish an open source package and for anyone to install an open source package.
+
 ## Why npm, Inc. has a trademark policy
 
-npm, Inc. has filed for trademarks for the npm name and logo. We have
-developed this trademark usage policy with the following goals in
-mind:
+"npm" and the npm logos are trademarks owned by npm, Inc. We have developed this trademark usage policy to make it clear how other businesses and projects can (and cannot) use the npm name and logos.
 
-* We'd like to make it easy for anyone to use the npm name or logo for
-  community-oriented efforts that help spread and improve npm.
-* We'd like to make it clear how npm-related businesses and projects
-  can (and cannot) use the npm name and logo.
-* We'd like to make it hard for anyone to use the npm name and logo to
-  unfairly profit from, trick, or confuse people who are looking for
-  official npm resources.
+## General rules
 
-## Nominative use - No need to type ™ on twitter
+* When referring to the npm software in body text, the first usage should be followed by a generic term such as "package manager," "services" or "client" to provide context.
+* "npm" should never be used or explained as an acronym.
+* When referring to the npm public registry, please follow npm with the word "registry" or the phrase "public registry".
+* When referring to a private registry for npm packages, please describe it as "private registry for npm packages" or a "proxy of the npm registry".
+* References to the owner of the npm client software and the operator of the npm public registry should be to "npm, Inc."
+* Any materials referring to npm should include the following notice in the footer or wherever you may have your own trademark notice: "npm is a registered trademark of npm, Inc."
 
-It's perfectly OK to use "npm" to refer to npm, Inc., to the npm
-software, and to the npm public registry.  That's different from using
-npm in the name of one's own product or service.
+## Nominative use - No need to type ™ on Twitter&reg;
 
-Nominative use means it's OK to refer to something that is
-trademarked, but it is not OK to incorporate one company's trademark
-into another company's product, service, or company name.   That's why
-you would need permission from the trademark owner to open "Discount
-Nike Shoes" or "iPad App Marketplace".
+"Nominative" or "referential" use means to refer to something or someone else by their trademark. So it's perfectly OK to use "npm" to refer to npm, Inc., the npm client, npm code, and the npm public registry. A referential use is generally going to be in a sentence or sentence fragment, like "first install the npm client," or in a book or article title. The use should not be attention-getting or potentially misperceived as suggesting "npm" is your own name, project, product or services.
 
-## The npm trademark policy
+It is not a referential use to incorporate the letters "npm" or any of the npm logos in the name or logo for your own company or its projects, products, services or social media handles.
 
-We ask that you get permission from npm, Inc. to use the npm name or
-logo as part of the name of any project, product, service, domain or
-company.
+If you need to use "npm" to indicate compatibility, you should use "npm" after your own product or service name and an accurate preposition:
 
-We will grant permission to use the npm name and logo for projects
-that meet the following criteria:
+* Pink Unicorn Consulting Ltd. services <strong>for</strong> npm
+* Purple Unicorn Inc. private registry server <strong>compatible with</strong> the npm client
+* Kappa, a hirearchical proxy <strong>of</strong> the npm registry
 
-* The primary purpose of your project is to promote the spread and
+You need to ask for permission for any uses not described. When in doubt about your use of the npm name or logo, please contact [npm, Inc.](https://www.npmjs.com/contact) for clarification.
+
+## Requesting permission
+
+We like to make it easy for anyone to use the npm name or logo for community-oriented efforts that help spread and improve npm. We are therefore likely to grant permission to use the npm name and logo in the following ways:
+
+* For projects where:
+  * The primary purpose of your project is to promote the spread and
   improvement of the npm client software or the npm registry service.
-* Your project is non-commercial in nature (it can make money to cover
+  * Your project is non-commercial in nature (it can make money to cover
   its costs or contribute to non-profit entities, but it cannot be run
   as a for-profit project or business).
-* Your project neither promotes nor is associated with entities that
+  * Your project neither promotes nor is associated with entities that
   currently fail to comply with the Artistic License 2.0 under which
   npm is distributed, or which are in violation of this trademark
   policy.
+  
+* For a user group name where:
+  * The main focus of the group is the software.
+  * Any software or services the group provides are without cost.
+  * The group does not make a profit.
+  * Any charge to attend meetings are to cover the cost of the venue, food and drink only.
 
-For other projects, we have set up the following rules around the use
-of the npm trademark:
+Any other requests are not likely to be granted licenses, but feel free to [ask](https://www.npmjs.com/contact).
 
-<OL type="A">
-<LI>It is not OK use npm in the name of any product, service, or
-project, except after the preposition "for". For example, "Private
-Registry Hosting for npm". You should not use npm in a company or
-domain name for a package registry or related service without our
-permission.</LI>
-<LI>When referring to the npm software in body text, the first usage
-should be followed by a generic term such as "package manager" to
-provide context. npm should never be used or explained as an
-acronym.</LI>
-<LI>When referring to the npm public registry, please follow npm with
-the word "registry" or the phrase "public registry".</LI>
-<LI>When referring to a private registry for npm packages, please
-describe it as "private registry for npm packages" or as a
-npm-registry proxy when first referring to it in the text.</LI>
-<LI>References to the owner of the npm client software and the
-operator of the npm public registry should be to npm, Inc.</LI>
-<LI>Any materials referring to npm should include the following notice
-in the fine print: "npm is a trademark of npm, Inc."</LI></OL>
+## The npm Logos
 
-Examples of ways to use the term "npm" in a name
-
-* <Your consulting co's> services for npm  
-  e.g. Pink Unicorn Consulting Ltd. services for npm
-* <Your software co's> private registry for npm  
-  e.g. Purple Unicorn Inc. private registry server for npm
-
-An example of a way to refer to npm when describing your solution:
-
-* **Paypal/Kappa, a hierarchical npm-registry proxy**
-
-    In the case of Kappa, it is clear that the open source project
-    name is "Kappa" so no one would be reasonably confused that it is
-    the official npm client, or the official npm registry.
-
-    Explaining that something is a proxy of the npm registry is OK.
-
-When in doubt about your use of the npm name or logo, please [contact
-npm, Inc.](https://www.npmjs.com/contact) for clarification.
-
-## The npm Logo
-
-Our npm Logo is very recognizable and deserves special treatment. The
-npm Logo signifies us, or a special relationship with us, and you
-should use it only with our permission. Since the goal is to avoid
+Our npm Logos are very recognizable and deserves special treatment. The
+npm Logos signify us, or a special relationship with us, and you
+may use them only with our permission. Since the goal is to avoid
 confusion about you being us, or your relationship with us, context
-counts. We will consider requests on a case-by-case basis.
+counts. We will [consider requests](https://www.npmjs.com/contact) on a case-by-case basis.
 
 ## The npm Wombat Mascot
 
 Like the npm Logo, the npm Wombat graphic is a very recognizable
 part of the npm brand, and signifies a special relationship with
 the npm project, service, or company.  It should never be used except
-with explicit written permission.  We will consider requests on a
+with explicit written permission.  We will [consider requests](https://www.npmjs.com/contact) on a
 case-by-case basis.
 
-Please be advised that, unlike the npm logo, the Wombat generally may
+Please be advised that the Wombat and the logos generally may
 **not** be used to refer to the project, service, or company in a
 nominative sense, as any usage will almost always imply a special
 relationship with npm.
@@ -123,7 +93,7 @@ to view the changes.
 
 ## License
 
-Copyright (C) npm, Inc., All rights reserved
+Copyright &copy; npm, Inc.
 
 This document may be reused under a [Creative Commons
 Attribution-ShareAlike
