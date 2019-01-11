@@ -1,4 +1,4 @@
-# npm Business Solution Terms v2.0.0
+# npm Business Solution Terms v3.0.0
 
 These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.com make up an agreement between **npm** and **Customer**.
 
@@ -92,7 +92,7 @@ _npm_ agrees to task _Support Personnel_ with diagnosing and resolving _Technica
 
 ##### Premium Support<a id="Premium_Support"></a>
 
-If the _Quote_ specifies "Premium Support", _npm_ agrees to:
+If _Customer's Solution_ is _npm Enterprise_, or if _Customer's Solution_ is _npm Orgs_ and the _Quote_ specifies "Premium Support", then _npm_ agrees to:
 
 1.  Respond to _Critical Support Requests_ within three _Business Hours_, and update on status every two Business Hours.
 
@@ -112,7 +112,7 @@ _npm_ agrees to task _Support Personnel_ with promptly escalating _Technical Sup
 
 #### Refund Fees for Unresponsive Technical Support<a id="Refund_Fees_for_Unresponsive_Technical_Support"></a>
 
-If _npm_ fails to meet [Technical Support Responsiveness](#Technical_Support_Responsiveness) for three _Billing Periods_ in a row, and _Customer_ ends this agreement at the end of those _Billing Periods_, citing poor support responsiveness, _npm_ agrees to refund any _Prepaid Fees_, as well as either all _Support Fees_ for the three _Billing Periods_, if the _Quote_ specifies "Premium Support", or otherwise 5% of all fees that _Customer_ paid for the three _Billing Periods_.
+If _npm_ fails to meet [Technical Support Responsiveness](#Technical_Support_Responsiveness) for three _Billing Periods_ in a row, and _Customer_ ends this agreement at the end of those _Billing Periods_, citing poor support responsiveness, _npm_ agrees to refund any _Prepaid Fees_, as well as 5% of all fees that _Customer_ paid for the three _Billing Periods_.
 
 ### Honor any Uptime Commitment<a id="Honor_any_Uptime_Commitment"></a>
 
@@ -186,7 +186,7 @@ _npm_ agrees to give _Customer_ prompt _Notice_ of any _Infringement or Noncompl
 
 ### Pay Fees<a id="Pay_Fees"></a>
 
-_Customer_ agrees to pay all **Service Fees** for _Customer's Solution_, and any **Support Fees** for technical support, in advance, for each _Billing Period_, according to the _Quote_. _Customer_ agrees to pay all tax on fees, except tax _npm_ owes on income.
+_Customer_ agrees to pay all **Service Fees** for _Customer's Solution_ in advance, for each _Billing Period_, according to the _Quote_. _Customer_ agrees to pay all tax on fees, except tax _npm_ owes on income.
 
 ### Handle Tax Withholding<a id="Handle_Tax_Withholding"></a>
 
