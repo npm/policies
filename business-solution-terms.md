@@ -1,4 +1,4 @@
-# npm Business Solution Terms v3.0.0
+# npm Business Solution Terms v3.0.1
 
 These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.com make up an agreement between **npm** and **Customer**.
 
@@ -90,9 +90,15 @@ _npm_ agrees to task _Support Personnel_ with diagnosing and resolving _Technica
 
 #### Technical Support Responsiveness<a id="Technical_Support_Responsiveness"></a>
 
+##### Support Offerings<a id="Support_Offerings"></a>
+
+1.  If _Customer's Solution_ is _npm Enterprise_, then _npm_ agrees to provide _Premium Support_. _npm_ does not offer _npm Enterprise_ with _Basic Support_.
+
+2.  If _Customer's Solution_ is _npm Orgs_, then _npm_'s support commitment depends on the _Quote_. If the _Quote_ specifies _Premium Support_, then _npm_ agrees to provide _Premium Support_. Otherwise, by default, _npm_ agrees to provide _Basic Support_.
+
 ##### Premium Support<a id="Premium_Support"></a>
 
-If _Customer's Solution_ is _npm Enterprise_, or if _Customer's Solution_ is _npm Orgs_ and the _Quote_ specifies "Premium Support", then _npm_ agrees to:
+**Premium Support** means that _npm_ will:
 
 1.  Respond to _Critical Support Requests_ within three _Business Hours_, and update on status every two Business Hours.
 
@@ -100,7 +106,7 @@ If _Customer's Solution_ is _npm Enterprise_, or if _Customer's Solution_ is _np
 
 ##### Basic Support<a id="Basic_Support"></a>
 
-Otherwise, _npm_ agrees to:
+**Basic Support** means that _npm_ will:
 
 1.  Respond to _Critical Support Requests_ within eight _Business Hours_, and update on status every Business Day.
 
