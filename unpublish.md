@@ -4,7 +4,7 @@ This document describes your options when looking to unpublish a package or vers
 
 Registry data is immutable, meaning once published, a package cannot change. We do this for reasons of security and stability of the users who depend on those packages. So if you've ever published a package called "bob" at version 1.1.0, no other package can ever be published with that name at that version. This is true even if that package is unpublished. However, because accidents happen we've allowed a 72 hour window for users to unpublish packages they have just created. Beyond that, unless in extreme cases, we'll prefer a deprecation path.
 
-This document is additive to the CLI commands [unpublish documentation](https://docs.npmjs.com/cli/unpublish) and an update and clarification of ["changes to npm’s unpublish policy"](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy) blog post.
+This document is additive to the [unpublish procedures](https://docs.npmjs.com/unpublishing-packages-from-the-registry), the CLI commands [unpublish documentation](https://docs.npmjs.com/cli/unpublish) and an update and clarification of ["changes to npm’s unpublish policy"](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy) blog post.
 
 ## What to do if your package was published less than 72 hours ago
 
