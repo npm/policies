@@ -547,6 +547,14 @@ and service email messages to send you.  We also use Oracle Marketing
 Cloud to notice when you click links in email that we send.  You can
 read [the privacy policy for Eloqua online](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy).
 
+### <a id="hubspot">npm uses HubSpot.</a>
+
+npm uses [HubSpot](https://www.hubspot.com/) to track which parts
+of npm websites you visit, so we know which updates and service
+email messages to send you.  We also use HubSpot to collect data
+from forms on our website that you must fill out to access some
+marketing content.  You can read [the privacy policy for HubSpot online](https://legal.hubspot.com/privacy-policy).
+
 ### <a id="gravatar">npm uses Gravatar.</a>
 
 The website uses [Gravatar](https://gravatar.com), a free online service
