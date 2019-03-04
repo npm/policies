@@ -25,12 +25,11 @@ react appropriately to security threats when they arise.
 
 ## Reporting Security Problems to npm
 
-If you need to report a security vulnerability.  Please [contact
-us](https://www.npmjs.com/support) or email
+If you need to report a security vulnerability.  Please email
 [security@npmjs.com](mailto:security@npmjs.com). If your issue 
 is specific to your account, such as lost credentials, contacting [support@npmjs.com](mailto:support@npmjs.com) is more appropriate.
 
-We review all security reports within one business day.  Note that
+We review all security reports on the next business day.  Note that
 the npm staff is generally offline for most US holidays, but please do
 not delay your report!  Our off-hours support staff can fix many
 issues, and will alert our security point of contact if needed.
@@ -41,9 +40,8 @@ Any emails sent to <security@npmjs.com> will be escalated to the
 security point of contact, who will delegate incident response
 activities as appropriate. This is the best and fastest way to contact npm about any security-related matter.
 
-npm's Head of Security [Adam Baldwin](mailto:adam@npmjs.com) is the current point
-of contact for all security related issues. npm's CTO [CJ Silverio](mailto:ceej@npmjs.com)
-is our secondary contact.
+npm's Director of Security [Adam Baldwin](mailto:adam@npmjs.com) is the current point
+of contact for all security related escalations.
 
 
 ## Onboarding Developers
@@ -53,8 +51,7 @@ of the onboarding process.
 
 ## Separation of Duties and Authorization
 
-* Developers are only given access to key npm services (Cloudflare,
-  AWS, Google Cloud, etc) when it's required for their job.
+* Developers are only given access to key npm services when it's required for their job.
 * IAM is used to limit the permissions on AWS and Google Cloud accounts, minimizing the damage that would be incurred if an account is compromised. We use IAM services provided both by [AWS](https://aws.amazon.com/iam/) and [Google Cloud](https://cloud.google.com/iam/)
 
 ## Critical Updates And Security Notices
@@ -145,8 +142,7 @@ methodologies that we use to build stable and secure software.
 ### Logging Practices
 
 Logs are important for both debugging applications and detecting
-security breaches in our software -- ask CJ for a speech about
-logging.
+security breaches in our software.
 
 #### What We Log
 
@@ -177,8 +173,6 @@ regular basis.
 On the servers that we manage for other companies, we should audit
 logs on a regular basis.
 
-TODO: We plan to build automated anomaly detection systems in place
-for our logs [see internal issue #381](https://github.com/npm/issue-tracker/issues/381).
 
 #### Secrets in Logs
 
