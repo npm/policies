@@ -48,7 +48,7 @@ pay any tax.
 
 npm will provide the private package storage and delivery features and
 services described in the public documentation for npm Paid Services
-at <https://www.npmjs.com/private-modules> (the _npm Paid Services
+at <https://docs.npmjs.com/> (the _npm Paid Services
 Documentation_). npm grants you permission to use those features and
 services.
 
