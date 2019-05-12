@@ -28,6 +28,7 @@ We own these but don't use them for anything (yet).
 * npm.email
 * npm.mn
 * npm.so
+* npm.tips
 
 ## Changes
 
