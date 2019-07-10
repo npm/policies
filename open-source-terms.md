@@ -9,7 +9,7 @@ services. These terms refer to all of them together as _npm Open
 Source_.
 
 npm last updated these npm Open Source Terms on
-August 6, 2018.
+July 10, 2019.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
