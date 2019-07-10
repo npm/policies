@@ -148,8 +148,8 @@ may have to use Paid Services, are subject to the following conditions:
     organization names, names for _Packages_, or any other names
     reserved on _npm Services_, for money or other compensation.
 
-8.  You will not send advertisements, chain letters, or other
-    solicitations via _npm Services_.
+8.  You will not use _npm Services_' ability to send e-mail to send
+    advertisements, chain letters, or other solicitations.
 
 9.  You will not automate access to, use, or monitor the Website, such
     as with a web crawler, browser plug-in or add-on, or other computer
