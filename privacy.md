@@ -216,6 +216,10 @@ npm uses your email to:
 
 - announce new npm product offerings, service changes, and features
 
+- send you tips about how to better use free and paid services
+
+- send you messages about paid services you might want
+
 npm stores account data as long as the account stays open.  When account
 data also appear in package data, npm stores that data as long as it
 stores the package.
