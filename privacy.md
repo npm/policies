@@ -538,15 +538,6 @@ Analytics online](https://www.google.com/analytics/terms/).  You can opt
 out of Google Analytics by installing a
 [free browser extension](https://tools.google.com/dlpage/gaoptout).
 
-### <a id="oracle">npm uses Oracle Marketing Cloud.</a>
-
-npm's website uses
-[Oracle Marketing Cloud](https://www.oracle.com/marketingcloud/) to
-track which parts of npm websites you visit, so we know which updates
-and service email messages to send you.  We also use Oracle Marketing
-Cloud to notice when you click links in email that we send.  You can
-read [the privacy policy for Eloqua online](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy).
-
 ### <a id="hubspot">npm uses HubSpot.</a>
 
 npm uses [HubSpot](https://www.hubspot.com/) to track which parts
