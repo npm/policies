@@ -550,10 +550,15 @@ read [the privacy policy for Eloqua online](http://www.oracle.com/us/legal/priva
 ### <a id="hubspot">npm uses HubSpot.</a>
 
 npm uses [HubSpot](https://www.hubspot.com/) to track which parts
-of npm websites you visit, so we know which updates and service
-email messages to send you.  We also use HubSpot to collect data
-from forms on our website that you must fill out to access some
-marketing content.  You can read [the privacy policy for HubSpot online](https://legal.hubspot.com/privacy-policy).
+of npm websites you visit so we know which updates and service email
+messages to send you.  We also use HubSpot to track when you create
+accounts and Orgs, when you change Orgs from free to paid, and when
+you add seats to Orgs, in order to share tips on how to use Orgs, to
+send you marketing messages about the benefits of paid services, and
+to notify our sales team that you might want paid services.  Finally,
+HubSpot collects data from forms on our website that you must fill out
+to access some marketing content.  You can read [the privacy policy for
+HubSpot online](https://legal.hubspot.com/privacy-policy).
 
 ### <a id="gravatar">npm uses Gravatar.</a>
 
