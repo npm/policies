@@ -1,6 +1,6 @@
 # npm Business Solution Terms
 
-Version 4.0.0
+Version 4.1.1
 
 These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.com make up an agreement between **npm** and **Customer**.
 
@@ -46,7 +46,7 @@ _npm_ agrees to update _Customer's Solution_ with software updates and fixes mad
 
 ### Allow High-Volume Use of the npm Public Registry
 
-While this agreement continues and _Customer_ has paid all fees as required by this agreement, _npm_ waives the rule of its terms of service for the _npm Public Registry_ that prohibits _Customer_ from making an unreasonable volume of requests. _Customer_ may make however many requests to the _npm Public Registry_ it requires, through _Customer's Solution_ or otherwise. This agreement does not change the terms of service for the _npm Public Registry_ in any other way.
+While this agreement continues and _Customer_ has paid all fees as required by this agreement, _npm_ waives the rule of its terms of service for the _npm Public Registry_ that prohibits _Customer_ from making an unreasonable volume of requests. _Customer_ may make up to 500,000,000 requests to the _npm Public Registry_ in any rolling thirty-calendar-day period, through _Customer's Solution_ or otherwise. This agreement does not change the terms of service for the _npm Public Registry_ in any other way.
 
 ### Publish Documentation
 
