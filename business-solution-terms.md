@@ -1,8 +1,8 @@
 # npm Business Solution Terms
 
-Version 4.1.1
+Version 4.2.0
 
-These terms and the **Quote** sent by _npm_ or presented to _Customer_ on npmjs.com make up an agreement between **npm** and **Customer**.
+These terms and the **Quote** sent by _npm_ or presented to _Customer_ through npmjs.com or AWS Marketplace make up an agreement between **npm** and **Customer**.
 
 ## Background
 
