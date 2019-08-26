@@ -201,7 +201,7 @@ of unacceptable content:
    code that violates a public license for others' work.
 
 3. Content containing malicious computer code, such as computer viruses,
-   computer worms, rootkits, back doors, adware, or spyware. This
+   computer worms, rootkits, back doors, or spyware. This
    includes content submitted for research purposes unless agreed to
    in advance by npm. Tools designed and documented explicitly to
    assist in security research are acceptable, but proof-of-concept
@@ -219,6 +219,65 @@ of unacceptable content:
 
 To find out how to report violations of Acceptable Content, refer to the
 [Code of Conduct](https://www.npmjs.com/policies/conduct).
+
+## Commercial Content
+
+The npm Public Registry is about Packages.  All manner of
+useful Packages are welcome, from hobby projects to
+competitive products, enterprise infrastructure and tooling
+to the latest fun hack or work of software art.
+
+At the same time, the npm Public Registry, the Website, and
+important conventions like `README` go beyond just code.
+Developers use all of those channels to communicate more
+broadly about code, who is developing it, why, and how.
+
+That communication is important, and welcome, so long as it
+respects that the npm Public Registry, the website, and npm
+Open Source more generally remain neutral.  You are free to
+use npm Open Source for commercial projects, to advance your
+career, and for other business purposes.  But you may not
+leverage content or system conventions to make the npm
+Public Registry, Website, or CLI put business before code.
+
+These kinds of commercial content are generally acceptable
+in `README` files and other documentation:
+
+1.  Credits, acknowledgments, attributions, and other
+    recognitions of contributions to Packages.
+
+2.  Information on how to pay, donate to, and otherwise
+    support Package development, Package developers, and
+    Package steward organizations.
+
+3.  Logos from, and links to, organizations developing,
+    stewarding, or sponsoring Package development.
+
+4.  Information on paid products and services related to
+    Packages, such as enhanced versions, add-ons, commercial
+    license terms, training, integration, or support.
+
+These kinds of commercial content generally _aren't_
+acceptable:
+
+1.  `README`, `package.json`, or other content displaying
+    advertisements.
+
+2.  Packages that display ads at runtime, on installation,
+    or at other stages of the software development
+    lifecycle, such as via [npm
+    scripts](https://docs.npmjs.com/misc/scripts).  Packages
+    with code that can be used to display ads are fine.
+    Packages that themselves display ads are not.
+
+3.  Packages that themselves function primarily as ads, with
+    only placeholder or negligible code, data, and other
+    technical content.
+
+These examples are just examples.  npm will continue to
+apply its judgment when deciding what content is acceptable,
+and expect you to apply your own when choosing what you
+share and how. 
 
 ## Enforcement of Acceptable Use
 
