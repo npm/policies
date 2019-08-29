@@ -270,8 +270,8 @@ acceptable:
     with code that can be used to display ads are fine.
     Packages that themselves display ads are not.
 
-3.  Packages that themselves function primarily as ads, with
-    only placeholder or negligible code, data, and other
+3.  Packages that function primarily as ads, with only
+    placeholder or negligible code, data, and other
     technical content.
 
 These examples are just examples.  npm will continue to
