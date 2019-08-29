@@ -275,9 +275,9 @@ acceptable:
     technical content.
 
 These examples are just examples.  npm will continue to
-apply its judgment when deciding what content is acceptable,
-and expect you to apply your own when choosing what you
-share and how. 
+apply its judgment when deciding what content is acceptable.
+npm will continue to expect you to apply your own judgment
+when choosing what you share and how. 
 
 ## Enforcement of Acceptable Use
 
