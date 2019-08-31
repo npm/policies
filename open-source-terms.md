@@ -1,3 +1,5 @@
+<!-- TODO: Replace last-updated date for every published change -->
+
 # npm Open-Source Terms
 
 These npm Open Source terms of use (these _Terms_) govern access to
