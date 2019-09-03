@@ -356,19 +356,17 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ### Only Express Warranties
 
-!!! Except for it obligations in [npm's Obligations](#npms-obligations), _npm_ provides _Customer's Solution_ "as is", without any warranty at all. _npm_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.
+***Except for it obligations in [npm's Obligations](#npms-obligations), _npm_ provides _Customer's Solution_ "as is", without any warranty at all. _npm_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.***
 
 ### Limited Damages
 
-!!! 
-
 #### Damages Limit
 
-!!! Subject to [Damages Limit Exceptions](#damages-limit-exceptions), neither side's total liability under this agreement will exceed the amount of fees _npm_ received from _Customer_ during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other side may suffer damages.
+***Subject to [Damages Limit Exceptions](#damages-limit-exceptions), neither side's total liability under this agreement will exceed the amount of fees _npm_ received from _Customer_ during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other side may suffer damages.***
 
 #### Damages Exclusion
 
-!!! Neither side will be liable for breach-of-contract damages they could not have reasonably foreseen when entering this agreement.
+***Neither side will be liable for breach-of-contract damages they could not have reasonably foreseen when entering this agreement.***
 
 #### Damages Limit Exceptions
 
