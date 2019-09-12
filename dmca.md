@@ -131,6 +131,6 @@ c/o npm, Inc.
 1999 Harrison Street, Suite 1150  
 Oakland, CA 94612  
 copyright@npmjs.com  
-(510) 858 - 7608
++1 (510) 907 - 3049
 
 Send via email for fastest processing.
