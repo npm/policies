@@ -1,6 +1,6 @@
 # npm Business Solution Terms
 
-Version 4.2.0
+Version 4.2.1
 
 These terms and the **Quote** sent by _npm_ or presented to _Customer_ through npmjs.com or AWS Marketplace make up an agreement between **npm** and **Customer**.
 
@@ -356,7 +356,7 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 ### Only Express Warranties
 
-***Except for it obligations in [npm's Obligations](#npms-obligations), _npm_ provides _Customer's Solution_ "as is", without any warranty at all. _npm_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.***
+***Except for its obligations in [npm's Obligations](#npms-obligations), _npm_ provides _Customer's Solution_ "as is", without any warranty at all. _npm_ disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement.***
 
 ### Limited Damages
 
