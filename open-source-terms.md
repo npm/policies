@@ -11,7 +11,7 @@ services. These terms refer to all of them together as _npm Open
 Source_.
 
 npm last updated these npm Open Source Terms on
-August 29, 2019.
+December 16, 2019.
 You can review prior versions at
 <https://github.com/npm/policies/commits/master/open-source-terms.md>.
 
@@ -181,7 +181,14 @@ may have to use Paid Services, are subject to the following conditions:
 
 17. You will not strain infrastructure of npm Services with an
     unreasonable volume of requests, or requests designed to impose an
-    unreasonable load on IT systems underlying npm Services.
+    unreasonable load on IT systems underlying npm Services. This rule
+    is intentionally loose, to give npm the flexibility it needs to keep
+    npm Services working for the user community as a whole. But to draw
+    one clear line, under no circumstances are five million requests to
+    npm Services in a single month-long period by any single individual,
+    organization, or group of affiliated companies remotely reasonable. If
+    you have a special need to make lots and lots of requests, [our
+    sales team](mailto:sales@npmjs.com) can help.
 
 18. You will not encourage or assist any other person in violation of
     "Acceptable Use".
