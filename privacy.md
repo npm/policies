@@ -12,6 +12,7 @@ Skip to:
 - [Where does npm keep data about me?](#locality)
 - [How can I access data about me?](#access)
 - [Does npm comply with the EU General Data Protection Regulation?](#gdpr)
+- [Does npm comply with the California Consumer Privacy Act?](#ccpa)
 - [How can I change or erase data about me?](#change)
 - [Does the right to be forgotten cover unpublishing packages?](#forgotten)
 - [How does npm notify others about published data that's erased?](#erasure-notice)
@@ -410,6 +411,10 @@ GDPR does not apply to everyone worldwide.  But npm's policy is to do
 its best to offer all users the same privacy information, control, and
 protections, whether GDPR applies to them or not.
 
+## <a id="ccpa">Does npm comply with the California Consumer Privacy Act?</a>
+
+npm respects the rights of California residents under the [California Consumer Privacy Regulation](https://www.oag.ca.gov/privacy/ccpa).  npm does _not_ sell your personal information within the meaning of that regulation.  Other information that CCPA requires npm to give can be found throughout this privacy notice.  So can information about specific rights, like [requesting disclosure about information npm collects](#access) and [requesting deletion of your data](#change).
+
 ## <a id="access">How can I access data about me?</a>
 
 You can access your account data at any time by visiting your account
@@ -662,7 +667,7 @@ complaints with their local data protection supervisory authorities.
 
 ## <a id="changes">How can I find out about changes?</a>
 
-This version of npm's privacy questions and answers took effect May 4, 2018.
+This version of npm's privacy questions and answers took effect January 1, 2020.
 
 npm will announce the next version on the
 [npm blog](https://blog.npmjs.org).  In the meantime, npm may update
