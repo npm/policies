@@ -379,7 +379,7 @@ to standard files like `README` files, `LICENSE` files, and package.json.
 To double check the data that you will share in a package that you plan
 to publish, run the `npm publish --dry-run` command. If you are running
 an older version of the npm command, run the npm pack command to create a
-[tarball](https://en.wikipedia.org/wiki/Tar_(computing)),
+[tarball](https://en.wikipedia.org/wiki/Tar_(computing%29),
 then check its contents, such as with `tar tvzf $tarball`.
 
 To publish a package to the npm public registry, npm's terms of service
