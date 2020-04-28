@@ -652,9 +652,9 @@ You can send questions or complaints to:
 npm, Inc.  
 Attention: Data Protection Officer  
 [privacy@npmjs.com](mailto:privacy@npmjs.com)  
-1999 Harrison Street \#1150  
-Oakland, CA 94612  
-United States of America
+2500 Venture Oaks Way, Suite 390  
+Sacramento, CA 95833  
++1 (510) 907-3049
 
 European Union users with questions or complaints about GDPR compliance
 should also address npm's representative in the Union:

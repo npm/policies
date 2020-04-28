@@ -495,8 +495,8 @@ enter arbitration awards in any court with jurisdiction.
 ## Notices and Questions
 
 You may send notice to npm and questions about the terms governing npm
-products and services by mail to npm, Inc., Legal Department, 1999
-Harrison Street, Suite 1150, Oakland, California 94612, or by email to
+products and services by mail to npm, Inc., Legal Department, 
+2500 Venture Oaks Way, Suite 390 Sacramento, CA 95833, or by email to
 <legal@npmjs.com>. npm may send you notice using the email address you
 provide for your Account or by posting a message to the homepage or your
 Account page on the Website.
