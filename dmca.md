@@ -128,9 +128,8 @@ Send all takedown notices and counter notices to:
 
 Kyle Mitchell  
 c/o npm, Inc.  
-1999 Harrison Street, Suite 1150  
-Oakland, CA 94612  
-copyright@npmjs.com  
-+1 (510) 907 - 3049
+2500 Venture Oaks Way, Suite 390  
+Sacramento, CA 95833  
++1 (510) 907-3049
 
 Send via email for fastest processing.
