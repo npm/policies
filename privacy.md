@@ -646,30 +646,28 @@ than the age of 16, we will delete that information.
 
 ## <a id="contact">Who can I contact about npm and my privacy?</a>
 
+You may email us directly at [privacy@npmjs.com](mailto:privacy@npmjs.com)
+with the subject line "Privacy Concerns."  You may also contact our Data
+Protection Officer directly.
 
-You can send questions or complaints to:
+Our United States HQ:
 
-npm, Inc.  
-Attention: Data Protection Officer  
-[privacy@npmjs.com](mailto:privacy@npmjs.com)  
-2500 Venture Oaks Way, Suite 390  
-Sacramento, CA 95833  
-+1 (510) 907-3049
+GitHub Data Protection Officer
+Attention: npm Data Protection
+8 Colin P. Kelly Jr. St.
+San Francisco, CA 94107
+United States
 
-European Union users with questions or complaints about GDPR compliance
-should also address npm's representative in the Union:
+or our EU Office:
 
-DP-Dock GmbH  
-[npm@gdpr-rep.com](mailto:npm@gdpr-rep.com)  
-Ballindamm 39  
-20095 Hamburg  
-Germany  
-Telephone: +49 (0) 40 99999 - 3430  
-Mobile: +49 (0) 172 918 22 22
+GitHub BV
+Vijzelstraat 68-72
+1017 HL Amsterdam
+The Netherlands
 
 ## <a id="changes">How can I find out about changes?</a>
 
-This version of npm's privacy questions and answers took effect April 1, 2020.
+This version of npm's privacy questions and answers took effect June 3, 2020.
 
 npm will announce the next version on the [npm blog](https://blog.npmjs.org/). 
 In the meantime, npm may update [its contact information](#contact)
