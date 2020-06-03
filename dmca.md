@@ -126,10 +126,19 @@ we removed.
 
 Send all takedown notices and counter notices to:
 
-Kyle Mitchell  
-c/o npm, Inc.  
-2500 Venture Oaks Way, Suite 390  
-Sacramento, CA 95833  
-+1 (510) 907-3049
+You can also send an email notification to
+[copyright@npmjs.com](mailto:copyright@npmjs.com). You may include an
+attachment if you like, but please also include a plain-text version of
+your letter in the body of your message.
 
-Send via email for fastest processing.
+If you must send your notice by physical mail, you can do that too, but
+it will take substantially longer for us to receive and respond to it.
+Notices we receive via plain-text email have a much faster turnaround
+than PDF attachments or physical mail. If you still wish to mail us
+your notice, our physical address is:
+
+GitHub, Inc
+Attn: DMCA Agent
+88 Colin P Kelly Jr St
+San Francisco, CA. 94107
+
