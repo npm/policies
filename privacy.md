@@ -654,7 +654,7 @@ Our United States HQ:
 
 GitHub Data Protection Officer  
 Attention: npm Data Protection  
-8 Colin P. Kelly Jr. St.  
+88 Colin P. Kelly Jr. St.  
 San Francisco, CA 94107  
 United States
 
