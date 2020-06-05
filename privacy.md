@@ -408,9 +408,9 @@ your data as outlined in this section.
 
 npm respects privacy rights under [Regulation (EU) 2016/679](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG),
 the European Union's General Data Protection Regulation (GDPR). npm
-processes "Personal Data" on the following legal bases: (1) with your
-consent; (2) as necessary to perform our agreement to provide our
-services; and (3) as necessary for our legitimate interests in providing
+processes "Personal Data" on the following legal bases: (1) with your
+consent; (2) as necessary to perform our agreement to provide our
+services; and (3) as necessary for our legitimate interests in providing
 our services where those interests do not override your fundamental
 rights and freedom related to data privacy. Information we collect may
 be transferred to, and stored and processed in, the United States or any
@@ -652,17 +652,17 @@ Protection Officer directly.
 
 Our United States HQ:
 
-GitHub Data Protection Officer
-Attention: npm Data Protection
-8 Colin P. Kelly Jr. St.
-San Francisco, CA 94107
+GitHub Data Protection Officer  
+Attention: npm Data Protection  
+8 Colin P. Kelly Jr. St.  
+San Francisco, CA 94107  
 United States
 
 or our EU Office:
 
-GitHub BV
-Vijzelstraat 68-72
-1017 HL Amsterdam
+GitHub BV  
+Vijzelstraat 68-72  
+1017 HL Amsterdam  
 The Netherlands
 
 ## <a id="changes">How can I find out about changes?</a>

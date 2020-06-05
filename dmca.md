@@ -137,8 +137,7 @@ Notices we receive via plain-text email have a much faster turnaround
 than PDF attachments or physical mail. If you still wish to mail us
 your notice, our physical address is:
 
-GitHub, Inc
-Attn: DMCA Agent
-88 Colin P Kelly Jr St
+GitHub, Inc  
+Attn: DMCA Agent  
+88 Colin P Kelly Jr St  
 San Francisco, CA. 94107
-

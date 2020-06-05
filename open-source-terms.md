@@ -498,9 +498,9 @@ You may send notice to npm and questions about the terms governing npm
 products and services to [legal@npmjs.com](mailto:legal@npmjs.com) or
 by mail to:
 
-GitHub, Inc
-Attn: npm Legal Department
-88 Colin P Kelly Jr St
+GitHub, Inc  
+Attn: npm Legal Department  
+88 Colin P Kelly Jr St  
 San Francisco, CA. 94107
 
 npm may send you notice using the email address you provide for your
