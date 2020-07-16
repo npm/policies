@@ -21,3 +21,4 @@ These are the legal policies of npm, Inc.
 
 These are updated from time to time.  Their sources are stored in a git
 repository at <https://github.com/npm/policies>.
+
