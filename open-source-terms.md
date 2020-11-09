@@ -304,7 +304,7 @@ yourself, as required by the account creation form on the Website or the
 CLI. If you create an Account, you will provide, at a minimum, a valid
 email address. You will keep that email address up-to-date. You will
 not impersonate any other individual. You may delete your Account at any
-time by sending an email to <support@npmjs.com>.
+time by [contacting support](https://npmjs.com/support).
 
 You will be responsible for all action taken using your account, whether
 authorized by you or not, until you either close your account or give

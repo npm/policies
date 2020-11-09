@@ -80,7 +80,7 @@ _npm_ agrees to take industry-standard security precautions to defend _Customer'
 
 #### Technical Support
 
-_npm_ agrees to task _npm_ **Support Personnel** with responding to **Technical Support Requests** from _Customer Personnel_. If _Customer's Solution_ is _npm Enterprise_, _Technical Support Requests_ must be e-mailed to enterprise@npmjs.com. If _Customer's Solution_ is _npm Orgs_, _Technical Support Requests_ must be e-mailed to support@npmjs.com.
+_npm_ agrees to task _npm_ **Support Personnel** with responding to **Technical Support Requests** from _Customer Personnel_. _Technical Support Requests_ must be opened at https://npmjs.com/support/.
 
 #### Scope of Technical Support
 

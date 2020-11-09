@@ -13,8 +13,11 @@ of the npm Code of Conduct or Open-Source Terms.
 ## tl;dr
 
 1. Get the author email with `npm owner ls <pkgname>`
-2. Email the author, CC <support@npmjs.com>
-3. After 4 weeks, if there's no resolution, we'll address it.
+2. Open a support ticket at https://npmjs.com/support
+3. Reply to the support ticket email, adding the author on the `To`
+   line so that both npm support and the author are now on the thread.
+4. Politely ask if the author will transfer the package.
+5. After 4 weeks, if there's no resolution, we'll address it.
 
 Don't squat on package names, user names or organization names.
 Publish code or move out of the way.
@@ -51,30 +54,44 @@ To dispute a package called `foo`, follow these steps:
 
 1. Run `npm owner ls foo`.  This will give you the email address of
    an owner of `foo` (there may be more than one valid owner).
-2. Send a message to that email address, explaining the situation
-   **as respectfully as possible**, as well as what you would like
-   to see happen. Add <support@npmjs.com> to the CC list of the email.
-   If you would like to be given control of the package, mention
-   in the email that the current owner can run
-   `npm owner add <yourusername> foo` to do so.
-3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+2. Open a support ticket at https://npmjs.com/support, indicating that
+   you would like to start the process to request ownership of the `foo`
+   package.  You will get an automated reply from npm support to your
+   email address.
+3. Reply to that automated email, and add the package owner that you
+   identified in the first step to the To line of the email.  Now,
+   you, npm support and the package owner are all on the email conversation.
+4. Explain the situation to the package owner **as respectfully as possible**,
+   as well as what you would like to see happen.
+   If you would like to be given control of the package, mention in the
+   email that the current owner can run `npm owner add <yourusername> foo`
+   to do so.
+3. After 4 weeks, if the owner has not responded, support will address your
+   request. The ultimate outcome is at their discretion and judgement.
 
 ### Organizations
 
 To dispute an organization name, follow these steps:
 
-1. Contact support@npmjs.com with the name of the organization, e.g. `@foo`.
+1. Open a support ticket at https://npmjs.com/support, indicating that
+   you dispute an organization name.  Include the name of the organization,
+   e.g. `@foo`.
 2. Support will contact the organization owner on your behalf requesting
    the transfer. They may at their discretion include you in this dialogue.
-3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+3. After 4 weeks, if the owner has not responded, support will address
+   your request. The ultimate outcome is at their discretion and judgement.
 
 ### User names
 
 To dispute a user name, follow these steps:
 
-1. Contact support@npmjs.com with the name of the user account, e.g. `@foo`
-2. Support will contact the user account owner on your behalf requesting the transfer. They may at their discretion include you in this dialogue.
-3. After 4 weeks, if the owner has not responded, support will address your request. The ultimate outcome is at their discretion and judgement.
+1. Open a support ticket at https://npmjs.com/support, indicating that
+   you dispute a user name.  Include the name of the user account,
+   e.g. `@foo`.
+2. Support will contact the user account owner on your behalf requesting
+   the transfer. They may at their discretion include you in this dialogue.
+3. After 4 weeks, if the owner has not responded, support will address
+   your request. The ultimate outcome is at their discretion and judgement.
 
 
 ## Reasoning
@@ -124,9 +141,9 @@ an organization has private packages, so a paid organization will
 never be considered squatted.
 
 Unlike users, organizations do not have an "owner" or published
-email address. If you believe an organization is squatted, email
-<support@npmjs.com> directly and we will make the determination 
-on your behalf.
+email address. If you believe an organization is squatted,
+[contact support](https://npmjs.com/support) directly and we will
+make the determination on your behalf.
 
 ### User names
 
