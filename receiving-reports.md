@@ -27,11 +27,14 @@ encourage things to continue in that direction.
 The policy in brief, where "Alice" is the original author, and "Yusuf"
 is the person with the dispute:
 
-1. Yusuf emails Alice, explaining the reasons for wanting the module
-   name, and CC's npm support.
-2. We set a timer for 4 weeks.  If that lands on a holiday or
+1. Yusuf opens a support ticket, indicating that they would like to
+   start the trasnfer process.
+2. Yusuf responds to the automated email that we generate for new
+   support tickets, and adds Alice to the email thread.  Yusuf explains
+   why they would want to transfer the module name.
+3. We set a timer for 4 weeks.  If that lands on a holiday or
    something, err on the side of making the delay longer.
-3. At this point, one of three things have happened:
+4. At this point, one of three things have happened:
 
     a. Alice and Yusuf have resolved the situation in a way that works
     for both of them.
@@ -89,8 +92,9 @@ leaving an abandoned module in npm, then do this:
         latest Node versions, whatever], so I'd like to hand it off to
         Yusuf to take over.
 
-        If this causes you any stress or inconvenience, please let me
-        know as soon as possible.
+        We'll hand this package over to Yusuf in one week.  Please let
+        us know if you intend to publish functional code before this
+        time.
 
 2. Set a timer for 1 week.
 3. If Alice responds with concerns, then use diplomacy.  Usually this
@@ -169,9 +173,8 @@ an email asking them to please stop the bad behavior.
 Here's an example:
 
     Subject: Empty/duplicate packages removed
-    From: Isaac Schlueter <isaacs@npmjs.com>
+    From: npm support <support@npmjs.com>
     To: Some User <some-user@gmail.com>
-    Cc: npm support <support@npmjs.com>
 
     Several empty and duplicated packages belonging to you were
     removed.

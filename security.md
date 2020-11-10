@@ -27,7 +27,7 @@ react appropriately to security threats when they arise.
 
 If you need to report a security vulnerability.  Please email
 [security@npmjs.com](mailto:security@npmjs.com). If your issue 
-is specific to your account, such as lost credentials, contacting [support@npmjs.com](mailto:support@npmjs.com) is more appropriate.
+is specific to your account, such as lost credentials, contacting [our support team](https://npmjs.com/support) is more appropriate.
 
 We review all security reports on the next business day.  Note that
 the npm staff is generally offline for most US holidays, but please do

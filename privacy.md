@@ -566,11 +566,10 @@ format, and packages as
 You can change your personal account data and payment card data at any
 time by visiting your account settings page on
 [www.npmjs.com](https://www.npmjs.com/). You can change
-account and payment data for Enterprise by [emailing
-support@npmjs.com](mailto:support@npmjs.com).
+account and payment data for Enterprise by [contacting support](https://npmjs.com/support).
 
 You can close your npm account at any time by e-mailing
-[support@npmjs.com](mailto:support@npmjs.com). Closing
+[contacting support](https://npmjs.com/support).  Closing
 your account removes the profile from the public registry but does not
 automatically erase packages published under your account. We may retain
 some data about you internally even where you close your account.

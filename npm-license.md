@@ -243,10 +243,9 @@ agreement.  By using npm, you acknowledge your agreement to all such policies
 and restrictions.
 
 If you have a complaint about a package in the public npm registry, and cannot
-resolve it with the package owner, please email support@npmjs.com and explain
-the situation.  See the [npm Dispute Resolution
-policy](https://github.com/npm/policies/blob/master/disputes.md) for more
-details.
+resolve it with the package owner, please
+[contact support](https://npmjs.com/support) and explain the situation.
+See the [npm Dispute Resolution policy](https://github.com/npm/policies/blob/master/disputes.md) for more details.
 
 Any data published to The npm Registry (including user account information) may
 be removed or modified at the sole discretion of the npm server administrators.
