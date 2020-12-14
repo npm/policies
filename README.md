@@ -13,7 +13,6 @@ These are the legal policies of npm, Inc.
 <li><a href="/policies/dmca">Copyright and DMCA Policy</a></li>
 <li><a href="/policies/trademark">Trademark Policy</a></li>
 <li><a href="/policies/security">Security</a></li>
-<li><a href="/policies/recruiting-process">Recruiting Process</a></li>
 <li><a href="/policies/crawlers">Replication and web crawler policy</a></li>
 <li><a href="/policies/domains">Our official list of domains</a></li>
 <li><a href="/what-is-npm">What is npm?</a></li>
