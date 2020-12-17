@@ -23,6 +23,6 @@
   "homepage": "https://github.com/npm/policies",
   "dependencies": {
     "marked": "^0.3.5",
-    "@npm/mkp": "^1.0.2"
+    "mkp": "^1.0.1"
   }
 }
