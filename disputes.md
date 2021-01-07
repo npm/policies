@@ -13,7 +13,7 @@ of the npm Code of Conduct or Open-Source Terms.
 ## tl;dr
 
 1. Get the author email with `npm owner ls <pkgname>`
-2. Open a support ticket at https://npmjs.com/support
+2. Open a support ticket at <https://npmjs.com/support>
 3. Reply to the support ticket email, adding the author on the `To`
    line so that both npm support and the author are now on the thread.
 4. Politely ask if the author will transfer the package.
@@ -54,7 +54,7 @@ To dispute a package called `foo`, follow these steps:
 
 1. Run `npm owner ls foo`.  This will give you the email address of
    an owner of `foo` (there may be more than one valid owner).
-2. Open a support ticket at https://npmjs.com/support, indicating that
+2. Open a support ticket at <https://npmjs.com/support>, indicating that
    you would like to start the process to request ownership of the `foo`
    package.  You will get an automated reply from npm support to your
    email address.
@@ -73,7 +73,7 @@ To dispute a package called `foo`, follow these steps:
 
 To dispute an organization name, follow these steps:
 
-1. Open a support ticket at https://npmjs.com/support, indicating that
+1. Open a support ticket at <https://npmjs.com/support>, indicating that
    you dispute an organization name.  Include the name of the organization,
    e.g. `@foo`.
 2. Support will contact the organization owner on your behalf requesting
@@ -85,7 +85,7 @@ To dispute an organization name, follow these steps:
 
 To dispute a user name, follow these steps:
 
-1. Open a support ticket at https://npmjs.com/support, indicating that
+1. Open a support ticket at <https://npmjs.com/support>, indicating that
    you dispute a user name.  Include the name of the user account,
    e.g. `@foo`.
 2. Support will contact the user account owner on your behalf requesting
