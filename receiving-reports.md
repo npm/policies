@@ -446,7 +446,8 @@ anger.)
 
 Whether or not a staffer agrees that a wrong was done to them, the
 user should be armed with an authority they can appeal to if talking
-wasn't enough. "Please email <abuse@npmjs.com>."
+wasn't enough. "Please open an abuse support ticket at
+<https://npmjs.com/support>"
 
 ## Evaluation
 

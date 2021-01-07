@@ -159,9 +159,9 @@ by a new user.
 
 If you think another npm publisher is infringing your trademark, such
 as by using a confusingly similar package, org, or user account name,
-email <abuse@npmjs.com> with a link to the package, org, or user account
-page on <https://npmjs.com>.  Attach a copy of your trademark registration
-certificate.
+open a support ticket at <https://npmjs.com/support> with a link to
+the package, org, or user account page on <https://npmjs.com>. Attach
+a copy of your trademark registration certificate.
 
 If we see that the user, org, or package publisher is intentionally
 misleading others by misusing your registered mark without permission,
