@@ -40,10 +40,6 @@ Any emails sent to <security@npmjs.com> will be escalated to the
 security point of contact, who will delegate incident response
 activities as appropriate. This is the best and fastest way to contact npm about any security-related matter.
 
-npm's Director of Security [Adam Baldwin](mailto:adam@npmjs.com) is the current point
-of contact for all security related escalations.
-
-
 ## Onboarding Developers
 
 All new technical hires are introduced to our security policy as part
