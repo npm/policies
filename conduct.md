@@ -14,7 +14,7 @@ tolerated.
 ## tl;dr
 
 * Be respectful.
-* We're here to help: <abuse@npmjs.com>
+* We're here to help
 * Abusive behavior is never tolerated.
 * Data published to npm is hosted at the discretion of the service
   administrators, and may be removed.
@@ -107,8 +107,8 @@ the form of violation:
   immediately compromised.
 
 * If you believe someone is harassing you or is demonstrating
-  some other form of malicious or inappropriate behavior, contact
-  <abuse@npmjs.com>. If this is the initial report of a problem,
+  some other form of malicious or inappropriate behavior, open a support
+  ticket at https://npmjs.com/support. If this is the initial report of a problem,
   please include as much detail as possible. It is easiest for us
   to address issues when we have more context.
 
@@ -153,8 +153,8 @@ most in the interest of fostering a safe and friendly community.
 
 ## Contact Info
 
-Please contact <abuse@npmjs.com> if you need to report a problem or
-address a grievance related to an abuse report.
+Please open a support ticket at <https://npmjs.com/support> if you need to
+report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about
 something that might be "on the line" between appropriate and
