@@ -15,7 +15,6 @@ These are the legal policies of npm, Inc.
 <li><a href="/security.md">Security</a></li>
 <li><a href="/crawlers.md">Replication and web crawler policy</a></li>
 <li><a href="/domains.md">Our official list of domains</a></li>
-<li><a href="https://github.com/npm/cli#npm1----a-javascript-package-manager">What is npm?</a></li>
 </ul>
 
 These are updated from time to time.  Their sources are stored in a git
