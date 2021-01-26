@@ -251,39 +251,6 @@ npm instructs [Stripe](https://stripe.com/) to store your
 payment card data only as long as you use paid npm services.
 
 
-### <a id="potential-customers">npm collects data about current and potential customers.</a>
-
-npm's sales and marketing teams collect information about npm users who
-might like to try npm paid services, as individuals or through
-organizations. npm also collects data about customer personnel, such as
-lists of people who need Enterprise registry accounts or access to
-channels for technical support. When npm's sales and marketing teams
-send email to current and potential customers, they collect data about
-whether those messages get read, and whether readers follow hyperlinks.
-
-npm's sales team also uses public World Wide Web searches and paid
-business databases to research who users work for, and their positions,
-based on account data like name or email address. The vast majority of
-this data is publicly available.
-
-npm uses data about current and potential customer personnel to:
-
--   ensure npm meets its obligations to provide access, support, and
-    other services under contracts for paid services
-
--   decide which people to contact about product announcements, service
-    changes, and new features
-
--   ensure that people who opt out do not receive any more messages
-    about npm services and upgrades
-
--   keep track of how users express interest in npm products and
-    services over time
-
--   decide who should receive email about product announcements, service
-    changes, and new features
-
-
 ### <a id="contact-data">npm collects data about correspondence.</a>
 
 npm collects data about you when you send npm support requests, legal
@@ -346,25 +313,18 @@ of service providers that npm uses include:
 
 ### <a id="cookies">npm uses cookies.</a>
 
-npm's website uses Google Analytics to collect and analyze data about
-visitors to its websites. You can read [the privacy policy for Google
-Analytics online](https://www.google.com/analytics/terms/).
-You can opt out of Google Analytics by installing a [free browser
-extension](https://tools.google.com/dlpage/gaoptout).
+npm's website only uses cookies strictly necessary to provide, optimize
+and secure the website. For example, we use them to keep you logged in,
+remember your preferences, authenticate your device for security
+purposes, analyze your use of the service, compile statistical reports,
+and provide information for future development of npm. The website uses
+internal cookies for analytics purposes, not any third-party analytics
+or service providers.
 
-npm uses
-[HubSpot](https://www.hubspot.com/?__hstc=72727564.758886f1679f717bea7f57a689d3944d.1582727448385.1582727448385.1582727448385.1&__hssc=72727564.1.1582727448386&__hsfp=1312878196)
-to track which parts of npm websites you visit so we know which updates
-and service email messages to send you. We also use HubSpot to track
-when you create accounts and Orgs, when you change Orgs from free to
-paid, and when you add seats to Orgs, in order to share tips on how to
-use Orgs, to send you marketing messages about the benefits of paid
-services, and to notify our sales team that you might want paid
-services. Finally, HubSpot collects data from forms on our website that
-you must fill out to access some marketing content. You can read [the
-privacy policy for HubSpot
-online](https://legal.hubspot.com/privacy-policy?__hstc=72727564.758886f1679f717bea7f57a689d3944d.1582727448385.1582727448385.1582727448385.1&__hssc=72727564.1.1582727448386&__hsfp=1312878196).
-
+By using the website, you agree that we can place these types of
+cookies on your computer or device. If you disable your browser or
+device’s ability to accept these cookies, you will not be able to log
+in or use the website.
 
 ## <a id="choice">How can I make choices about data collection?</a>
 
