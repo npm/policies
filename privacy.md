@@ -304,9 +304,6 @@ of service providers that npm uses include:
 
 -   Payment processors
 
--   Companies that assist us with marketing, such as to store data about
-    current and potential customers or to enable us to send email to users, such as newsletters
-
 -   Platforms to help us receive, manage, and respond to support requests
 
 -   Platforms for internal communication
