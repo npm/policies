@@ -25,9 +25,8 @@ react appropriately to security threats when they arise.
 
 ## Reporting Security Problems to npm
 
-If you need to report a security vulnerability.  Please email
-[security@npmjs.com](mailto:security@npmjs.com). If your issue 
-is specific to your account, such as lost credentials, contacting [our support team](https://npmjs.com/support) is more appropriate.
+If you need to report a security vulnerability.  Please visit [https://npmjs.com/support](https://npmjs.com/support).
+If your issue is specific to your account, such as lost credentials or problems with two-factor authentication, contacting [our support team](https://npmjs.com/support) is more appropriate.
 
 We review all security reports on the next business day.  Note that
 the npm staff is generally offline for most US holidays, but please do
@@ -36,8 +35,8 @@ issues, and will alert our security point of contact if needed.
 
 ## Security Point of Contact
 
-Any emails sent to <security@npmjs.com> will be escalated to the
-security point of contact, who will delegate incident response
+Any security tickets opened using [https://npmjs.com/support](https://npmjs.com/support)
+will be escalated to the security point of contact, who will delegate incident response
 activities as appropriate. This is the best and fastest way to contact npm about any security-related matter.
 
 ## Onboarding Developers
@@ -48,7 +47,7 @@ of the onboarding process.
 ## Separation of Duties and Authorization
 
 * Developers are only given access to key npm services when it's required for their job.
-* IAM is used to limit the permissions on AWS and Google Cloud accounts, minimizing the damage that would be incurred if an account is compromised. We use IAM services provided both by [AWS](https://aws.amazon.com/iam/) and [Google Cloud](https://cloud.google.com/iam/)
+* IAM is used to limit the permissions on accounts, minimizing the damage that would be incurred if an account is compromised.
 
 ## Critical Updates And Security Notices
 
@@ -57,7 +56,7 @@ variety of sources:
 
 * Ubuntu's security notices page: <https://usn.ubuntu.com/>
 * The Node.js mailing list.
-* The <security@npmjs.com> email address.
+* [Security tickets](https://npmjs.com/support) sent to us.
 * and other media sources.
 
 ### Ubuntu Automatic Security Updates
