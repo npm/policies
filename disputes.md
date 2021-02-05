@@ -20,13 +20,11 @@ of the npm Code of Conduct or Open-Source Terms.
 5. After 4 weeks, if there's no resolution, we'll address it.
 
 Don't squat on package names, user names or organization names.
-Publish code or move out of the way.
 
 ## When to use this process
 
 This process is an excellent way to:
 
-* Adopt an "abandoned" package
 * Adopt a package created from your project, published by someone else
 * Report "squatting"
 * Report a deliberately misleading or confusing package name
@@ -45,6 +43,11 @@ the Code of Conduct for guidelines on
 [reporting violations](https://www.npmjs.com/policies/conduct#reporting-violations-of-this-code-of-conduct).
 **You are never expected to resolve abusive behavior on your own.**
 **We are here to help.**
+
+## When not to use this process
+
+We are not currently accepting dispute requests to "adopt an abandoned 
+package" as we re-evaluate and update the overall dispute process.
 
 ## Beginning the process
 
@@ -153,7 +156,6 @@ for instance, you might be part of an organization or need read-only
 access to private packages. If a user has not logged into their account
 in a long time, we may consider transferring a name if it is requested
 by a new user.
-
 
 ## Trademarks
 
