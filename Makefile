@@ -5,7 +5,6 @@ marked = ./node_modules/.bin/marked
 all: html
 
 html: $(htmlfiles)
-	
 
 out/%.html: %.md $(marked)
 	@mkdir -p out
