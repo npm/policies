@@ -97,8 +97,7 @@ rules will be deleted, at the discretion of npm.
 Please select the method of contact you think is most appropriate for
 the form of violation:
 
-* For urgent security issues, contact <security@npmjs.com>. Note that
-  reset lost passwords are best handled by https://npmjs.com/support.
+* For urgent security issues, please open a ticket at <https://npmjs.com/support>.
   Requests to un-publish packages are not usually considered urgent security
   issues, as it is possible to [un-publish a package](https://docs.npmjs.com/cli/unpublish)
   within 24 hours of its first publish. Any publicly published package
