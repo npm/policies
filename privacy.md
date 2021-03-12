@@ -38,8 +38,8 @@ When you create an account, certain contact information is displayed
 publicly in the npm platform. And when you upload a package, your name
 and contact information may become associated with that package.
 
-If you find yourself in a jam, 
-[email privacy@npmjs.com](mailto:privacy@npmjs.com).
+If you find yourself in a jam,
+[open a support ticket](https://npmjs.com/support).
 
 
 ## <a id="collection">How does npm collect data about me?</a>
@@ -401,8 +401,8 @@ entitled to certain rights, like the right to:
 
 When you exercise your rights, npm may need to verify your identity and
 provide us with information before we access records containing your
-information. If you want to exercise your rights, please contact npm at
-[email privacy@npmjs.com](mailto:privacy@npmjs.com). We
+information. If you want to exercise your rights, please contact npm by
+[opening a support ticket](https://npmjs.com/support).  We
 may have a reason under the law why we do not have to comply with your
 request or may comply with it in a more limited way than you
 anticipated. If we do, we will explain that to you in our response.
@@ -473,8 +473,8 @@ Rights under CCPA:
     your deletion request or delete data in a more limited way than
     you anticipated, e.g., because of a legal obligation to retain it.
 
-To exercise your rights above, you can email us at
-[privacy@npmjs.com](mailto:privacy@npmjs.com). When we
+To exercise your rights above, you can
+[open a support ticket](https://npmjs.com/support).  When we
 process your request, we must verify your identity by asking you to
 (1) provide personal identifiers that we can match against information
 we may have collected from you previously; and (2) confirm your
@@ -538,8 +538,8 @@ publishing and hosting packages, others' reliance on what has been made
 public, and individual rights and freedoms.
 
 If another user improperly publishes personal data about you, in a
-package or otherwise, [email
-privacy@npmjs.com](mailto:privacy@npmjs.com).
+package or otherwise,
+[open a support ticket](https://npmjs.com/support).
 
 Please note that while [npm publishes notices about published data
 that's been erased](#erasure-notice),
@@ -560,8 +560,8 @@ Please see [our policy on "unpublishing" packages](https://www.npmjs.com/policie
 information on erasing packages].
 
 If you accidentally publish a package that threatens your privacy, or
-discover someone else has published a package that does, [email
-privacy@npmjs.com immediately](mailto:privacy@npmjs.com).
+discover someone else has published a package that does,
+[open a support ticket](https://npmjs.com/support).
 npm can and will take down packages in specific, exceptional situations
 to protect you, especially if others violate your privacy. Using npm to
 violate others' privacy is against our [terms of
@@ -602,9 +602,8 @@ than the age of 16, we will delete that information.
 
 ## <a id="contact">Who can I contact about npm and my privacy?</a>
 
-You may email us directly at [privacy@npmjs.com](mailto:privacy@npmjs.com)
-with the subject line "Privacy Concerns."  You may also contact our Data
-Protection Officer directly.
+Please [open a support ticket](https://npmjs.com/support).  You may also
+contact our Data Protection Officer directly.
 
 Our United States HQ:
 
