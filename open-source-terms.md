@@ -210,11 +210,10 @@ of unacceptable content:
    code that violates a public license for others' work.
 
 3. Content containing malicious computer code, such as computer viruses,
-   computer worms, rootkits, back doors, or spyware. This
-   includes content submitted for research purposes unless agreed to
-   in advance by npm. Tools designed and documented explicitly to
-   assist in security research are acceptable, but proof-of-concept
-   exploits are not.
+   computer worms, rootkits, back doors, or spyware. This includes content
+   submitted for research purposes. Tools designed and documented explicitly to
+   assist in security research are acceptable, but exploits and malware that
+   use the npm registry as a deployment or delivery vector are not.
 
 4. Packages that are not functionally compatible with the npm
    command-line client. For example, a "package" cannot simply be
