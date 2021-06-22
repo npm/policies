@@ -9,6 +9,9 @@ html: $(htmlfiles)
 out/%.html: %.md $(marked)
 	@mkdir -p out
 	$(marked) < $< > $@
+	@if [ $< = "README.md" ]; then\
+		sed -i '' -e 's#href="/#href="/policies/#g' -e 's/.md//g' $@;\
+	fi
 
 $(marked):
 	npm install
